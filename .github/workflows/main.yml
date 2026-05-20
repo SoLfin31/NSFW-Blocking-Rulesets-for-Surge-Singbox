@@ -1,5 +1,4 @@
 name: Update Surge Rules
-
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -11,26 +10,22 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Download and Convert Rules
         run: |
-          curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/nsfw-onlydomains.txt" 
-          | grep -v '^#' 
-          | grep -v '^$' 
-          | sed 's/^/DOMAIN,/' 
-          > surge-nsfw.txt
+          curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/nsfw-onlydomains.txt" \
+            | grep -v '^#' \
+            | grep -v '^$' \
+            | sed 's/^/DOMAIN,/' \
+            > surge-nsfw.txt
 
       - name: Commit Changes
         run: |
           git config user.name github-actions
-          git config user.email [github-actions@github.com](mailto:github-actions@github.com)
-
+          git config user.email github-actions@github.com
           git add surge-nsfw.txt
           git commit -m "Auto update Surge rules" || echo "No changes"
-
           git push
-
