@@ -1,4 +1,4 @@
-//      keyword    //
+
 keyword,wn0
 keyword,asmr
 keyword,av
@@ -19,7 +19,6 @@ keyword,xhamster
 
 
 
-//      domain    //
 18h.to
 91cg1.com
 amdcomic.net
