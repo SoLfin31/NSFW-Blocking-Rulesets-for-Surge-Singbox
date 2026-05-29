@@ -1,5 +1,3 @@
-DOMAIN,//      domain    //
-DOMAIN,//      keyword    //
 DOMAIN,0-degreesexhibitions.co.uk
 DOMAIN,0-sex.nl
 DOMAIN,0000180.fortunecity.ws
