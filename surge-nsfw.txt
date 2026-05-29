@@ -6470,7 +6470,6 @@ DOMAIN,bagheera.centerblog.net
 DOMAIN,bahadur.com.pk
 DOMAIN,bahiaescorts.com
 DOMAIN,bahutfilmy.com
-DOMAIN,baidu.com
 DOMAIN,baihubi.com
 DOMAIN,baihudh.com
 DOMAIN,baileyjayblog.com
@@ -78217,6 +78216,7 @@ DOMAIN,wnacg01.link
 DOMAIN,wnacg02.link
 DOMAIN,wnaslr.cyou
 DOMAIN,wngay.vip
+DOMAIN,wnlink.ru
 DOMAIN,woaihi.cfd
 DOMAIN,woaihi.cyou
 DOMAIN,woaihi.sbs
@@ -84600,4 +84600,4 @@ DOMAIN,zzzxxx183.cc
 DOMAIN,zzzxxxx.shop
 DOMAIN,zzzxxxx33.com
 DOMAIN,zzzzsextou.com
-DOMAIN-KEYWORD,youku
+DOMAIN-KEYWORD,wn0
