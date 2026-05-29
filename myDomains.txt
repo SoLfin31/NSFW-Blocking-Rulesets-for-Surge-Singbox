@@ -1,2 +1,2 @@
-keyworkd,youku
+keyword,youku
 baidu.com
