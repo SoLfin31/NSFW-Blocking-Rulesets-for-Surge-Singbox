@@ -85536,7 +85536,6 @@ DOMAIN,youthsexuality.com
 DOMAIN,youthsportsexplained.com
 DOMAIN,youtrannytube.com
 DOMAIN,youtube-ru.com
-DOMAIN,youtube.com
 DOMAIN,youtube23.com
 DOMAIN,youtubedoubler.com
 DOMAIN,youtubelike.com
