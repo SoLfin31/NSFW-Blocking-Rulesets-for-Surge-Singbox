@@ -1,5 +1,8 @@
 ## 屏蔽NSFW网站 Blocking NSFW Sites Using Surge and SingBox
 
+### Github WorkFlow
+[.github/workflows/main.yml](main.yml)
+
 ### 规则集文件（每天更新） Rule sets file(Update daily)
 #### Sing-Box
 [singbox-nsfw.json](singbox-nsfw.json)
