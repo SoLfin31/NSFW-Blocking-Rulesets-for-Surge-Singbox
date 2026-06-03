@@ -3,6 +3,7 @@
 #       URL | class    ← 指定其他 class
 
 https://xx.net/
+https://xx-map.com/, a.hitout
 
 
 # 如果目标站点有分页，每页单独一行：
