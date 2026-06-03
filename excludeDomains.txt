@@ -1,0 +1,6 @@
+# exclude.txt
+# 在这里添加你不希望被拦截的域名（防止误杀）
+
+youtube.com
+google.com
+github.com
