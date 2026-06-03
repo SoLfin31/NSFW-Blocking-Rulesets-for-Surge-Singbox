@@ -14328,6 +14328,7 @@ DOMAIN,d3smcx1ckyjfrg.cloudfront.net
 DOMAIN,d44.icu
 DOMAIN,d6shiiwz.pw
 DOMAIN,d7223.com
+DOMAIN,d963.tbhgicmlf.com
 DOMAIN,da-hostel.ru
 DOMAIN,da88.porn
 DOMAIN,dabitches.com
@@ -17754,7 +17755,6 @@ DOMAIN,e4er.com
 DOMAIN,e621.net
 DOMAIN,e66sextou.com
 DOMAIN,e6ai.net
-DOMAIN,e6e8.ppdchhmi.cc
 DOMAIN,e6ma.com
 DOMAIN,e6t7fnz.com
 DOMAIN,e926.net
@@ -20654,13 +20654,13 @@ DOMAIN,f1girls.com
 DOMAIN,f1ix.com
 DOMAIN,f212.fr
 DOMAIN,f2f.net
+DOMAIN,f2f9.talqlkdh.cc
 DOMAIN,f2haf1gaytzd3vb.top
 DOMAIN,f3.to
 DOMAIN,f3gayy2gdft5d6.xyz
 DOMAIN,f65sextou.com
 DOMAIN,f6top01.xyz
 DOMAIN,f6xx.com
-DOMAIN,f74.chkpuwwn.cc
 DOMAIN,f75sextou.com
 DOMAIN,f8movie.com
 DOMAIN,f95zone.to
@@ -86277,7 +86277,6 @@ DOMAIN,花开富贵.booyu.sbs
 DOMAIN,花晨月夕.simi.help
 DOMAIN,辙掺轴晦熬.0000330.xyz
 DOMAIN-KEYWORD,asmr
-DOMAIN-KEYWORD,av
 DOMAIN-KEYWORD,comic
 DOMAIN-KEYWORD,dtjm
 DOMAIN-KEYWORD,fpoxxx
