@@ -1,84 +1,83 @@
 name: Update Surge and Sing-box Rules
-
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+
+      # ── 新增：Python 环境 ──────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4
+      # ────────────────────────────────────────────────────
 
       - name: Download and Convert Rules
         run: |
           # 1. 初始化临时文件
           touch domains.txt keywords.txt
 
-          # 2. 下载原始上游域名列表 (追加到 domains.txt)
+          # 2. 下载上游域名列表
           curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/nsfw-onlydomains.txt" \
             | grep -v '^#' \
             | grep -v '^$' \
             >> domains.txt
 
-          # 3. 解析自定义的 myDomains.txt (进行域名与关键字分流)
+          # 3. 解析 myDomains.txt
           if [ -f "myDomains.txt" ]; then
-            echo "发现 myDomains.txt，正在分类提取普通域名与关键字..."
-            
-            # 提取关键字规则 (不区分大小写匹配 keyword,，并截取关键字)
+            echo "发现 myDomains.txt，正在分类提取..."
             grep -i '^keyword,' myDomains.txt | cut -d',' -f2 >> keywords.txt
-            
-            # 提取普通域名 (排除 keyword, 开头的行、注释和空行)
             grep -v -i '^keyword,' myDomains.txt | grep -v '^#' | grep -v '^$' >> domains.txt
           fi
 
-          # 4. 去重和重新排序
+          # 4. ── 新增：从目标网站抓取域名 ──────────────
+          if [ -f "scrapeUrls.txt" ]; then
+            echo "发现 scrapeUrls.txt，启动网站抓取..."
+            python3 scrape_domains.py
+          fi
+          # ────────────────────────────────────────────────
+
+          # 5. 去重排序
           sort -u domains.txt -o domains.txt
           sort -u keywords.txt -o keywords.txt
 
-          # 5. 生成 Surge 规则
+          # 6. 生成 Surge 规则
           sed 's/^/DOMAIN,/' domains.txt > surge-nsfw.txt
           if [ -s keywords.txt ]; then
             sed 's/^/DOMAIN-KEYWORD,/' keywords.txt >> surge-nsfw.txt
           fi
 
-          # 6. 生成 Sing-box 规则集 (JSON 格式) - 修复参数过长问题
-          # 6.1 先将纯文本域名转存为独立的 JSON 数组文件
+          # 7. 生成 Sing-box 规则集
           jq -R . domains.txt | jq -s . > domains_array.json
-          
-          # 6.2 根据是否有关键字分别处理
           if [ -s keywords.txt ]; then
-            # 如果有关键字，先转存为独立的 JSON 数组文件
             jq -R . keywords.txt | jq -s . > keywords_array.json
-            
-            # 使用 --slurpfile 直接从文件读取 JSON 数组 (避开命令行长度限制)
             jq -n \
               --slurpfile d domains_array.json \
               --slurpfile k keywords_array.json \
               '{version: 1, rules: [{domain_suffix: $d[0]}, {domain_keyword: $k[0]}]}' > singbox-nsfw.json
           else
-            # 如果没有关键字，只读取域名的 JSON 数组文件
             jq -n \
               --slurpfile d domains_array.json \
               '{version: 1, rules: [{domain_suffix: $d[0]}]}' > singbox-nsfw.json
           fi
 
-          # 7. 删除所有临时文件 (使用 -f 防止部分文件不存在时报错)
+          # 8. 清理临时文件
           rm -f domains.txt keywords.txt domains_array.json keywords_array.json
 
       - name: Commit Changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-
           git add surge-nsfw.txt singbox-nsfw.json
-
           git commit -m "Auto update rules with custom domains and keywords" || echo "No changes"
-
           git push
