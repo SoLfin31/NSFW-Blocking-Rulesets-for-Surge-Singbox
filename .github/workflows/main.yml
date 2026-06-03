@@ -50,12 +50,12 @@ jobs:
           # 5. 去重排序
           sort -u domains.txt -o domains.txt
           sort -u keywords.txt -o keywords.txt
-          # 5.5 ── 新增：排除 exclude.txt 中的白名单 ──────────
-          if [ -f "exclude.txt" ]; then
-            echo "发现 exclude.txt，正在移除白名单项..."
+          # 5.5 ── 新增：排除 excludeDomains.txt 中的白名单 ──────────
+          if [ -f "excludeDomains.txt" ]; then
+            echo "发现 excludeDomains.txt，正在移除白名单项..."
             
-            # 清理 exclude.txt（去掉注释和空行），生成纯净的对比文件
-            grep -v '^#' exclude.txt | grep -v '^$' > pure_exclude.txt || true
+            # 清理 excludeDomains.txt（去掉注释和空行），生成纯净的对比文件
+            grep -v '^#' excludeDomains.txt | grep -v '^$' > pure_exclude.txt || true
             
             if [ -s pure_exclude.txt ]; then
               # 使用 grep 从 domains.txt 中精确剔除匹配的行
