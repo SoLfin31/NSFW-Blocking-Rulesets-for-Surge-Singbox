@@ -1,0 +1,10 @@
+# 每行一个目标页面 URL
+# 格式：URL            ← 使用默认 class "visit-icon"
+#       URL | class    ← 指定其他 class
+
+https://your-target-site.com/nav-page
+https://another-site.com/links | external-link
+
+# 如果目标站点有分页，每页单独一行：
+# https://your-target-site.com/page/2
+# https://your-target-site.com/page/3
