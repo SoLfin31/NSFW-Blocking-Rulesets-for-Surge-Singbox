@@ -1,5 +1,11 @@
 ## 屏蔽NSFW网站 Blocking NSFW Sites Using Surge and SingBox
 
+### 规则集文件（每天更新） Rule sets file(Update daily)
+#### Sing-Box
+[singbox-nsfw.json](singbox-nsfw.json)
+#### Surge
+[surge-nsfw.txt](surge-nsfw.txt)
+
 ### 主要规则组来源 Main rule set source
 https://github.com/hagezi/dns-blocklists#nsfw
 
