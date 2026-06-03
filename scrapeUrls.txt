@@ -4,7 +4,7 @@
 
 https://xx.net/
 https://xx-map.com/ | hitout
-
+https://www.zavdh67.com/ | webbox_list
 
 # 如果目标站点有分页，每页单独一行：
 # https://your-target-site.com/page/2
