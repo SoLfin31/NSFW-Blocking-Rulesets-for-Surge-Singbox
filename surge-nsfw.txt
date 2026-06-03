@@ -6119,6 +6119,7 @@ DOMAIN,avgle.com
 DOMAIN,avgle.mobi
 DOMAIN,avgle.pro
 DOMAIN,avgod.club
+DOMAIN,avgood.com
 DOMAIN,avhd101.com
 DOMAIN,avhdxx.com
 DOMAIN,avhl4.beer
@@ -82071,6 +82072,7 @@ DOMAIN,xsub.lol
 DOMAIN,xsuperjav.com
 DOMAIN,xsxxx.app
 DOMAIN,xsyka.com
+DOMAIN,xsz-av.com
 DOMAIN,xszav.club
 DOMAIN,xszav1.com
 DOMAIN,xtales.club
