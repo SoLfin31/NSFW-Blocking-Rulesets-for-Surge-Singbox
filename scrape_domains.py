@@ -3,129 +3,167 @@
 从网站抓取 NSFW 域名，追加到 domains.txt
 
 scrapeUrls.txt 格式：
-  https://example.com              ← 使用默认 class "visit-icon"
+  https://example.com            ← 使用默认 class "visit-icon"
   https://example.com | my-class   ← 指定自定义 class
   # 这是注释行，会被跳过
 """
-import os
+
+import sys
+import time
 import re
-from urllib.parse import urlparse
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
-def extract_clean_domain(target_string):
-    """
-    Cleans up a string (URL or text) and extracts just the valid domain name.
-    """
-    if not target_string:
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": "https://www.google.com/",
+}
+
+DEFAULT_CLASS = "visit-icon"
+URLS_FILE     = "scrapeUrls.txt"
+OUTPUT_FILE   = "domains.txt"
+REQUEST_DELAY = 1.5   # 相邻请求间隔（秒），避免对目标服务器造成压力
+
+
+# ── 工具函数 ──────────────────────────────────────────────
+
+def extract_domain(href: str) -> str | None:
+    """从 href 或纯文本中提取规范化的裸域名，失败返回 None。"""
+    if not href:
+        return None
+    href = href.strip()
+    if href.startswith(("#", "javascript:", "mailto:")):
         return None
         
-    target_string = target_string.strip().lower()
-    
-    if target_string.startswith('//'):
-        target_string = 'http:' + target_string
+    # 兼容处理：如果没有协议头（例如纯文本 "example.com"），补全它以便 urlparse 正常工作
+    if not href.startswith(("http://", "https://", "//")):
+        href = "http://" + href
         
-    if target_string.startswith(('http://', 'https://')):
-        parsed = urlparse(target_string)
-        domain = parsed.netloc
-    else:
-        if '/' in target_string:
-            parsed = urlparse('http://' + target_string)
-            domain = parsed.netloc
-        else:
-            domain = target_string
+    try:
+        netloc = urlparse(href).netloc
+        if not netloc:
+            return None
+        # 去掉端口，转小写，去掉 www. 前缀
+        domain = netloc.split(":")[0].lower()
+        if domain.startswith("www."):
+            domain = domain[4:]
+            
+        # 简单验证：必须包含点号，避免提取出无效字符串
+        if "." in domain:
+            return domain
+        return None
+    except Exception:
+        return None
 
-    domain = domain.split(':')[0]
+
+def scrape_page(url: str, css_class: str = DEFAULT_CLASS) -> set[str]:
+    """抓取单个页面，提取容器内的所有域名；失败时返回空集合。"""
+    print(f"    请求: {url}  [class='{css_class}']")
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=30, allow_redirects=True)
+        resp.raise_for_status()
+        resp.encoding = resp.apparent_encoding # 防止乱码
+    except requests.exceptions.Timeout:
+        print(f"    ✗ 超时", file=sys.stderr)
+        return set()
+    except requests.exceptions.HTTPError as e:
+        print(f"    ✗ HTTP {e.response.status_code}", file=sys.stderr)
+        return set()
+    except requests.exceptions.RequestException as e:
+        print(f"    ✗ 请求失败: {e}", file=sys.stderr)
+        return set()
+
+    soup = BeautifulSoup(resp.text, "html.parser")
     
-    if domain.startswith('www.'):
-        domain = domain[4:]
+    # 获取所有包含该 class 的元素（可能是 <a>，也可能是 <div> / <ul> 等容器）
+    elements = soup.find_all(class_=css_class)
+    domains: set[str] = set()
+    
+    # 匹配标准域名的正则表达式（用于兜底纯文本）
+    domain_pattern = re.compile(r'(?:[a-zA-Z0-9](?:[a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}')
 
-    # Strict regex check to ensure it's a valid domain format
-    domain_regex = re.compile(r'^([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}$')
-    if domain_regex.match(domain):
-        return domain
-        
-    return None
+    for el in elements:
+        # 策略 1: 提取元素内部所有的 <a> 标签
+        links = el.find_all("a")
+        # 如果元素本身就是 <a> 标签，也一并加入处理
+        if el.name == "a":
+            links.append(el)
+            
+        for tag in links:
+            domain = extract_domain(tag.get("href", ""))
+            if domain:
+                domains.add(domain)
+                
+        # 策略 2: 兜底处理纯文本（如果域名是作为普通文本写在 html 里的）
+        text_content = el.get_text(separator=" ")
+        for match in domain_pattern.findall(text_content):
+            domain = extract_domain(match)
+            if domain:
+                domains.add(domain)
 
-def main():
-    if not os.path.exists('scrapeUrls.txt'):
-        print("未找到 scrapeUrls.txt")
+    return domains
+
+
+def parse_urls_file(path: str) -> list[tuple[str, str]]:
+    """
+    解析配置文件，返回 [(url, css_class), ...] 列表。
+    格式：每行 "URL" 或 "URL | class"，# 开头为注释。
+    """
+    entries: list[tuple[str, str]] = []
+    try:
+        with open(path, encoding="utf-8") as f:
+            for raw in f:
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if "|" in line:
+                    url_part, class_part = line.split("|", 1)
+                    entries.append((url_part.strip(), class_part.strip()))
+                else:
+                    entries.append((line, DEFAULT_CLASS))
+    except FileNotFoundError:
+        # 文件不存在时静默退出，不中断 CI
+        print(f"未找到 {path}，跳过网站抓取步骤。", file=sys.stderr)
+    return entries
+
+
+# ── 主流程 ────────────────────────────────────────────────
+
+def main() -> None:
+    entries = parse_urls_file(URLS_FILE)
+    if not entries:
+        print("scrapeUrls.txt 中无有效条目，退出。")
         return
 
-    with open('scrapeUrls.txt', 'r', encoding='utf-8') as f:
-        lines = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+    all_domains: set[str] = set()
+    total = len(entries)
 
-    all_scraped_domains = []
-    total_urls = len(lines)
+    for i, (url, css_class) in enumerate(entries, start=1):
+        print(f"[{i}/{total}] 抓取: {url}")
+        found = scrape_page(url, css_class)
+        print(f"    → 找到 {len(found)} 个域名")
+        all_domains.update(found)
 
-    for idx, line in enumerate(lines, 1):
-        # Support both "|" and " " split formats just in case
-        if '|' in line:
-            url, css_class = line.split('|', 1)
-        elif ',' in line:
-            url, css_class = line.split(',', 1)
-        else:
-            url = line
-            css_class = 'visit-icon'
-            
-        url = url.strip()
-        css_class = css_class.strip()
-        
-        print(f"[{idx}/{total_urls}] 抓取: {url}")
-        print(f"    请求: {url}  [class='{css_class}']")
+        if i < total:
+            time.sleep(REQUEST_DELAY)
 
-        try:
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-            }
-            response = requests.get(url, headers=headers, timeout=15)
-            response.raise_for_status()
-            response.encoding = response.apparent_encoding
-            
-            soup = BeautifulSoup(response.text, 'html.parser')
-            elements = soup.find_all(class_=css_class)
-            
-            site_domains = []
-            for el in elements:
-                # ── 核心升级：深度提取容器内部数据 ──────────────────
-                
-                # 1. 寻找容器内所有的 <a> 标签链接
-                inner_links = el.find_all('a')
-                if inner_links:
-                    for link in inner_links:
-                        target = link.get('href') or link.text
-                        clean_domain = extract_clean_domain(target)
-                        if clean_domain:
-                            site_domains.append(clean_domain)
-                
-                # 2. 如果容器内是纯文本或者错综复杂的排版，使用正则抓取所有域名格式的字符串
-                # 这个正则可以完美捞出文本中形如 "abc.com" 或 "xyz.net" 的内容
-                text_matches = re.findall(r'(?:[a-zA-Z0-9](?:[a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}', el.text)
-                for match in text_matches:
-                    clean_domain = extract_clean_domain(match)
-                    if clean_domain:
-                        site_domains.append(clean_domain)
-                        
-                # 3. 保底兜底：如果是扁平元素，直接处理元素本身
-                if not inner_links and not text_matches:
-                    target = el.get('href') or el.text
-                    clean_domain = extract_clean_domain(target)
-                    if clean_domain:
-                        site_domains.append(clean_domain)
-            
-            unique_site_domains = list(set(site_domains))
-            print(f"    → 找到 {len(unique_site_domains)} 个域名")
-            all_scraped_domains.extend(unique_site_domains)
+    if not all_domains:
+        print("⚠ 未抓取到任何域名。", file=sys.stderr)
+        return
 
-        except Exception as e:
-            print(f"    ❌ 抓取失败 {url}: {e}")
+    with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+        for domain in sorted(all_domains):
+            f.write(domain + "\n")
 
-    if all_scraped_domains:
-        all_scraped_domains = list(set(all_scraped_domains))
-        with open('domains.txt', 'a', encoding='utf-8') as f:
-            for domain in all_scraped_domains:
-                f.write(f"{domain}\n")
-        print(f"\n✓ 合计 {len(all_scraped_domains)} 个域名已追加至 domains.txt")
+    print(f"\n✓ 合计 {len(all_domains)} 个域名已追加至 {OUTPUT_FILE}")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
