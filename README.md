@@ -10,7 +10,7 @@
 [surge-nsfw.txt](surge-nsfw.txt)
 
 ### 主要规则组来源 Main rule set source
-https://github.com/hagezi/dns-blocklists#nsfw
+https://github.com/Bon-Appetit/porn-domains
 
 ### 自定义规则组 Custom rule sets
 adding in myDomains.txt
