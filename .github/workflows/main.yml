@@ -28,7 +28,7 @@ jobs:
           touch domains.txt keywords.txt
 
           # 2. 下载上游域名列表
-          curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/nsfw-onlydomains.txt" \
+          curl -L "https://raw.githubusercontent.com/Bon-Appetit/porn-domains/refs/heads/main/block.72d411307b.8gv94i.txt" \
             | grep -v '^#' \
             | grep -v '^$' \
             >> domains.txt
