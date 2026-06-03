@@ -7,7 +7,6 @@ keyword,hanime
 keyword,hentai
 keyword,jable
 keyword,jav
-keyword,av
 keyword,jm
 keyword,madou
 keyword,pd365
