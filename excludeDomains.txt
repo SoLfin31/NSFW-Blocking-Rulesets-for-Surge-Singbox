@@ -4,3 +4,4 @@
 youtube.com
 google.com
 github.com
+vatars.githubusercontent.com
