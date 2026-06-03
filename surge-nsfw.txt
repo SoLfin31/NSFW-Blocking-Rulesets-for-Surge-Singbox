@@ -1306,7 +1306,6 @@ DOMAIN,53asextou.com
 DOMAIN,53esextou.com
 DOMAIN,53x.ca
 DOMAIN,54caoaa.com
-DOMAIN,54d4.kbfiomfd.xyz
 DOMAIN,54e.ru
 DOMAIN,54f9hs.com
 DOMAIN,5500betsextou.com
@@ -21767,6 +21766,7 @@ DOMAIN,feyanovosib-ulf.com
 DOMAIN,feysam.net
 DOMAIN,ff-xxx.top
 DOMAIN,ff555sextou.com
+DOMAIN,ff6a.hvwbcahl.cc
 DOMAIN,ff77sextou.com
 DOMAIN,ff999sextou.com
 DOMAIN,ffadultsonly.com
@@ -86277,7 +86277,6 @@ DOMAIN,花开富贵.booyu.sbs
 DOMAIN,花晨月夕.simi.help
 DOMAIN,辙掺轴晦熬.0000330.xyz
 DOMAIN-KEYWORD,asmr
-DOMAIN-KEYWORD,av
 DOMAIN-KEYWORD,comic
 DOMAIN-KEYWORD,dtjm
 DOMAIN-KEYWORD,fpoxxx
