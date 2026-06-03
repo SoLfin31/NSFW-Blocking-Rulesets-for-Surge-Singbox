@@ -14,3 +14,6 @@ adding in myDomains.txt
 
 ### 从网站集合/网站导航抓取规则 Scrape rule sets from nsfw collection website
 adding in scrapeUrls.txt
+
+### 排除域名 Exclude domains from final rule set
+adding in excludeDomains.txt 
