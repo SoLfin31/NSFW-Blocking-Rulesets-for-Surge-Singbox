@@ -1,10 +1,13 @@
 name: Update Surge and Sing-box Rules
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -12,7 +15,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # ── 新增：Python 环境 ──────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -20,49 +22,61 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install requests beautifulsoup4
-      # ────────────────────────────────────────────────────
 
       - name: Download and Convert Rules
         run: |
-          # 1. 初始化临时文件
           touch domains.txt keywords.txt
 
-          # 2. 下载上游域名列表
-          curl -L "https://raw.githubusercontent.com/Bon-Appetit/porn-domains/refs/heads/main/block.72d411307b.8gv94i.txt" \
+          # ── 动态获取 block.*.*.txt 文件名 ──────────────────────────
+          echo "正在查询 Bon-Appetit/porn-domains 仓库文件列表..."
+
+          BLOCK_FILE=$(curl -sf \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/Bon-Appetit/porn-domains/contents/" \
+            | jq -r '.[].name' \
+            | grep -E '^block\.[a-zA-Z0-9]+\.[a-zA-Z0-9]+\.txt$' \
+            | head -n 1)
+
+          if [ -z "$BLOCK_FILE" ]; then
+            echo "❌ 错误：未找到匹配 block.*.*.txt 的文件，终止任务。"
+            exit 1
+          fi
+
+          echo "✅ 找到目标文件：$BLOCK_FILE"
+
+          curl -L \
+            "https://raw.githubusercontent.com/Bon-Appetit/porn-domains/main/$BLOCK_FILE" \
             | grep -v '^#' \
             | grep -v '^$' \
             >> domains.txt
+          # ──────────────────────────────────────────────────────────────
 
-          # 3. 解析 myDomains.txt
+          # 解析 myDomains.txt
           if [ -f "myDomains.txt" ]; then
             echo "发现 myDomains.txt，正在分类提取..."
             grep -i '^keyword,' myDomains.txt | cut -d',' -f2 >> keywords.txt
             grep -v -i '^keyword,' myDomains.txt | grep -v '^#' | grep -v '^$' >> domains.txt
           fi
 
-          # 4. ── 新增：从目标网站抓取域名 ──────────────
+          # 从目标网站抓取域名
           if [ -f "scrapeUrls.txt" ]; then
             echo "发现 scrapeUrls.txt，启动网站抓取..."
             python3 scrape_domains.py
           fi
-          # ────────────────────────────────────────────────
 
-          # 5. 去重排序
+          # 去重排序
           sort -u domains.txt -o domains.txt
           sort -u keywords.txt -o keywords.txt
-          # 5.5 ── 新增：排除 excludeDomains.txt 中的白名单 ──────────
+
+          # 排除白名单
           if [ -f "excludeDomains.txt" ]; then
             echo "发现 excludeDomains.txt，正在移除白名单项..."
-            
-            # 清理 excludeDomains.txt（去掉注释和空行），生成纯净的对比文件
             grep -v '^#' excludeDomains.txt | grep -v '^$' > pure_exclude.txt || true
-            
+
             if [ -s pure_exclude.txt ]; then
-              # 使用 grep 从 domains.txt 中精确剔除匹配的行
               grep -Fvxf pure_exclude.txt domains.txt > temp_domains.txt || true
               mv temp_domains.txt domains.txt
-              
-              # 如果有 keyword 规则，也对其进行白名单过滤
+
               if [ -s keywords.txt ]; then
                 grep -Fvxf pure_exclude.txt keywords.txt > temp_keywords.txt || true
                 mv temp_keywords.txt keywords.txt
@@ -70,29 +84,30 @@ jobs:
             fi
             rm -f pure_exclude.txt
           fi
-          # ────────────────────────────────────────────────
-          
-          # 6. 生成 Surge 规则
+
+          # 生成 Surge 规则
           sed 's/^/DOMAIN,/' domains.txt > surge-nsfw.txt
           if [ -s keywords.txt ]; then
             sed 's/^/DOMAIN-KEYWORD,/' keywords.txt >> surge-nsfw.txt
           fi
 
-          # 7. 生成 Sing-box 规则集
+          # 生成 Sing-box 规则集
           jq -R . domains.txt | jq -s . > domains_array.json
           if [ -s keywords.txt ]; then
             jq -R . keywords.txt | jq -s . > keywords_array.json
             jq -n \
               --slurpfile d domains_array.json \
               --slurpfile k keywords_array.json \
-              '{version: 1, rules: [{domain_suffix: $d[0]}, {domain_keyword: $k[0]}]}' > singbox-nsfw.json
+              '{version: 1, rules: [{domain_suffix: $d[0]}, {domain_keyword: $k[0]}]}' \
+              > singbox-nsfw.json
           else
             jq -n \
               --slurpfile d domains_array.json \
-              '{version: 1, rules: [{domain_suffix: $d[0]}]}' > singbox-nsfw.json
+              '{version: 1, rules: [{domain_suffix: $d[0]}]}' \
+              > singbox-nsfw.json
           fi
 
-          # 8. 清理临时文件
+          # 清理临时文件
           rm -f domains.txt keywords.txt domains_array.json keywords_array.json
 
       - name: Commit Changes
