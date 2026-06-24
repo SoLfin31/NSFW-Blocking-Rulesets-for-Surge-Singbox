@@ -6,3 +6,4 @@ google.com
 github.com
 reddit.com
 xiaohongshu.com
+mypikpak.com
