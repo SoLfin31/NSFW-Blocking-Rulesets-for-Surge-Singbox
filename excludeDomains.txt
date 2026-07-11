@@ -9,3 +9,4 @@ xiaohongshu.com
 mypikpak.com
 wikipedia.org
 github.io
+discord.com
