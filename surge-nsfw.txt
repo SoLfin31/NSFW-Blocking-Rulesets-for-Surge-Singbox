@@ -176405,7 +176405,6 @@ DOMAIN,nazran-dd.com
 DOMAIN,nazranlust.com
 DOMAIN,nazransm.com
 DOMAIN,nazwa.com
-DOMAIN,nb-3377.com
 DOMAIN,nb-belgorod.net
 DOMAIN,nb-chelyabinsk.net
 DOMAIN,nb-ekaterinburg.net
@@ -217742,7 +217741,6 @@ DOMAIN,q341.com
 DOMAIN,q345cd.com
 DOMAIN,q346.com
 DOMAIN,q376.com
-DOMAIN,q37fr3.com
 DOMAIN,q3c.top
 DOMAIN,q3sk.video
 DOMAIN,q3wl7to.com
@@ -217799,6 +217797,7 @@ DOMAIN,q8y.top
 DOMAIN,q901.com
 DOMAIN,q914.com
 DOMAIN,q984.com
+DOMAIN,q98pq6.com
 DOMAIN,q994.com
 DOMAIN,q9xb.top
 DOMAIN,qa-china.com
@@ -225493,6 +225492,7 @@ DOMAIN,rydenarmani.com
 DOMAIN,ryderskye.com
 DOMAIN,ryesun.com
 DOMAIN,ryh707.sbs
+DOMAIN,ryk18.com
 DOMAIN,rykinastol.com
 DOMAIN,ryleighmont.privatefeeds.club
 DOMAIN,rylskyart.com
@@ -289167,7 +289167,6 @@ DOMAIN,x-zine.de
 DOMAIN,x-zoo.top
 DOMAIN,x.adult-empire.com
 DOMAIN,x.co
-DOMAIN,x.com
 DOMAIN,x.sextop1.life
 DOMAIN,x.uzbek-porno.ru
 DOMAIN,x.xxxbule.com
