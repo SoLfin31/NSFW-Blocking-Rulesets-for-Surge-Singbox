@@ -11,3 +11,4 @@ wikipedia.org
 github.io
 discord.com
 discord.gg
+x.com
