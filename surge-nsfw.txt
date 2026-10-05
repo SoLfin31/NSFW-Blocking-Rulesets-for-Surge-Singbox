@@ -1334,7 +1334,6 @@ DOMAIN,0q02r.cn
 DOMAIN,0q1hrx.garden
 DOMAIN,0q4.cc
 DOMAIN,0q581ut.garden
-DOMAIN,0qck.cc
 DOMAIN,0qdq7o.garden
 DOMAIN,0qo2cb2c.sbs
 DOMAIN,0qp.xyz
@@ -1429,6 +1428,9 @@ DOMAIN,1-800-freesex.com
 DOMAIN,1-800-fuckgirls.com
 DOMAIN,1-800-fucksex.com
 DOMAIN,1-800-gangbang.com
+DOMAIN,1-800-gay.com
+DOMAIN,1-800-gay.net
+DOMAIN,1-800-gaymen.com
 DOMAIN,1-800-get-girls.com
 DOMAIN,1-800-getgirls.com
 DOMAIN,1-800-getsexy.com
@@ -1732,7 +1734,6 @@ DOMAIN,1024pp.com
 DOMAIN,1024video.org
 DOMAIN,1024videos.app
 DOMAIN,1024videos.cloud
-DOMAIN,1024videos.club
 DOMAIN,1024videos.com
 DOMAIN,1024videos.info
 DOMAIN,1024videos.online
@@ -2752,7 +2753,6 @@ DOMAIN,1478.hk
 DOMAIN,147j.com
 DOMAIN,147kkp.com
 DOMAIN,149109.com
-DOMAIN,149school.ru
 DOMAIN,14av.biz
 DOMAIN,14av.cc
 DOMAIN,14av.org
@@ -3293,6 +3293,7 @@ DOMAIN,18.network
 DOMAIN,1800-phonesex.com
 DOMAIN,18003869499.com
 DOMAIN,1800800.co.il
+DOMAIN,1800adultchat.com
 DOMAIN,1800assplay.com
 DOMAIN,1800c.top
 DOMAIN,1800deepwet.com
@@ -3301,7 +3302,11 @@ DOMAIN,1800fetish.com
 DOMAIN,1800fetish.net
 DOMAIN,1800freecams.com
 DOMAIN,1800freesex.com
+DOMAIN,1800gaychat.net
+DOMAIN,1800gaydate.net
+DOMAIN,1800gaydating.com
 DOMAIN,1800gaylive.com
+DOMAIN,1800gaymen.com
 DOMAIN,1800getfuck.com
 DOMAIN,1800getgirls.com
 DOMAIN,1800hotblow.com
@@ -3317,6 +3322,7 @@ DOMAIN,1800phonesex.com
 DOMAIN,1800phonesex.info
 DOMAIN,1800phonesexx.com
 DOMAIN,1800quickie.com
+DOMAIN,1800sexchat.net
 DOMAIN,1800sexgirl.com
 DOMAIN,1800sexlive.com
 DOMAIN,1800talkdirty.com
@@ -4193,7 +4199,6 @@ DOMAIN,190336.com
 DOMAIN,190809.com
 DOMAIN,1909.me
 DOMAIN,1909g.com
-DOMAIN,190a.shop
 DOMAIN,190nn.com
 DOMAIN,190uu.com
 DOMAIN,191.run
@@ -7745,7 +7750,6 @@ DOMAIN,337as1vv.cn
 DOMAIN,338196.com.cn
 DOMAIN,3388cc.idv.tw
 DOMAIN,3388q.com
-DOMAIN,338tv3.xyz
 DOMAIN,339278.com.cn
 DOMAIN,3399chanel.com
 DOMAIN,339jj.com
@@ -8566,7 +8570,7 @@ DOMAIN,3dbrochure.com
 DOMAIN,3dcam.nl
 DOMAIN,3dcartoonporn.net
 DOMAIN,3dcartoonporn247.com
-DOMAIN,3dcartoons.xyz
+DOMAIN,3dcartoons.net
 DOMAIN,3dcartoonxxx.com
 DOMAIN,3dcentaurporn.com
 DOMAIN,3dchina.top
@@ -8593,6 +8597,7 @@ DOMAIN,3dfoot.com.cn
 DOMAIN,3dfotka.cz
 DOMAIN,3dfreeporn.com
 DOMAIN,3dfuck.vip
+DOMAIN,3dfuckhouse.com
 DOMAIN,3dfucking.net
 DOMAIN,3dfucksluts.com
 DOMAIN,3dfuta.com
@@ -9627,7 +9632,6 @@ DOMAIN,435igy.garden
 DOMAIN,435yu.com
 DOMAIN,436123.com
 DOMAIN,4368.top
-DOMAIN,437220.cc
 DOMAIN,437aa.com
 DOMAIN,437phc.garden
 DOMAIN,43851.com
@@ -10216,7 +10220,6 @@ DOMAIN,4gfr.com
 DOMAIN,4gfwp.com
 DOMAIN,4girls.co.il
 DOMAIN,4girlsfingerpaint.com
-DOMAIN,4givhb2.cc
 DOMAIN,4gjdilafigrf.com
 DOMAIN,4gjia.com.cn
 DOMAIN,4greedy.com
@@ -11868,7 +11871,6 @@ DOMAIN,51zyw5.com
 DOMAIN,51zyw6.com
 DOMAIN,51zyw7.com
 DOMAIN,51zzjj.cn
-DOMAIN,52.113
 DOMAIN,520-jy.com
 DOMAIN,520.jp
 DOMAIN,5200sex.lol
@@ -11913,6 +11915,7 @@ DOMAIN,5213tao.com
 DOMAIN,52176-52176.com
 DOMAIN,52176-5z.com
 DOMAIN,52176-live173.com
+DOMAIN,521875851327-mgrghhfksnds.cc
 DOMAIN,521danmei.cc
 DOMAIN,521dong.com.cn
 DOMAIN,521m.com
@@ -12042,6 +12045,7 @@ DOMAIN,52jxb8f5upemnbbe1ygu.com
 DOMAIN,52k.me
 DOMAIN,52kanys.com
 DOMAIN,52kgmdxs.lat
+DOMAIN,52kkbb.com
 DOMAIN,52kmz.com
 DOMAIN,52koukou.com
 DOMAIN,52kuke.tv
@@ -12479,7 +12483,6 @@ DOMAIN,573ff.com
 DOMAIN,5740.4785.blueseek.com
 DOMAIN,574ff.com
 DOMAIN,575xe.com
-DOMAIN,576392467693-gdujnkzcdztz.cc
 DOMAIN,5767d.com
 DOMAIN,576862-nkvphr.cc
 DOMAIN,576x.com
@@ -13327,6 +13330,7 @@ DOMAIN,626sex.com
 DOMAIN,626wx.com.cn
 DOMAIN,627xe.com
 DOMAIN,627yu.com
+DOMAIN,628264126535-ieywbzpwvgec.cc
 DOMAIN,628282b.com
 DOMAIN,62888.xyz
 DOMAIN,628yu.com
@@ -13445,7 +13449,6 @@ DOMAIN,65789f.com
 DOMAIN,657haber.com
 DOMAIN,657l6.xyz
 DOMAIN,657xe.com
-DOMAIN,658243.cc
 DOMAIN,658965.pw
 DOMAIN,658xe.com
 DOMAIN,658zz.com
@@ -14040,6 +14043,7 @@ DOMAIN,69t00.com
 DOMAIN,69t311.com
 DOMAIN,69t312.com
 DOMAIN,69t314.com
+DOMAIN,69t315.com
 DOMAIN,69tang.org
 DOMAIN,69teensex.com
 DOMAIN,69teentube.com
@@ -15735,6 +15739,7 @@ DOMAIN,7s99.top
 DOMAIN,7s999.com
 DOMAIN,7setv.com
 DOMAIN,7sex.cc
+DOMAIN,7sex.org
 DOMAIN,7sexarabic.com
 DOMAIN,7sexclips.com
 DOMAIN,7sexvideos.com
@@ -16401,6 +16406,7 @@ DOMAIN,85porn.net
 DOMAIN,85ro.com
 DOMAIN,85sex.com
 DOMAIN,85st-tw.net
+DOMAIN,85st.com
 DOMAIN,85st.us
 DOMAIN,85stapp.com
 DOMAIN,85stt.com
@@ -16556,7 +16562,6 @@ DOMAIN,874g1sg4w.garden
 DOMAIN,874hh.com
 DOMAIN,874kk.com
 DOMAIN,87580.cn
-DOMAIN,875e0acaa73219.top
 DOMAIN,875jj.com
 DOMAIN,875rr.com
 DOMAIN,875t.com
@@ -16920,7 +16925,6 @@ DOMAIN,88xm.tv
 DOMAIN,88xqq.com
 DOMAIN,88xsp85.com
 DOMAIN,88xx.info
-DOMAIN,88xx106.xyz
 DOMAIN,88xx134.cc
 DOMAIN,88xxmm.com
 DOMAIN,88xxx.info
@@ -18054,7 +18058,7 @@ DOMAIN,91jav.fun
 DOMAIN,91jav1.com
 DOMAIN,91jav12.com
 DOMAIN,91jav13.com
-DOMAIN,91jav14.cc
+DOMAIN,91jav15.cc
 DOMAIN,91jav17.com
 DOMAIN,91jav19.com
 DOMAIN,91jav2.com
@@ -18127,7 +18131,6 @@ DOMAIN,91jmd.com
 DOMAIN,91jpav.com
 DOMAIN,91jq.tv
 DOMAIN,91jq134.work
-DOMAIN,91jq495.com
 DOMAIN,91jq501.com
 DOMAIN,91jx.top
 DOMAIN,91jxporn.com
@@ -19455,7 +19458,6 @@ DOMAIN,953ll.com
 DOMAIN,953qbr.life
 DOMAIN,953rr.com
 DOMAIN,953xx.com
-DOMAIN,95410cao.cc
 DOMAIN,9544dy.com
 DOMAIN,954dd.com
 DOMAIN,954hh.com
@@ -19553,6 +19555,7 @@ DOMAIN,966223.com
 DOMAIN,966680.com
 DOMAIN,9666av.com
 DOMAIN,9666x.com
+DOMAIN,96671f9ac99075.top
 DOMAIN,966866.net
 DOMAIN,966bo.com
 DOMAIN,966u.top
@@ -19776,7 +19779,6 @@ DOMAIN,991yu.com
 DOMAIN,991zhenti.com.cn
 DOMAIN,9923183.cc
 DOMAIN,992kp.com
-DOMAIN,992kp572.com
 DOMAIN,992kp578.com
 DOMAIN,992mm.com
 DOMAIN,992tvp06.top
@@ -19791,7 +19793,6 @@ DOMAIN,993f.top
 DOMAIN,993h.top
 DOMAIN,993ll.com
 DOMAIN,993tv.com.cn
-DOMAIN,994273468312-aclsuamkgpqa.cc
 DOMAIN,9948014.ru
 DOMAIN,994j.com
 DOMAIN,994ss.com
@@ -20640,7 +20641,6 @@ DOMAIN,a-rchi-v.jp
 DOMAIN,a-rem.ru
 DOMAIN,a-rlx.com
 DOMAIN,a-shemaletube.com
-DOMAIN,a-shirouto.com
 DOMAIN,a-shop.info
 DOMAIN,a-shop.online
 DOMAIN,a-stil.com
@@ -21256,6 +21256,7 @@ DOMAIN,aammss.com
 DOMAIN,aamodel.site
 DOMAIN,aampmaps.com
 DOMAIN,aamyko.com
+DOMAIN,aan.xxx
 DOMAIN,aanbodmarkt.be
 DOMAIN,aandvpizzeriarestaurant.com
 DOMAIN,aanqylta.com
@@ -23457,6 +23458,7 @@ DOMAIN,adaman-ero.com
 DOMAIN,adamandeve.com
 DOMAIN,adamandeve.info
 DOMAIN,adamandeve.live
+DOMAIN,adamandevehotchat.com
 DOMAIN,adamandevetv.com
 DOMAIN,adambcochrane.com
 DOMAIN,adamchenx.com
@@ -24234,7 +24236,6 @@ DOMAIN,adult-hookup-sites.net
 DOMAIN,adult-hookup.org
 DOMAIN,adult-hookups.net
 DOMAIN,adult-hospital.com
-DOMAIN,adult-hot-games.life
 DOMAIN,adult-hot-girls.com
 DOMAIN,adult-hot-sex.com
 DOMAIN,adult-hot-tube.com
@@ -26860,7 +26861,6 @@ DOMAIN,adultporn.tv
 DOMAIN,adultporn18.com
 DOMAIN,adultporn32.com
 DOMAIN,adultporn4k.com
-DOMAIN,adultporna-av.xyz
 DOMAIN,adultporna-av1.com
 DOMAIN,adultporna-av2cb789.xyz
 DOMAIN,adultporna-av3av333.xyz
@@ -29395,7 +29395,6 @@ DOMAIN,aifantasyreview.com
 DOMAIN,aifapper.com
 DOMAIN,aifatie.com
 DOMAIN,aifeetpornpro.com
-DOMAIN,aifei012.sbs
 DOMAIN,aifei013.sbs
 DOMAIN,aifei1.top
 DOMAIN,aifei2.top
@@ -29934,7 +29933,7 @@ DOMAIN,airav.wiki
 DOMAIN,airav4.fun
 DOMAIN,airavingg4.work
 DOMAIN,airavingg8.work
-DOMAIN,airavplus4.cc
+DOMAIN,airavplus5.cc
 DOMAIN,airavsuper7.net
 DOMAIN,airbcaob.com
 DOMAIN,airbnb4you.ch
@@ -29999,7 +29998,6 @@ DOMAIN,airsofttipps.com
 DOMAIN,airsoftweek.com
 DOMAIN,airsoftyep.com
 DOMAIN,airtac.com
-DOMAIN,airtechwebsite.com
 DOMAIN,airtightxxx.com
 DOMAIN,airtimechicks.com
 DOMAIN,airvaxchina.com
@@ -30476,6 +30474,7 @@ DOMAIN,aklisex.sbs
 DOMAIN,aklprs.garden
 DOMAIN,akmahua.com
 DOMAIN,akmetdokum.com
+DOMAIN,akmicrosoft.com
 DOMAIN,akmicsex.xyz
 DOMAIN,akmpt.cn
 DOMAIN,aknaton.com
@@ -31696,6 +31695,7 @@ DOMAIN,allgrannypornpics.com
 DOMAIN,allgravure.com
 DOMAIN,allgravurebabes.com
 DOMAIN,allgravuregirls.com
+DOMAIN,allgravuremodels.com
 DOMAIN,allgroupsex.com
 DOMAIN,allgunsforsale.com
 DOMAIN,allhairygals.com
@@ -33022,7 +33022,6 @@ DOMAIN,alxxnxxxxsex.site
 DOMAIN,alxxnxxxxsex.skin
 DOMAIN,alxxnxxxxsex.tattoo
 DOMAIN,alxxnxxxxsex.today
-DOMAIN,alxxnxxxxsex.top
 DOMAIN,alxxnxxxxsex.website
 DOMAIN,alxxnxxxxsex.wiki
 DOMAIN,alxxnxxxxsex.world
@@ -33558,7 +33557,6 @@ DOMAIN,ama-nenkin.org
 DOMAIN,ama2porn.com
 DOMAIN,ama584.sbs
 DOMAIN,amaadult.com
-DOMAIN,amabana.com
 DOMAIN,amabitch.com
 DOMAIN,amadates.com
 DOMAIN,amadeus-girls.ch
@@ -34887,7 +34885,6 @@ DOMAIN,amateurshooters.com
 DOMAIN,amateurshop.com
 DOMAIN,amateurshorties.com
 DOMAIN,amateurshour.com
-DOMAIN,amateurshouse.com
 DOMAIN,amateurshowoff.com
 DOMAIN,amateursinaction.com
 DOMAIN,amateursinvegas.com
@@ -35200,6 +35197,7 @@ DOMAIN,amature2fuck.com
 DOMAIN,amatureathome.com
 DOMAIN,amaturecfnm.com
 DOMAIN,amaturecollegeporn.com
+DOMAIN,amatureestrella.com
 DOMAIN,amaturefetish.com
 DOMAIN,amaturefetishes.com
 DOMAIN,amaturefootworld.com
@@ -35340,13 +35338,13 @@ DOMAIN,amb-greiz.de
 DOMAIN,ambabe.com
 DOMAIN,ambassadorspa.ca
 DOMAIN,ambellis.com.cn
-DOMAIN,amber-live.nl
 DOMAIN,amberann.com
 DOMAIN,amberashefacialabuse.com
 DOMAIN,ambercutie.com
 DOMAIN,amberevansblog.com
 DOMAIN,amberfestival.org
 DOMAIN,amberfox.ca
+DOMAIN,amberfoxy.com
 DOMAIN,ambergardens.net
 DOMAIN,amberhahn.com
 DOMAIN,amberhahn.org
@@ -37642,7 +37640,6 @@ DOMAIN,anime-porn.com
 DOMAIN,anime-porn1.ru
 DOMAIN,anime-pornmovies.com
 DOMAIN,anime-porno.ru
-DOMAIN,anime-sexmovies.com
 DOMAIN,anime-sexvideos.com
 DOMAIN,anime-share.ru
 DOMAIN,anime-sharing.com
@@ -37777,7 +37774,6 @@ DOMAIN,animepornpush.com
 DOMAIN,animeporns.net
 DOMAIN,animepornscan.com
 DOMAIN,animepornstage.com
-DOMAIN,animepornstart.com
 DOMAIN,animepornstudio.com
 DOMAIN,animeporntab.com
 DOMAIN,animeporntube.com
@@ -37837,6 +37833,7 @@ DOMAIN,animestigma.com
 DOMAIN,animetaboo.com
 DOMAIN,animetaboo.xyz
 DOMAIN,animeteenxxx.com
+DOMAIN,animetime.pw
 DOMAIN,animetube-porn.com
 DOMAIN,animetvtube.com
 DOMAIN,animevideos.com.es
@@ -38172,6 +38169,7 @@ DOMAIN,annaru.com
 DOMAIN,annas-angels.co.uk
 DOMAIN,annasangels.co.uk
 DOMAIN,annasassets.com
+DOMAIN,annasextoys.com
 DOMAIN,annasfunhouse.com
 DOMAIN,annasiggelkow.de
 DOMAIN,annasimone.com
@@ -39512,6 +39510,7 @@ DOMAIN,app-tech.info
 DOMAIN,app-vip.xyz
 DOMAIN,app.gaydatingconnexion.com
 DOMAIN,app.gayfitdating.com
+DOMAIN,app.mengchqhome.art
 DOMAIN,app.pornshow.ai
 DOMAIN,app.sexyprofiles.com
 DOMAIN,app003.vip
@@ -41092,7 +41091,6 @@ DOMAIN,arxnxxxxxxhd.space
 DOMAIN,arxnxxxxxxhd.store
 DOMAIN,arxnxxxxxxhd.tattoo
 DOMAIN,arxnxxxxxxhd.today
-DOMAIN,arxnxxxxxxhd.top
 DOMAIN,arxnxxxxxxhd.website
 DOMAIN,arxnxxxxxxhd.wiki
 DOMAIN,arxnxxxxxxhd.world
@@ -42835,7 +42833,6 @@ DOMAIN,asianpussy.site
 DOMAIN,asianpussycuties.com
 DOMAIN,asianpussydrill.com
 DOMAIN,asianpussygallery.com
-DOMAIN,asianpussygfs.com
 DOMAIN,asianpussyhub.com
 DOMAIN,asianpussylist.com
 DOMAIN,asianpussymovs.com
@@ -43836,7 +43833,6 @@ DOMAIN,asqql.com
 DOMAIN,asrecatadas.com.br
 DOMAIN,asrpremium.com
 DOMAIN,asrrt.com
-DOMAIN,asrv-a.akamoihd.net
 DOMAIN,ass-clips.com
 DOMAIN,ass-focused.com
 DOMAIN,ass-hole.vip
@@ -44459,7 +44455,6 @@ DOMAIN,athenahaze.com
 DOMAIN,athenaporn.top
 DOMAIN,athenasextoys.com
 DOMAIN,atheniakros.com
-DOMAIN,athens-escort-services.com
 DOMAIN,athens-girls.com
 DOMAIN,athensadventure.com
 DOMAIN,athensescortgirls.gr
@@ -45661,7 +45656,6 @@ DOMAIN,avbenli.xyz
 DOMAIN,avberry.com
 DOMAIN,avbj.icu
 DOMAIN,avbj.top
-DOMAIN,avbj1.top
 DOMAIN,avbliio.cyou
 DOMAIN,avblog.club
 DOMAIN,avbo.cc
@@ -47108,7 +47102,6 @@ DOMAIN,aydinescortlar.xyz
 DOMAIN,aydinescorto.com
 DOMAIN,aydinescorts.com
 DOMAIN,aydinescortto.click
-DOMAIN,aydinliescort.com
 DOMAIN,aydinliftforklift.com
 DOMAIN,aydinmoda.com
 DOMAIN,aydinnakliyatt.com.tr
@@ -47337,7 +47330,6 @@ DOMAIN,azmen.com
 DOMAIN,azmhkfm.com
 DOMAIN,aznail-0701.com
 DOMAIN,aznkitty.com
-DOMAIN,aznmcua.com
 DOMAIN,aznmovies.com
 DOMAIN,aznplay.com
 DOMAIN,aznude-porn.icu
@@ -47429,7 +47421,6 @@ DOMAIN,b-ass.org
 DOMAIN,b-b-w.org
 DOMAIN,b-boyz.com
 DOMAIN,b-bw.com
-DOMAIN,b-cdn.heavy-r.com
 DOMAIN,b-cdn.net
 DOMAIN,b-club.be
 DOMAIN,b-de.de
@@ -47630,7 +47621,6 @@ DOMAIN,b7a8.com
 DOMAIN,b7aa.com
 DOMAIN,b7cvhk.cfd
 DOMAIN,b7cvhk.cyou
-DOMAIN,b7l4x.top
 DOMAIN,b7ofg2.garden
 DOMAIN,b7or.net
 DOMAIN,b7pp.com
@@ -50072,6 +50062,7 @@ DOMAIN,barelylegalblonde.com
 DOMAIN,barelylegalboy.com
 DOMAIN,barelylegalcam.com
 DOMAIN,barelylegalcams.net
+DOMAIN,barelylegalchat.net
 DOMAIN,barelylegalcom.com
 DOMAIN,barelylegalflirts.com
 DOMAIN,barelylegalfootjobs.com
@@ -52404,11 +52395,9 @@ DOMAIN,bdsmchat.net
 DOMAIN,bdsmchat.xxx
 DOMAIN,bdsmchatafrica.com
 DOMAIN,bdsmchatcity.com
-DOMAIN,bdsmchatindia.xyz
 DOMAIN,bdsmchatroom.co.uk
 DOMAIN,bdsmchatrooms.com
 DOMAIN,bdsmchatrooms.org
-DOMAIN,bdsmchatrussia.xyz
 DOMAIN,bdsmchile.net
 DOMAIN,bdsmcircle.com
 DOMAIN,bdsmcircle.net
@@ -52913,7 +52902,6 @@ DOMAIN,bdsmsex.co.uk
 DOMAIN,bdsmsex.dating
 DOMAIN,bdsmsex.net
 DOMAIN,bdsmsex.ws
-DOMAIN,bdsmsexbook.co.uk
 DOMAIN,bdsmsexbook.com
 DOMAIN,bdsmsexchat.com
 DOMAIN,bdsmsexcomics.com
@@ -53619,7 +53607,6 @@ DOMAIN,bec093.com
 DOMAIN,becauseawsi.bond
 DOMAIN,becausefuckthisshit.com
 DOMAIN,becauseimgreat.com
-DOMAIN,becca66.com
 DOMAIN,beccabae.com
 DOMAIN,beccabellamy.net
 DOMAIN,beccaleeghettogaggers.com
@@ -54647,6 +54634,7 @@ DOMAIN,benzbrownxxx.pages.dev
 DOMAIN,benzogeil.nl
 DOMAIN,beoamekeek.sbs
 DOMAIN,beologopedie.nl
+DOMAIN,beomeapornstarlet.com
 DOMAIN,beonweb.ru
 DOMAIN,beoschina.com
 DOMAIN,beosex.com
@@ -57336,7 +57324,6 @@ DOMAIN,biforpay.cam
 DOMAIN,bifrat.cam
 DOMAIN,bifsoft.com
 DOMAIN,bifuck.com
-DOMAIN,bifuckbook.co.uk
 DOMAIN,bifundating.com
 DOMAIN,bifzj7.garden
 DOMAIN,big-afro-mature-tits.com
@@ -58859,7 +58846,6 @@ DOMAIN,bikeriders-2023.ru
 DOMAIN,bikermadhouse.com
 DOMAIN,bikers-and-babes.com
 DOMAIN,bikerschlampen.com
-DOMAIN,bikersexbook.co.uk
 DOMAIN,bikersexhookup.com
 DOMAIN,bikersplacetwo.com
 DOMAIN,bikesaaz.com
@@ -59399,7 +59385,6 @@ DOMAIN,bisexualfantasies.com
 DOMAIN,bisexualfantasy.com
 DOMAIN,bisexualfemdom.com
 DOMAIN,bisexualfriends.com
-DOMAIN,bisexualfuckbook.co.uk
 DOMAIN,bisexualgals.com
 DOMAIN,bisexualgame.com
 DOMAIN,bisexualgames.com
@@ -59807,6 +59792,7 @@ DOMAIN,bizhihui.com
 DOMAIN,bizichic.com
 DOMAIN,bizician.com
 DOMAIN,bizim.online
+DOMAIN,bizimapartotel.org
 DOMAIN,bizimcati.com.tr
 DOMAIN,bizimescortlar.com
 DOMAIN,bizimizmit.com
@@ -61057,6 +61043,7 @@ DOMAIN,blackpee.com
 DOMAIN,blackpenis.com
 DOMAIN,blackpeoplemeet.com
 DOMAIN,blackph.com
+DOMAIN,blackphonechat.com
 DOMAIN,blackphoneporn.com
 DOMAIN,blackphonesex.chat
 DOMAIN,blackphonesex.com
@@ -61195,6 +61182,7 @@ DOMAIN,blacksexmovies.com
 DOMAIN,blacksexorgy.com
 DOMAIN,blacksexpartner.com
 DOMAIN,blacksexpartners.com
+DOMAIN,blacksext.com
 DOMAIN,blacksextherapist.com
 DOMAIN,blacksextonight.com
 DOMAIN,blacksextube.org
@@ -61235,6 +61223,7 @@ DOMAIN,blacksilkpantyhose.vip
 DOMAIN,blacksilkstockings.vip
 DOMAIN,blacksin.com
 DOMAIN,blacksinglelesbians.com
+DOMAIN,blacksingleschat.net
 DOMAIN,blacksinsideblondes.com
 DOMAIN,blacksistas.com
 DOMAIN,blacksister.com
@@ -64094,7 +64083,6 @@ DOMAIN,bondagedanmark.dk
 DOMAIN,bondagedate.nl
 DOMAIN,bondagedate.tv
 DOMAIN,bondagedates.nl
-DOMAIN,bondagedating.co.uk
 DOMAIN,bondagedating.dk
 DOMAIN,bondagedatingsite.com
 DOMAIN,bondagedaydreams.com
@@ -65414,6 +65402,7 @@ DOMAIN,bottomseek.com
 DOMAIN,bottomsupbookreview.com
 DOMAIN,bottomsupspanking.com
 DOMAIN,bottomsurgeryporn.pages.dev
+DOMAIN,bottomtoys.hol.es
 DOMAIN,bottomtube.com
 DOMAIN,botuai.com.cn
 DOMAIN,botuiav.com
@@ -67894,17 +67883,6 @@ DOMAIN,btrannysex.com
 DOMAIN,btrvip.com
 DOMAIN,bts-jewelry.com
 DOMAIN,bts-schedule.com
-DOMAIN,btsadult.be
-DOMAIN,btsadult.biz
-DOMAIN,btsadult.com
-DOMAIN,btsadult.eu
-DOMAIN,btsadult.fr
-DOMAIN,btsadult.info
-DOMAIN,btsadult.net
-DOMAIN,btsadult.online
-DOMAIN,btsadult.org
-DOMAIN,btsadult.site
-DOMAIN,btsadult.xyz
 DOMAIN,btsb583.com
 DOMAIN,btsearch.love
 DOMAIN,btsenyue.com
@@ -68457,7 +68435,6 @@ DOMAIN,bumper.lv
 DOMAIN,bumporno.beauty
 DOMAIN,bumporno.homes
 DOMAIN,bumporno.online
-DOMAIN,bumporno.xyz
 DOMAIN,bumptube.com
 DOMAIN,bumpxxx.com
 DOMAIN,bumpybits.com
@@ -68607,7 +68584,6 @@ DOMAIN,buomdem.net
 DOMAIN,buomdep.pro
 DOMAIN,buomhay.com
 DOMAIN,buomngon.com
-DOMAIN,buomsex.com
 DOMAIN,buomtb.com
 DOMAIN,buomtube.net
 DOMAIN,buomtube.tv
@@ -70539,6 +70515,7 @@ DOMAIN,caile68.pw
 DOMAIN,cailing51.com
 DOMAIN,caimaiba.cn
 DOMAIN,caimaps.net
+DOMAIN,caime.xyz
 DOMAIN,caimiguan.com
 DOMAIN,caina123.com
 DOMAIN,cainaio.xyz
@@ -70787,7 +70764,6 @@ DOMAIN,callgirldirectory.co.uk
 DOMAIN,callgirldirectory.net
 DOMAIN,callgirldubai.com
 DOMAIN,callgirldwarka.in
-DOMAIN,callgirlescort.com
 DOMAIN,callgirlescortbooking.com
 DOMAIN,callgirlficker.com
 DOMAIN,callgirlficker.de
@@ -74892,7 +74868,6 @@ DOMAIN,carpediem-staff.com
 DOMAIN,carpediem.fr
 DOMAIN,carpediemstaff.com
 DOMAIN,carpet.garden
-DOMAIN,carplanet.ru
 DOMAIN,carporn.click
 DOMAIN,carporn.com
 DOMAIN,carpornclothing.com
@@ -75250,7 +75225,6 @@ DOMAIN,cashunited.net
 DOMAIN,cashvideotube.com
 DOMAIN,cashxxx.net
 DOMAIN,cashzombie.com
-DOMAIN,casiangeles.cl
 DOMAIN,casibom-719.com
 DOMAIN,casino-bonusexpert-cfd.pages.dev
 DOMAIN,casino-bonusexpert-ink.pages.dev
@@ -75999,6 +75973,7 @@ DOMAIN,cc681.com
 DOMAIN,cc69.sbs
 DOMAIN,cc701.com
 DOMAIN,cc708.com
+DOMAIN,cc71whatsappsexy.pages.dev
 DOMAIN,cc804.com
 DOMAIN,cc82.sbs
 DOMAIN,cc839.com
@@ -76154,6 +76129,7 @@ DOMAIN,ccsiia.com
 DOMAIN,ccsisoftware.com
 DOMAIN,ccsjjd.com
 DOMAIN,ccsmqyy.com
+DOMAIN,ccsnak4i.work
 DOMAIN,ccsshg.com
 DOMAIN,ccsshighschool.com
 DOMAIN,ccstockings.com
@@ -76409,6 +76385,7 @@ DOMAIN,cdntraffic.com
 DOMAIN,cdntrex.com
 DOMAIN,cdnuc.vip
 DOMAIN,cdnuz.ru
+DOMAIN,cdnv.xxxalarabi.com
 DOMAIN,cdnvc.com
 DOMAIN,cdnvideo.top
 DOMAIN,cdnvideos.pro
@@ -78356,6 +78333,7 @@ DOMAIN,chatlifecam.com
 DOMAIN,chatlight.eu
 DOMAIN,chatline.org
 DOMAIN,chatlinesonline.com
+DOMAIN,chatlinesusa.net
 DOMAIN,chatlips.nl
 DOMAIN,chatlive.one
 DOMAIN,chatlivesexy.com
@@ -78626,6 +78604,7 @@ DOMAIN,chatterbate.org
 DOMAIN,chatterbate.show
 DOMAIN,chatterbees.com
 DOMAIN,chattercams.net
+DOMAIN,chatterhead.net
 DOMAIN,chattersate.xyz
 DOMAIN,chattersex.com
 DOMAIN,chattespoilues.biz
@@ -80070,7 +80049,6 @@ DOMAIN,chimi177.cc
 DOMAIN,chimi179.cc
 DOMAIN,chimi185.cc
 DOMAIN,chimi188.cc
-DOMAIN,chimi191.cc
 DOMAIN,chimi192.cc
 DOMAIN,chimi87.cc
 DOMAIN,chimi88.cc
@@ -80731,7 +80709,6 @@ DOMAIN,chinabrand10.com
 DOMAIN,chinabroadlink.com
 DOMAIN,chinabronzes.com
 DOMAIN,chinabs98.com
-DOMAIN,chinabswl.com
 DOMAIN,chinabt365.com
 DOMAIN,chinabthr.com
 DOMAIN,chinabtm.com
@@ -83215,7 +83192,6 @@ DOMAIN,chudailove.com
 DOMAIN,chudaiporn.cc
 DOMAIN,chudaiporn.com
 DOMAIN,chudaipornmovie.com
-DOMAIN,chudaisexpage.com
 DOMAIN,chudaisexvideo.com
 DOMAIN,chudaistories.com
 DOMAIN,chudaivideo.net
@@ -86765,7 +86741,6 @@ DOMAIN,collegedudes.net
 DOMAIN,collegedudes.org
 DOMAIN,collegedudes247.com
 DOMAIN,collegeflirts.com
-DOMAIN,collegefreecams.com
 DOMAIN,collegefuck.club
 DOMAIN,collegefuck.com
 DOMAIN,collegefuckbook.com
@@ -87145,6 +87120,7 @@ DOMAIN,comicsxxx.biz
 DOMAIN,comicsxxx.com.ve
 DOMAIN,comicsxxx.net
 DOMAIN,comicsxxxgratis.com
+DOMAIN,comicuniverse.org
 DOMAIN,comicxporn.com
 DOMAIN,comicxx.com
 DOMAIN,comicxxx.eu
@@ -88515,7 +88491,6 @@ DOMAIN,cougarfetish.com
 DOMAIN,cougarfling.com
 DOMAIN,cougarfrenzy.com
 DOMAIN,cougarfuck.net
-DOMAIN,cougarfuckbook.co.uk
 DOMAIN,cougarfuckbook.com
 DOMAIN,cougarfuckbuddy.com
 DOMAIN,cougargratuit.com
@@ -88566,7 +88541,6 @@ DOMAIN,cougarsex.be
 DOMAIN,cougarsex.co.uk
 DOMAIN,cougarsex.dating
 DOMAIN,cougarsex.nl
-DOMAIN,cougarsexbook.co.uk
 DOMAIN,cougarsexbook.com
 DOMAIN,cougarsexchat.co.uk
 DOMAIN,cougarsexclub.com
@@ -88580,7 +88554,6 @@ DOMAIN,cougarsexnow.com
 DOMAIN,cougarsexpartner.com
 DOMAIN,cougarsforcubs.com
 DOMAIN,cougarsforsex.com
-DOMAIN,cougarsfuckbook.co.uk
 DOMAIN,cougarshelter.com
 DOMAIN,cougarsingleschat.net
 DOMAIN,cougarslookingforcubs.com
@@ -89248,7 +89221,6 @@ DOMAIN,crazycamz.nl
 DOMAIN,crazychan.top
 DOMAIN,crazychat.net
 DOMAIN,crazycheerleaders.com
-DOMAIN,crazychicki.ru
 DOMAIN,crazycollegechicks.com
 DOMAIN,crazycollegecoeds.com
 DOMAIN,crazycollegegfs.com
@@ -89850,7 +89822,6 @@ DOMAIN,crkb4.life
 DOMAIN,crkb5.life
 DOMAIN,crkb6.life
 DOMAIN,crkbav.cc
-DOMAIN,crkbav.com
 DOMAIN,crkbav.top
 DOMAIN,crkennedy.porn
 DOMAIN,crld-forbo.com
@@ -92432,7 +92403,7 @@ DOMAIN,cxkj02.com
 DOMAIN,cxkp.com.cn
 DOMAIN,cxl2020mc.top
 DOMAIN,cxlfsp.com
-DOMAIN,cxlg1.xyz
+DOMAIN,cxlg2.xyz
 DOMAIN,cxlixin.com
 DOMAIN,cxlmjd.com
 DOMAIN,cxlnkj.com
@@ -93350,7 +93321,6 @@ DOMAIN,d8ee.idv.tw
 DOMAIN,d8iu.com
 DOMAIN,d8krnx7y2b8rn.cloudfront.net
 DOMAIN,d8lf7fu3i.garden
-DOMAIN,d8mqbc.uh6jgub.com
 DOMAIN,d8sk.com
 DOMAIN,d8uk.com
 DOMAIN,d8w8b.com
@@ -94280,7 +94250,6 @@ DOMAIN,damplips.biz
 DOMAIN,damplips.com
 DOMAIN,damplips.mobi
 DOMAIN,damplipssex.com
-DOMAIN,dampozyczke.pl
 DOMAIN,dampxxx.com
 DOMAIN,dampxxx.org
 DOMAIN,dampxxxporn.com
@@ -96740,6 +96709,7 @@ DOMAIN,dehradunescortstars.com
 DOMAIN,dehradungirls.com
 DOMAIN,deike.de
 DOMAIN,deimao.com
+DOMAIN,dein-ficktreff.net
 DOMAIN,dein-sexluder.de
 DOMAIN,deine-lebenslust.de
 DOMAIN,deine-nachbarn.de
@@ -99101,6 +99071,7 @@ DOMAIN,dhm454.sbs
 DOMAIN,dhm4eg.garden
 DOMAIN,dhmlblo.cn
 DOMAIN,dhmujsx.com
+DOMAIN,dhoes02.icu
 DOMAIN,dhoes03.icu
 DOMAIN,dhofar.org
 DOMAIN,dhopxvtop01.icu
@@ -100586,6 +100557,7 @@ DOMAIN,dirtyflins.com
 DOMAIN,dirtyflix.ch
 DOMAIN,dirtyflix.com
 DOMAIN,dirtyflixxx.com
+DOMAIN,dirtyfloppies.com
 DOMAIN,dirtyfoot.com
 DOMAIN,dirtyfox.net
 DOMAIN,dirtyfox.xyz
@@ -101817,6 +101789,7 @@ DOMAIN,djvaxlgvmrmcdisuwomejfnosg.com
 DOMAIN,djvy5k.garden
 DOMAIN,djwr.com
 DOMAIN,djx811.sbs
+DOMAIN,djyqk.top
 DOMAIN,djyqx.cn
 DOMAIN,djywl.com
 DOMAIN,djywsz.com
@@ -102085,7 +102058,6 @@ DOMAIN,dm273.com
 DOMAIN,dm2p.com
 DOMAIN,dm4.biz
 DOMAIN,dm40.top
-DOMAIN,dm5.com
 DOMAIN,dm54f.com
 DOMAIN,dm55.top
 DOMAIN,dm605.sbs
@@ -103808,7 +103780,6 @@ DOMAIN,dosug39.lol
 DOMAIN,dosug39.one
 DOMAIN,dosug39.sbs
 DOMAIN,dosug39.top
-DOMAIN,dosug66.pro
 DOMAIN,dosug72.com
 DOMAIN,dosug72.net
 DOMAIN,dosug76.info
@@ -104898,6 +104869,7 @@ DOMAIN,drtuber.online
 DOMAIN,drtuber.su
 DOMAIN,drtuber.us
 DOMAIN,drtubercams.com
+DOMAIN,drtuberlive.com
 DOMAIN,drtuberonline.com
 DOMAIN,drtuberporn.xyz
 DOMAIN,drtvid.com
@@ -105200,6 +105172,7 @@ DOMAIN,dtsd-meaning-sexually.pages.dev
 DOMAIN,dtsds.cn
 DOMAIN,dtskrdyr.xyz
 DOMAIN,dtsnzpc.com
+DOMAIN,dtstesting.com
 DOMAIN,dtsxgc.com
 DOMAIN,dtsyzqrmyy.com
 DOMAIN,dtta243.com
@@ -107116,7 +107089,6 @@ DOMAIN,ebahot.xyz
 DOMAIN,ebahots.org
 DOMAIN,ebaifu.com.cn
 DOMAIN,ebailv.com
-DOMAIN,ebaka.club
 DOMAIN,ebaka.net
 DOMAIN,ebakeca.com
 DOMAIN,ebakeca.info
@@ -107629,7 +107601,6 @@ DOMAIN,ebonysex.com
 DOMAIN,ebonysex.nl
 DOMAIN,ebonysex.pics
 DOMAIN,ebonysex.top
-DOMAIN,ebonysexbook.co.uk
 DOMAIN,ebonysexcam.com
 DOMAIN,ebonysexcam.net
 DOMAIN,ebonysexcams.net
@@ -107940,6 +107911,7 @@ DOMAIN,echter-telefonsex.net
 DOMAIN,echterporno.com
 DOMAIN,echtertelefonsexohneoperator.com
 DOMAIN,echteschlampen.com
+DOMAIN,echtesexcontacten.nl
 DOMAIN,echtesexkontakte.com
 DOMAIN,echtesexkontakte.net
 DOMAIN,echtgeiler.com
@@ -108794,6 +108766,7 @@ DOMAIN,eefupay.com
 DOMAIN,eegay.com
 DOMAIN,eegfo.biz
 DOMAIN,eegg10.com
+DOMAIN,eegh48.com
 DOMAIN,eeglivesex.com
 DOMAIN,eegol.com
 DOMAIN,eegschool.com
@@ -108841,7 +108814,6 @@ DOMAIN,eevee-porn.pages.dev
 DOMAIN,eeveeluvsporn.pages.dev
 DOMAIN,eeverj.com
 DOMAIN,eevlejt.cn
-DOMAIN,eevv11.com
 DOMAIN,eew348.sbs
 DOMAIN,eewetlook-hq.com
 DOMAIN,eewetlook.com
@@ -110054,6 +110026,7 @@ DOMAIN,elsyhw.com
 DOMAIN,elt747.sbs
 DOMAIN,eltareek.com
 DOMAIN,eltern-sexcoach.de
+DOMAIN,eltiempocomco.com
 DOMAIN,elton.live
 DOMAIN,eltonjohn.cn
 DOMAIN,eltubex.com
@@ -110573,7 +110546,6 @@ DOMAIN,encontrosvip.com.pt
 DOMAIN,encontrosxxx.com
 DOMAIN,encontrovips.com
 DOMAIN,encordees.com
-DOMAIN,encore1lili.bloxode.com
 DOMAIN,encoreconsignments.com
 DOMAIN,encoredu.org
 DOMAIN,encounters.dating
@@ -112409,7 +112381,6 @@ DOMAIN,eroreal.com
 DOMAIN,erorealm.com
 DOMAIN,erorelatos.com
 DOMAIN,erorian.net
-DOMAIN,erorierogu.net
 DOMAIN,eroro.com
 DOMAIN,erorocket.com
 DOMAIN,erorox.com
@@ -114735,7 +114706,6 @@ DOMAIN,erotologist.com
 DOMAIN,erotom.com
 DOMAIN,erotomanblog.com
 DOMAIN,erotop.lv
-DOMAIN,erotop.su
 DOMAIN,erotop.us
 DOMAIN,erotopi.com
 DOMAIN,erotorrent.ru
@@ -114753,7 +114723,6 @@ DOMAIN,erotske-price.com
 DOMAIN,erotskeprice.net
 DOMAIN,erotube.dk
 DOMAIN,erotube.it
-DOMAIN,erotube.tokyo
 DOMAIN,erotube7.com
 DOMAIN,erotubex.me
 DOMAIN,erotubo.net
@@ -117859,7 +117828,6 @@ DOMAIN,evsexy.sbs
 DOMAIN,evsummit.com.cn
 DOMAIN,evt645.sbs
 DOMAIN,evtt.top
-DOMAIN,evttfrl.cn
 DOMAIN,evvivaporno.com
 DOMAIN,evyapimiisler.com
 DOMAIN,evyasoftware.com
@@ -118219,6 +118187,7 @@ DOMAIN,exoticcamgirls.com
 DOMAIN,exoticcammodels.com
 DOMAIN,exoticcams.com
 DOMAIN,exoticcargirls.com
+DOMAIN,exoticchatline.com
 DOMAIN,exoticchicagostrippers.com
 DOMAIN,exoticdrc.com
 DOMAIN,exoticdubaiescorts.com
@@ -118592,6 +118561,7 @@ DOMAIN,extreme-fetish.org
 DOMAIN,extreme-fisting.net
 DOMAIN,extreme-girls.live
 DOMAIN,extreme-kream.com
+DOMAIN,extreme-personals.com
 DOMAIN,extreme-perversity.com
 DOMAIN,extreme-plaisir.com
 DOMAIN,extreme-porno.com
@@ -118804,6 +118774,7 @@ DOMAIN,exxx.cc
 DOMAIN,exxxcam.com
 DOMAIN,exxxcel.com
 DOMAIN,exxxclusivas.com
+DOMAIN,exxxhotmag.com
 DOMAIN,exxxiteme.com
 DOMAIN,exxxn.com
 DOMAIN,exxxopedia.com
@@ -119784,7 +119755,6 @@ DOMAIN,facialfans.com
 DOMAIN,facialfest.com
 DOMAIN,facialfest1.com
 DOMAIN,facialforum.net
-DOMAIN,facialfucking.org
 DOMAIN,facialhandjob.pages.dev
 DOMAIN,facialhumiliation.net
 DOMAIN,facialism.com
@@ -120259,6 +120229,7 @@ DOMAIN,familysexsimgames.com
 DOMAIN,familysexsimulator.com
 DOMAIN,familysexswap.com
 DOMAIN,familysextapes.com
+DOMAIN,familysextrailers.video
 DOMAIN,familysexvideos.org
 DOMAIN,familysexy.com
 DOMAIN,familysiblings.net
@@ -123412,6 +123383,7 @@ DOMAIN,femq.com.cn
 DOMAIN,femrace.com
 DOMAIN,femscat.com
 DOMAIN,femsex.shop
+DOMAIN,femsexyjoy.com
 DOMAIN,femsissy.com
 DOMAIN,femspahhh.com
 DOMAIN,femsqirw.xyz
@@ -123621,7 +123593,6 @@ DOMAIN,fesni.com
 DOMAIN,fesselndes-wochenende.de
 DOMAIN,fesses.net
 DOMAIN,festadoprazer.com.br
-DOMAIN,festaporno.com
 DOMAIN,festaprive.com
 DOMAIN,feste-aziendali.it
 DOMAIN,festelle.eu
@@ -124058,7 +124029,6 @@ DOMAIN,fetishblackbook.com
 DOMAIN,fetishblue.com
 DOMAIN,fetishbox.com
 DOMAIN,fetishbox.it
-DOMAIN,fetishboy.co.kr
 DOMAIN,fetishboy.com
 DOMAIN,fetishboys.com
 DOMAIN,fetishboys.nl
@@ -126431,7 +126401,6 @@ DOMAIN,findasexpartner.co.uk
 DOMAIN,findasexpartner.com
 DOMAIN,findashemalelover.com
 DOMAIN,findashemalelover.com.au
-DOMAIN,findasianpornpics.com
 DOMAIN,findasians.live
 DOMAIN,findasiansex.vip
 DOMAIN,findasugarmommy.com
@@ -128186,7 +128155,6 @@ DOMAIN,flirtysluts.com
 DOMAIN,flirtytoy.nl
 DOMAIN,flirtytreff.com
 DOMAIN,flirtzin.nl
-DOMAIN,flisfnffy.cc
 DOMAIN,flitero.de
 DOMAIN,flittchen.net
 DOMAIN,flittchen.tv
@@ -128413,6 +128381,7 @@ DOMAIN,flyhighchina.com
 DOMAIN,flying-indians.de
 DOMAIN,flying-porn.com
 DOMAIN,flyingcumshot.com
+DOMAIN,flyingdragon.org
 DOMAIN,flyinghk.com.cn
 DOMAIN,flyingjizz.com
 DOMAIN,flyntlingerie.com
@@ -128782,7 +128751,6 @@ DOMAIN,footfetish.at
 DOMAIN,footfetish.be
 DOMAIN,footfetish.center
 DOMAIN,footfetish.click
-DOMAIN,footfetish.cn
 DOMAIN,footfetish.com
 DOMAIN,footfetish.community
 DOMAIN,footfetish.dating
@@ -129263,7 +129231,6 @@ DOMAIN,forhadsoft.com
 DOMAIN,forherporn.com
 DOMAIN,forhertube.com
 DOMAIN,forhertube.pro
-DOMAIN,forhertube.xyz
 DOMAIN,forhorny.com
 DOMAIN,forible.xyz
 DOMAIN,forijia.com
@@ -129558,7 +129525,6 @@ DOMAIN,fotzen-ficken.com
 DOMAIN,fotzen-ficken.org
 DOMAIN,fotzen-porno.com
 DOMAIN,fotzen-porno.net
-DOMAIN,fotzen.bz
 DOMAIN,fotzen.co
 DOMAIN,fotzen.live
 DOMAIN,fotzenaugen.de
@@ -129996,6 +129962,7 @@ DOMAIN,frankie-babe.co.uk
 DOMAIN,frankiebabe.com
 DOMAIN,frankieduke.com
 DOMAIN,franklincastleclub.com
+DOMAIN,frankrock.com
 DOMAIN,franks-tgirl-world.com
 DOMAIN,franks-tgirls-world.com
 DOMAIN,franks-tgirls.com
@@ -130525,7 +130492,6 @@ DOMAIN,free-porn.space
 DOMAIN,free-porn.su
 DOMAIN,free-porn.top
 DOMAIN,free-porn.video
-DOMAIN,free-porn.xyz
 DOMAIN,free-porn365.world
 DOMAIN,free-pornhub.net
 DOMAIN,free-pornmovie.net
@@ -130721,7 +130687,6 @@ DOMAIN,free-xxx.com
 DOMAIN,free-xxx.me
 DOMAIN,free-xxx.net
 DOMAIN,free-xxx.top
-DOMAIN,free-xxx.xyz
 DOMAIN,free-xxxcams.com
 DOMAIN,free-xxxcom.online
 DOMAIN,free-xxxporn.com
@@ -130782,7 +130747,6 @@ DOMAIN,free4xxx.com
 DOMAIN,free6.com
 DOMAIN,free6.de
 DOMAIN,free6.org
-DOMAIN,free6.xyz
 DOMAIN,free64all.com
 DOMAIN,free69tubex.com
 DOMAIN,free6cams.com
@@ -131306,7 +131270,6 @@ DOMAIN,freedatingsex-cxx.pages.dev
 DOMAIN,freedatingsex.pages.dev
 DOMAIN,freedatingsexx-cvs.pages.dev
 DOMAIN,freedatingsexx.pages.dev
-DOMAIN,freeddcups.com
 DOMAIN,freedesiporn.click
 DOMAIN,freedesiporn.com
 DOMAIN,freedesiporn.org
@@ -131812,7 +131775,6 @@ DOMAIN,freejavonline.mobi
 DOMAIN,freejavp.com
 DOMAIN,freejavporn.com
 DOMAIN,freejavporn.mobi
-DOMAIN,freejavporn.xyz
 DOMAIN,freejavstreaming.net
 DOMAIN,freejavtorrent.com
 DOMAIN,freejizz.com
@@ -132099,7 +132061,6 @@ DOMAIN,freeminecraft.cc
 DOMAIN,freeminecraftgiftcode.net
 DOMAIN,freemiumcam.com
 DOMAIN,freemobileadultchat.com
-DOMAIN,freemobilecams.co.uk
 DOMAIN,freemobileporn.com
 DOMAIN,freemobileporn.pro
 DOMAIN,freemobileporn.xyz
@@ -132295,6 +132256,8 @@ DOMAIN,freepee.de
 DOMAIN,freepersonalz.com
 DOMAIN,freepfactory.com
 DOMAIN,freepgarden.com
+DOMAIN,freephonechatline.net
+DOMAIN,freephonechatlines.biz
 DOMAIN,freephoneporn.com
 DOMAIN,freephonesex.com
 DOMAIN,freephonesex.mobi
@@ -135190,7 +135153,6 @@ DOMAIN,fuckamouth.com
 DOMAIN,fuckanal.net
 DOMAIN,fuckanalporn.com
 DOMAIN,fuckanamateurpornstar.com
-DOMAIN,fuckandcdn.com
 DOMAIN,fuckandfight.com
 DOMAIN,fuckandporn.com
 DOMAIN,fuckandsex.com
@@ -135301,7 +135263,6 @@ DOMAIN,fuckbooks.com
 DOMAIN,fuckbooksa.co.za
 DOMAIN,fuckbookschweiz.com
 DOMAIN,fuckbookserbia.com
-DOMAIN,fuckbooksex.co.uk
 DOMAIN,fuckbooksex.mobi
 DOMAIN,fuckbookshemale.com
 DOMAIN,fuckbookshow.com
@@ -135422,6 +135383,7 @@ DOMAIN,fucked2gay.pro
 DOMAIN,fuckedandbound.com
 DOMAIN,fuckedandbound.org
 DOMAIN,fuckedandtied.com
+DOMAIN,fuckedasiantube.com
 DOMAIN,fuckedbabysitters.com
 DOMAIN,fuckedbunny.com
 DOMAIN,fuckedbyanimals.com
@@ -135690,6 +135652,7 @@ DOMAIN,fuckingabuse.info
 DOMAIN,fuckingabusetube.com
 DOMAIN,fuckingadult.pages.dev
 DOMAIN,fuckingadventures.com
+DOMAIN,fuckingamateurgirls.com
 DOMAIN,fuckinganimalsex.com
 DOMAIN,fuckinganimaltube.top
 DOMAIN,fuckingapornstar.com
@@ -136029,7 +135992,6 @@ DOMAIN,fuckmypakistanigf.com
 DOMAIN,fuckmyporn.com
 DOMAIN,fuckmypussy.club
 DOMAIN,fuckmyslutwife.com
-DOMAIN,fuckmythaipussy.com
 DOMAIN,fuckmytranny.com
 DOMAIN,fuckmywife.vip
 DOMAIN,fucknaked.com
@@ -137288,7 +137250,6 @@ DOMAIN,furryporn.fun
 DOMAIN,furryporn.gallery
 DOMAIN,furryporn.games
 DOMAIN,furryporn.mom
-DOMAIN,furryporn.wtf
 DOMAIN,furrypornmovies.com
 DOMAIN,furrypornpics.net
 DOMAIN,furryporns.com
@@ -137467,6 +137428,7 @@ DOMAIN,futuredairyfarm.com
 DOMAIN,futuredarkly.com
 DOMAIN,futuredate.de
 DOMAIN,futureescorts.com
+DOMAIN,futurelooks.us.intellitxt.com
 DOMAIN,futuremeditation.de
 DOMAIN,futurenet.club
 DOMAIN,futureofsex.net
@@ -137589,6 +137551,7 @@ DOMAIN,fuzoku-information.com
 DOMAIN,fuzoku-life.com
 DOMAIN,fuzoku-love.com
 DOMAIN,fuzoku-move.net
+DOMAIN,fuzoku-navigation.com
 DOMAIN,fuzoku-search.com
 DOMAIN,fuzoku.jp
 DOMAIN,fuzokuavlab.com
@@ -140596,11 +140559,13 @@ DOMAIN,gaychathamburg.de
 DOMAIN,gaychathannover.de
 DOMAIN,gaychatindia.life
 DOMAIN,gaychatleipzig.de
+DOMAIN,gaychatline.co
 DOMAIN,gaychatlinenumbers.com
 DOMAIN,gaychatlines.ca
 DOMAIN,gaychatlinesnearme.com
 DOMAIN,gaychatlinesnearme.pages.dev
 DOMAIN,gaychatlineuk.co.uk
+DOMAIN,gaychatlineusa.com
 DOMAIN,gaychatlocal.com
 DOMAIN,gaychatlounge.com
 DOMAIN,gaychatonly.com
@@ -142443,6 +142408,8 @@ DOMAIN,gayphilly.com
 DOMAIN,gayphlive.com
 DOMAIN,gayphnompenh.com
 DOMAIN,gayphone.de
+DOMAIN,gayphonechat.net
+DOMAIN,gayphoneflirt.com
 DOMAIN,gayphonesex.co.uk
 DOMAIN,gayphonesex4adults.com
 DOMAIN,gayphonesexboys.com
@@ -145166,6 +145133,7 @@ DOMAIN,gayyyyy.com
 DOMAIN,gayz.cc
 DOMAIN,gayz.wtf
 DOMAIN,gayzambia.net
+DOMAIN,gayzchat.com
 DOMAIN,gayzerhd.click
 DOMAIN,gayzerhd.club
 DOMAIN,gayzhclips.online
@@ -145835,7 +145803,6 @@ DOMAIN,geil-schwnze-erotik-hrspiele.pages.dev
 DOMAIN,geil-sexcontacten.be
 DOMAIN,geil-webcamsex.nl
 DOMAIN,geil.be
-DOMAIN,geil.bz
 DOMAIN,geil.nl
 DOMAIN,geilab50.com
 DOMAIN,geilat.com
@@ -146705,7 +146672,6 @@ DOMAIN,genuineamateurs.com
 DOMAIN,genuinebritishamateur.com
 DOMAIN,genuinecams.com
 DOMAIN,genuinedudes.com
-DOMAIN,genuinefeatures.com
 DOMAIN,genuineptr.com
 DOMAIN,genuinesin.com
 DOMAIN,genuinewebcams.com
@@ -146917,7 +146883,6 @@ DOMAIN,germanyvideochat.com
 DOMAIN,gernewt.info
 DOMAIN,gernot-illustration.de
 DOMAIN,geroigroup.ru
-DOMAIN,gerorian.net
 DOMAIN,gerosoftware.com
 DOMAIN,gerrickscustom.com
 DOMAIN,gersnq.com.cn
@@ -148352,7 +148317,6 @@ DOMAIN,gig-porno.mobi
 DOMAIN,gig-porno.net
 DOMAIN,gig-porno.one
 DOMAIN,gig-porno.org
-DOMAIN,gig-porno.ru
 DOMAIN,gig.sex
 DOMAIN,giga-data.online
 DOMAIN,giga-web.jp
@@ -148999,7 +148963,6 @@ DOMAIN,girls-milf-from-usa.pages.dev
 DOMAIN,girls-nackt-kostenlos-reife-alte-frauen-ficken.pages.dev
 DOMAIN,girls-next-door.com
 DOMAIN,girls-nude.de
-DOMAIN,girls-nude.pro
 DOMAIN,girls-nudes.com
 DOMAIN,girls-nudes.info
 DOMAIN,girls-pattaya.fun
@@ -149133,7 +149096,6 @@ DOMAIN,girlscv.com
 DOMAIN,girlsdate.org
 DOMAIN,girlsdateforfree.com
 DOMAIN,girlsdating.club
-DOMAIN,girlsdelhiescorts.com
 DOMAIN,girlsdelta.com
 DOMAIN,girlsdelta.org
 DOMAIN,girlsdiapered.com
@@ -150144,6 +150106,7 @@ DOMAIN,gm89.top
 DOMAIN,gm99.xyz
 DOMAIN,gmacapparel.com
 DOMAIN,gmagermany.com
+DOMAIN,gmanhua.com
 DOMAIN,gmature.com
 DOMAIN,gmb2b.com
 DOMAIN,gmbaba.org
@@ -150262,6 +150225,7 @@ DOMAIN,gndshelby.com
 DOMAIN,gne089.sbs
 DOMAIN,gne224.sbs
 DOMAIN,gneex.com.cn
+DOMAIN,gneill.com
 DOMAIN,gnesoft.com
 DOMAIN,gnextsoft.com
 DOMAIN,gnf082.sbs
@@ -150762,6 +150726,7 @@ DOMAIN,gogogaytube.cc
 DOMAIN,gogogirls.at
 DOMAIN,gogogirls.com
 DOMAIN,gogogirls.nl
+DOMAIN,gogole.com.hk
 DOMAIN,gogolong.com
 DOMAIN,gogonu.com
 DOMAIN,gogonude.com
@@ -151234,6 +151199,8 @@ DOMAIN,good-tea.org.cn
 DOMAIN,good-test.com
 DOMAIN,good-thumbs.com
 DOMAIN,good246.xyz
+DOMAIN,good2g.com
+DOMAIN,good5320.com
 DOMAIN,goodabc.net
 DOMAIN,goodadulttoy.com
 DOMAIN,goodanime.com
@@ -151304,6 +151271,7 @@ DOMAIN,goodiesmagazine.com
 DOMAIN,goodindianporn.com
 DOMAIN,goodindianporn.net
 DOMAIN,goodjzg.com
+DOMAIN,goodkino.biz
 DOMAIN,goodkitty.com
 DOMAIN,goodlessons.online
 DOMAIN,goodlife4women.com
@@ -152730,7 +152698,6 @@ DOMAIN,graphixhost.com
 DOMAIN,graphjam.com
 DOMAIN,graphotism.com
 DOMAIN,grappletube.com
-DOMAIN,grapplinggirls.com
 DOMAIN,grasoftseo.com
 DOMAIN,grasshoppertakeover.com
 DOMAIN,grassoip.com
@@ -153370,6 +153337,7 @@ DOMAIN,greenbitsoft.com
 DOMAIN,greenbowdeaf.com
 DOMAIN,greenbusinesscenter.org
 DOMAIN,greencircleart.com
+DOMAIN,greenconvertible.com
 DOMAIN,greencpk.com
 DOMAIN,greendenizli.com
 DOMAIN,greendh.pub
@@ -153449,6 +153417,7 @@ DOMAIN,greywool.com
 DOMAIN,greyxxx-reactjs.pages.dev
 DOMAIN,grfbo.cn
 DOMAIN,grgupt.com.cn
+DOMAIN,gri.no
 DOMAIN,gribkovye-zabolevaniya.com
 DOMAIN,gribusex.lv
 DOMAIN,gridfinder.org
@@ -155096,6 +155065,7 @@ DOMAIN,gxshengli.com
 DOMAIN,gxshzcc.com
 DOMAIN,gxsmartplasma.com
 DOMAIN,gxswzhuli.com
+DOMAIN,gxt.co.uk
 DOMAIN,gxt35.cc
 DOMAIN,gxtao.com
 DOMAIN,gxtlyyl.com
@@ -155186,7 +155156,6 @@ DOMAIN,gyhongxin.com
 DOMAIN,gyhqgg.com
 DOMAIN,gyhsny.com
 DOMAIN,gyhxcj.com
-DOMAIN,gyhxdapp.com
 DOMAIN,gyimtkbf.xyz
 DOMAIN,gyizcikt.xyz
 DOMAIN,gyjcys.com
@@ -156582,6 +156551,7 @@ DOMAIN,halifaxswingers.ca
 DOMAIN,halifaxswingers.com
 DOMAIN,haliliyeescortgo.xyz
 DOMAIN,haliloglugayrimenkulinsaat.com
+DOMAIN,haliyikama-ankara.com
 DOMAIN,haliyikamaciankara.com
 DOMAIN,halkaliescort.net
 DOMAIN,halkaliescortara.com
@@ -156778,6 +156748,7 @@ DOMAIN,handarbeiter.de
 DOMAIN,handaza.com
 DOMAIN,handbra.org
 DOMAIN,handcock.com
+DOMAIN,handcore-henry.prvn.fetlifeblog.com
 DOMAIN,handcuff.xxx
 DOMAIN,handcuffcentral.com
 DOMAIN,handcuffedbabes.com
@@ -156890,7 +156861,6 @@ DOMAIN,handjobporn.xyz
 DOMAIN,handjobporno1.com
 DOMAIN,handjobprincess.com
 DOMAIN,handjobreal.pages.dev
-DOMAIN,handjobreviewer.com
 DOMAIN,handjobs-123.com
 DOMAIN,handjobs-index.com
 DOMAIN,handjobs-vakuumpumpe-fr-frauen.pages.dev
@@ -157866,7 +157836,6 @@ DOMAIN,hardcorepartying3.com
 DOMAIN,hardcorepartying5.com
 DOMAIN,hardcorepartyingmovies.com
 DOMAIN,hardcorepass.com
-DOMAIN,hardcorepassword.net
 DOMAIN,hardcorepayperview.com
 DOMAIN,hardcorepetites.com
 DOMAIN,hardcorephonesex.biz
@@ -157900,7 +157869,6 @@ DOMAIN,hardcorepunishments.com
 DOMAIN,hardcorepur.com
 DOMAIN,hardcorerainbow.com
 DOMAIN,hardcorerelease.com
-DOMAIN,hardcorereviewer.com
 DOMAIN,hardcoreroughporn.com
 DOMAIN,hardcoresamples.com
 DOMAIN,hardcoresbesttgp.com
@@ -159801,6 +159769,7 @@ DOMAIN,hdporn.wiki
 DOMAIN,hdporn.wtf
 DOMAIN,hdporn0.com
 DOMAIN,hdporn1.com
+DOMAIN,hdporn1080.net
 DOMAIN,hdporn18.com
 DOMAIN,hdporn24.beauty
 DOMAIN,hdporn24.biz
@@ -160424,7 +160393,6 @@ DOMAIN,hdsexit.com
 DOMAIN,hdsexlib.com
 DOMAIN,hdsexlive.com
 DOMAIN,hdsexlove.me
-DOMAIN,hdsexlove.mobi
 DOMAIN,hdsexlove.net
 DOMAIN,hdsexlove.org
 DOMAIN,hdsexmature.com
@@ -160810,7 +160778,6 @@ DOMAIN,hdyoujiz.buzz
 DOMAIN,hdyoujiz.club
 DOMAIN,hdyoujiz.fun
 DOMAIN,hdyoujiz.lat
-DOMAIN,hdyoujiz.lol
 DOMAIN,hdyoujiz.online
 DOMAIN,hdyoujiz.pics
 DOMAIN,hdyoujizz.help
@@ -160820,7 +160787,6 @@ DOMAIN,hdyoujizz.video
 DOMAIN,hdyoungxxx.com
 DOMAIN,hdyouporn.com
 DOMAIN,hdyr.net
-DOMAIN,hdys02.com
 DOMAIN,hdys03.com
 DOMAIN,hdysoft.com
 DOMAIN,hdyszyw.cc
@@ -161591,6 +161557,7 @@ DOMAIN,hellotranny.com
 DOMAIN,helloveg.com.cn
 DOMAIN,hellovword.me
 DOMAIN,hellpass.com
+DOMAIN,hellphoto.com
 DOMAIN,hellporn.net
 DOMAIN,hellporn.pro
 DOMAIN,hellporno.buzz
@@ -162621,6 +162588,7 @@ DOMAIN,hentaitaboo.xyz
 DOMAIN,hentaitake.net
 DOMAIN,hentaitalk.com
 DOMAIN,hentaitap.com
+DOMAIN,hentaiteca.net
 DOMAIN,hentaitelegram.com
 DOMAIN,hentaitemple.com
 DOMAIN,hentaith.com
@@ -162923,7 +162891,6 @@ DOMAIN,heovcl.top
 DOMAIN,heoviet.com
 DOMAIN,heovl.best
 DOMAIN,heovl.bet
-DOMAIN,heovl.blog
 DOMAIN,heovl.bot
 DOMAIN,heovl.ca
 DOMAIN,heovl.cc
@@ -163915,6 +163882,7 @@ DOMAIN,hidden-shelf.com
 DOMAIN,hidden-showers.com
 DOMAIN,hidden-tool.com
 DOMAIN,hidden-zone.com
+DOMAIN,hidden.gogoceleb.com
 DOMAIN,hiddenamateur.com
 DOMAIN,hiddenbeachpics.com
 DOMAIN,hiddenbedroomcams.com
@@ -165976,7 +165944,6 @@ DOMAIN,ho-119.com
 DOMAIN,ho289.sbs
 DOMAIN,ho44.sbs
 DOMAIN,ho5ho.com
-DOMAIN,ho6ho.com
 DOMAIN,ho84.com.cn
 DOMAIN,ho91.com
 DOMAIN,hoa969.sbs
@@ -166311,11 +166278,8 @@ DOMAIN,hollyrope.com
 DOMAIN,hollyshunnies.com
 DOMAIN,hollytattooporn.pages.dev
 DOMAIN,hollywire.com
-DOMAIN,hollywood-x.com
-DOMAIN,hollywood-xposed.com
 DOMAIN,hollywood201.com
 DOMAIN,hollywoodclassicmovies.com
-DOMAIN,hollywoodcock.com
 DOMAIN,hollywoodflesh.com
 DOMAIN,hollywoodfuck.com
 DOMAIN,hollywoodgfs.com
@@ -166927,7 +166891,6 @@ DOMAIN,homoboyz.nl
 DOMAIN,homocity.de
 DOMAIN,homodaten.nl
 DOMAIN,homodates.com
-DOMAIN,homodatings.nl
 DOMAIN,homodatingsite.nl
 DOMAIN,homoemo.com
 DOMAIN,homoemo.net
@@ -167346,7 +167309,6 @@ DOMAIN,hoorayforfamily.com
 DOMAIN,hoorey.com.cn
 DOMAIN,hoosd.com
 DOMAIN,hoosierlimousine.com
-DOMAIN,hoostory.ru
 DOMAIN,hooter2k.com
 DOMAIN,hooterama.com
 DOMAIN,hooterdog.com
@@ -167382,6 +167344,7 @@ DOMAIN,horadohomem.com.br
 DOMAIN,horahentai.com
 DOMAIN,horamimosa.com
 DOMAIN,horedu.com
+DOMAIN,horeen.com
 DOMAIN,horetoys.com
 DOMAIN,horgasztarskereso.com
 DOMAIN,horizenedu.com
@@ -168623,7 +168586,6 @@ DOMAIN,hot703.com
 DOMAIN,hot713.com
 DOMAIN,hot720p.com
 DOMAIN,hot759.com
-DOMAIN,hot7porn.com
 DOMAIN,hot851.com
 DOMAIN,hot871.com
 DOMAIN,hot8tuning.com
@@ -168901,7 +168863,6 @@ DOMAIN,hotbazi.top
 DOMAIN,hotbbcslutrobin.com
 DOMAIN,hotbbsex.com
 DOMAIN,hotbbwbabes.com
-DOMAIN,hotbbwcams.com
 DOMAIN,hotbbwmom.com
 DOMAIN,hotbbwphonesex.com
 DOMAIN,hotbbwpics.com
@@ -169039,7 +169000,6 @@ DOMAIN,hotcamsreview.com
 DOMAIN,hotcamssexe.com
 DOMAIN,hotcamstream.com
 DOMAIN,hotcamstudio.com
-DOMAIN,hotcamsweeties.com
 DOMAIN,hotcamteens.net
 DOMAIN,hotcamtv.com
 DOMAIN,hotcamz.com
@@ -169332,7 +169292,6 @@ DOMAIN,hotfuckcams.com
 DOMAIN,hotfuckclips.com
 DOMAIN,hotfuckedbabes.com
 DOMAIN,hotfuckfilms.com
-DOMAIN,hotfuckhindi.com
 DOMAIN,hotfuckindian.com
 DOMAIN,hotfucking.com
 DOMAIN,hotfuckingblogs.com
@@ -169518,7 +169477,6 @@ DOMAIN,hotgrannies.co.uk
 DOMAIN,hotgranniesfuck.com
 DOMAIN,hotgranny.name
 DOMAIN,hotgranny.vip
-DOMAIN,hotgrannycams.com
 DOMAIN,hotgrannydating.co.uk
 DOMAIN,hotgrannydating.eu
 DOMAIN,hotgrannymovs.com
@@ -169766,7 +169724,6 @@ DOMAIN,hotluder.de
 DOMAIN,hotlush.com
 DOMAIN,hotly.ch
 DOMAIN,hotmaal.ac
-DOMAIN,hotmaal.co
 DOMAIN,hotmaal.com.co
 DOMAIN,hotmaal.gg
 DOMAIN,hotmaal.hot
@@ -170139,6 +170096,7 @@ DOMAIN,hotoldtube.com
 DOMAIN,hotoldxxx.com
 DOMAIN,hotoma.com
 DOMAIN,hotonesporn.com
+DOMAIN,hotonlinenews.us.intellitxt.com
 DOMAIN,hotop.co.il
 DOMAIN,hotoral-sex.com
 DOMAIN,hotorgasms.com
@@ -170344,7 +170302,6 @@ DOMAIN,hotpornxxx.cc
 DOMAIN,hotpornxxx.net
 DOMAIN,hotporny.com.br
 DOMAIN,hotportal.gr
-DOMAIN,hotpovblowjobs.com
 DOMAIN,hotpoweryoga.co.uk
 DOMAIN,hotpplace.com
 DOMAIN,hotpreality.com
@@ -171045,7 +171002,6 @@ DOMAIN,hotxxx.buzz
 DOMAIN,hotxxx.cc
 DOMAIN,hotxxx.cfd
 DOMAIN,hotxxx.help
-DOMAIN,hotxxx.homes
 DOMAIN,hotxxx.icu
 DOMAIN,hotxxx.lat
 DOMAIN,hotxxx.lol
@@ -171382,7 +171338,6 @@ DOMAIN,hpjav.com
 DOMAIN,hpjav.in
 DOMAIN,hpjav.net
 DOMAIN,hpjav.ninja
-DOMAIN,hpjav.one
 DOMAIN,hpkspgavu.lol
 DOMAIN,hpkspzula.xyz
 DOMAIN,hpl-china.com
@@ -171886,7 +171841,6 @@ DOMAIN,hqxxx.mom
 DOMAIN,hqxxx.net
 DOMAIN,hqxxx.online
 DOMAIN,hqxxx.org
-DOMAIN,hqxxx.quest
 DOMAIN,hqxxx24.cc
 DOMAIN,hqxxxgay.com
 DOMAIN,hqxxxhub.com
@@ -173198,6 +173152,7 @@ DOMAIN,humplinks.com
 DOMAIN,humpporn.com
 DOMAIN,humpradar.com
 DOMAIN,humpshome.com
+DOMAIN,humraaz.com
 DOMAIN,humsi.cn
 DOMAIN,humsocc.org.cn
 DOMAIN,humus.uno
@@ -173796,7 +173751,6 @@ DOMAIN,hxcy.top
 DOMAIN,hxd970.sbs
 DOMAIN,hxdoll.com
 DOMAIN,hxdoujin.com
-DOMAIN,hxdporn.sqdev.dpdns.org
 DOMAIN,hxdrao.top
 DOMAIN,hxdsq.com
 DOMAIN,hxe049.com
@@ -174119,7 +174073,6 @@ DOMAIN,hypnohub.com
 DOMAIN,hypnohub.net
 DOMAIN,hypnoincest.com
 DOMAIN,hypnois.com
-DOMAIN,hypnolust.com
 DOMAIN,hypnomilf.pages.dev
 DOMAIN,hypnophonesextherapy.com
 DOMAIN,hypnopics-collective.net
@@ -174136,7 +174089,6 @@ DOMAIN,hypnosis-fetish.net
 DOMAIN,hypnosis-mistress.com
 DOMAIN,hypnosis-ntr-voyeur-record.pages.dev
 DOMAIN,hypnosis.porn
-DOMAIN,hypnosis.st
 DOMAIN,hypnosisfetish.com
 DOMAIN,hypnosisforguys.com
 DOMAIN,hypnosisphonesexaddiction.com
@@ -174230,7 +174182,6 @@ DOMAIN,hyxx062.cc
 DOMAIN,hyxx065.cc
 DOMAIN,hyxx066.cc
 DOMAIN,hyxx067.cc
-DOMAIN,hyxx068.cc
 DOMAIN,hyxx069.cc
 DOMAIN,hyxxzxb.cn
 DOMAIN,hyy123.com
@@ -174678,6 +174629,7 @@ DOMAIN,iacschool.com
 DOMAIN,iacsna.com
 DOMAIN,iad466.sbs
 DOMAIN,iadmitit.net
+DOMAIN,iadnet.com
 DOMAIN,iadoreasians.com
 DOMAIN,iae6.com
 DOMAIN,iaeducativo.com
@@ -174746,7 +174698,6 @@ DOMAIN,iany.top
 DOMAIN,iao.su
 DOMAIN,iao404.com
 DOMAIN,iao8uui0.cyou
-DOMAIN,iaolin.com
 DOMAIN,iap665.sbs
 DOMAIN,iaporn.chat
 DOMAIN,iaporn.net
@@ -175453,7 +175404,6 @@ DOMAIN,idg172.com
 DOMAIN,idgenerator.xyz
 DOMAIN,idgg.top
 DOMAIN,idhad.com
-DOMAIN,idhky.top
 DOMAIN,idhoet.com
 DOMAIN,idhvjfv.cn
 DOMAIN,idi018.top
@@ -175462,6 +175412,7 @@ DOMAIN,idiaoyan.com
 DOMAIN,idizaingenieria.com
 DOMAIN,idjav.info
 DOMAIN,idjfgb.asia
+DOMAIN,idkom.com
 DOMAIN,idld47.com
 DOMAIN,idld50.com
 DOMAIN,idld52.com
@@ -175945,7 +175896,6 @@ DOMAIN,ihg491.com
 DOMAIN,ihhmx.com
 DOMAIN,ihi274.sbs
 DOMAIN,ihihiihihihihsex.pages.dev
-DOMAIN,ihlw40.com
 DOMAIN,ihm843.sbs
 DOMAIN,ihmepornoa.com
 DOMAIN,ihmmm.cn
@@ -176806,6 +176756,7 @@ DOMAIN,img.bustyxgirl.com
 DOMAIN,img.callofgirl.com
 DOMAIN,img.cutexgirl.com
 DOMAIN,img.ebookrenta.com
+DOMAIN,img.erosite1012.com
 DOMAIN,img.gaybeeg.info
 DOMAIN,img.girlygirlpic.com
 DOMAIN,img.greatxass.com
@@ -177662,6 +177613,7 @@ DOMAIN,incest-tub.com
 DOMAIN,incest-video.tv
 DOMAIN,incest.click
 DOMAIN,incest.co.uk
+DOMAIN,incest.download
 DOMAIN,incest.gg
 DOMAIN,incest.guru
 DOMAIN,incest.link
@@ -177781,7 +177733,6 @@ DOMAIN,incestpornvideos.com
 DOMAIN,incestrapeporn.com
 DOMAIN,incests-porno.com
 DOMAIN,incests-porno.org
-DOMAIN,incests.ru
 DOMAIN,incestscenes.com
 DOMAIN,incestsecrets.com
 DOMAIN,incestsex-stories.org
@@ -179132,7 +179083,6 @@ DOMAIN,ines-cudna.com
 DOMAIN,inescapablebondage.com
 DOMAIN,inescorts.com
 DOMAIN,inescudna.eu
-DOMAIN,inescudnatits.com
 DOMAIN,inessarriabacelo.com
 DOMAIN,inessonntag.de
 DOMAIN,inesventura.com.br
@@ -179470,7 +179420,6 @@ DOMAIN,innosource.cn
 DOMAIN,innotop.cn
 DOMAIN,innovamanualidades.com
 DOMAIN,innovative-productions.org
-DOMAIN,innovatorsact.eu
 DOMAIN,innovid.com
 DOMAIN,innowaresoft.com
 DOMAIN,innpit.com
@@ -179762,6 +179711,7 @@ DOMAIN,interacialsex.com
 DOMAIN,interacialswinger.com
 DOMAIN,interacialswingers.com
 DOMAIN,interacialtube.com
+DOMAIN,interactchat.com
 DOMAIN,interactieveporno.nl
 DOMAIN,interactievesex.nl
 DOMAIN,interactive-pov.com
@@ -179810,6 +179760,7 @@ DOMAIN,interestingstory.info
 DOMAIN,intergay.com
 DOMAIN,interior-stickers.ru
 DOMAIN,interkent.info
+DOMAIN,interkredyty.pl
 DOMAIN,interlink360.com
 DOMAIN,interma.net
 DOMAIN,intermaids.com
@@ -179838,6 +179789,7 @@ DOMAIN,internationalvideochat.com
 DOMAIN,internationalwebcamgirl.com
 DOMAIN,internebula.net
 DOMAIN,internet-apteka.ru
+DOMAIN,internet-cleaning-tool.capital-software.qarchive.org
 DOMAIN,internet-nutten.net
 DOMAIN,internetamateurs.com
 DOMAIN,internetbabes.com
@@ -180027,7 +179979,6 @@ DOMAIN,interracialpovs.com
 DOMAIN,interracialpussy.com
 DOMAIN,interracialreality.com
 DOMAIN,interracialretreat.com
-DOMAIN,interracialreviewer.com
 DOMAIN,interracialroughness.com
 DOMAIN,interracials.com
 DOMAIN,interracialseniordating.com
@@ -180456,6 +180407,7 @@ DOMAIN,iowasluts.net
 DOMAIN,iowatranny.com
 DOMAIN,iowatransexual.com
 DOMAIN,iowawhores.net
+DOMAIN,iozprk.cn
 DOMAIN,ip-telecom.net
 DOMAIN,ip.ro
 DOMAIN,ip107182233.ahcdn.com
@@ -180718,7 +180670,6 @@ DOMAIN,iporntv.makeup
 DOMAIN,iporntv.me
 DOMAIN,iporntv.mobi
 DOMAIN,iporntv.net
-DOMAIN,iporntv.pl
 DOMAIN,iporntv.sex
 DOMAIN,iporntv.support
 DOMAIN,iporntv.top
@@ -181038,7 +180989,6 @@ DOMAIN,irrumatio.com
 DOMAIN,irs-w2.com
 DOMAIN,irs01.net
 DOMAIN,irsex.net
-DOMAIN,irsufth.com
 DOMAIN,irteens.com
 DOMAIN,irtuwxo.cn
 DOMAIN,irtv24.cam
@@ -181047,6 +180997,7 @@ DOMAIN,irui-objectsexuality.net
 DOMAIN,iruiqiao.com
 DOMAIN,irule34.com
 DOMAIN,irumsystem.com
+DOMAIN,irunadeoca.eu
 DOMAIN,irunfar.com
 DOMAIN,irunwiththebulls.com
 DOMAIN,irunyu.com
@@ -182642,6 +182593,7 @@ DOMAIN,ixv284.sbs
 DOMAIN,ixx.homes
 DOMAIN,ixx.lat
 DOMAIN,ixx.quest
+DOMAIN,ixxoo.sbs
 DOMAIN,ixxx-xnx.click
 DOMAIN,ixxx.asia
 DOMAIN,ixxx.at
@@ -183749,7 +183701,6 @@ DOMAIN,jap2025.buzz
 DOMAIN,jap2025.club
 DOMAIN,jap2025.help
 DOMAIN,jap2025.lat
-DOMAIN,jap2025.lol
 DOMAIN,jap2025.pics
 DOMAIN,jap2025.sbs
 DOMAIN,jap2025.xyz
@@ -184440,7 +184391,6 @@ DOMAIN,japansex-tube.com
 DOMAIN,japansex-video.com
 DOMAIN,japansex-videos.com
 DOMAIN,japansex-xxx.com
-DOMAIN,japansex.blog
 DOMAIN,japansex.cc
 DOMAIN,japansex.click
 DOMAIN,japansex.fun
@@ -184664,6 +184614,7 @@ DOMAIN,jarochos.net
 DOMAIN,jaroffice.com
 DOMAIN,jarpsoftware.com
 DOMAIN,jarsquatter.com
+DOMAIN,jartna-fadaih.com
 DOMAIN,jartna.com
 DOMAIN,jas.st
 DOMAIN,jasarat.com
@@ -184678,6 +184629,7 @@ DOMAIN,jasmeetkaur.co.in
 DOMAIN,jasmin-cam.fr
 DOMAIN,jasmin-chat.fr
 DOMAIN,jasmin-live-cams.com
+DOMAIN,jasmin-live.nl
 DOMAIN,jasmin-live.xxx
 DOMAIN,jasmin-livejasmin.com
 DOMAIN,jasmin-telefonsex.de
@@ -185274,6 +185226,7 @@ DOMAIN,javdeal.com
 DOMAIN,javded.org
 DOMAIN,javded69.com
 DOMAIN,javden.com
+DOMAIN,javden.net
 DOMAIN,javdep.com
 DOMAIN,javdesu.com
 DOMAIN,javdesu.net
@@ -185486,7 +185439,6 @@ DOMAIN,javguru.fit
 DOMAIN,javguru.guru
 DOMAIN,javguru.monster
 DOMAIN,javguru.online
-DOMAIN,javguru.pics
 DOMAIN,javguru.pro
 DOMAIN,javguru.sbs
 DOMAIN,javguru.site
@@ -185670,7 +185622,6 @@ DOMAIN,javhdpro.biz
 DOMAIN,javhdpro.cfd
 DOMAIN,javhdpro.lat
 DOMAIN,javhdpro.mom
-DOMAIN,javhdpro.one
 DOMAIN,javhdpro.pro
 DOMAIN,javhdpro.stream
 DOMAIN,javhdpro2.com
@@ -185957,7 +185908,6 @@ DOMAIN,javmodel.live
 DOMAIN,javmodel.org
 DOMAIN,javmoi.blog
 DOMAIN,javmoi.club
-DOMAIN,javmoi.net
 DOMAIN,javmoi.org
 DOMAIN,javmom.link
 DOMAIN,javmommy.com
@@ -185993,6 +185943,7 @@ DOMAIN,javmovies.mobi
 DOMAIN,javmoviesex.com
 DOMAIN,javmoviexxx.com
 DOMAIN,javmovs.com
+DOMAIN,javmuch.com
 DOMAIN,javmulu.net
 DOMAIN,javmup.biz
 DOMAIN,javmup.blog
@@ -186082,7 +186033,6 @@ DOMAIN,javp.net
 DOMAIN,javp1.cc
 DOMAIN,javpack.com
 DOMAIN,javpage.cc
-DOMAIN,javpage.com
 DOMAIN,javpain.com
 DOMAIN,javpaly.com
 DOMAIN,javpans.com
@@ -186112,7 +186062,6 @@ DOMAIN,javphude.pro
 DOMAIN,javphude.vip
 DOMAIN,javpia.com
 DOMAIN,javpics.com
-DOMAIN,javpics.one
 DOMAIN,javpics.org
 DOMAIN,javpink.com
 DOMAIN,javpintu.com
@@ -186154,7 +186103,6 @@ DOMAIN,javporn.love
 DOMAIN,javporn.ltd
 DOMAIN,javporn.one
 DOMAIN,javporn.pages.dev
-DOMAIN,javporn.pics
 DOMAIN,javporn.pro
 DOMAIN,javporn.today
 DOMAIN,javporn.video
@@ -186609,7 +186557,6 @@ DOMAIN,javtube.com.es
 DOMAIN,javtube.me
 DOMAIN,javtube.net
 DOMAIN,javtube.pro
-DOMAIN,javtube.xyz
 DOMAIN,javtube1.com
 DOMAIN,javtube4k.com
 DOMAIN,javtubebdsm.com
@@ -186719,6 +186666,7 @@ DOMAIN,javwei.com
 DOMAIN,javwept.com
 DOMAIN,javwhat.com
 DOMAIN,javwhet.com
+DOMAIN,javwhores.com
 DOMAIN,javwhores.mobi
 DOMAIN,javwick.com
 DOMAIN,javwide.com
@@ -187148,7 +187096,6 @@ DOMAIN,jdanseed.com
 DOMAIN,jdav1.me
 DOMAIN,jdav88.com
 DOMAIN,jdavsp.com
-DOMAIN,jdavsp.live
 DOMAIN,jdavsp.xyz
 DOMAIN,jdb275.sbs
 DOMAIN,jdb777.pro
@@ -187540,7 +187487,6 @@ DOMAIN,jerkidiot.com
 DOMAIN,jerking.one
 DOMAIN,jerkingcams.com
 DOMAIN,jerkingdog.pro
-DOMAIN,jerkingdwarf.com
 DOMAIN,jerkinghub.com
 DOMAIN,jerkinginstruction.com
 DOMAIN,jerkingmates.com
@@ -189374,6 +189320,7 @@ DOMAIN,jjmhw4.top
 DOMAIN,jjmhw5.top
 DOMAIN,jjmhw6.top
 DOMAIN,jjmhw8.top
+DOMAIN,jjmhw9.top
 DOMAIN,jjminsu.cn
 DOMAIN,jjmndfinally.bond
 DOMAIN,jjn553.sbs
@@ -189472,7 +189419,6 @@ DOMAIN,jkisart.xyz
 DOMAIN,jkitzua.cn
 DOMAIN,jkixdj.com.cn
 DOMAIN,jkj349.sbs
-DOMAIN,jkjig5u4.top
 DOMAIN,jkjsqc.com.cn
 DOMAIN,jkk099.com
 DOMAIN,jkk932.com
@@ -189604,6 +189550,7 @@ DOMAIN,jlsledu-blog.com
 DOMAIN,jlsledu-vod.com
 DOMAIN,jlsongxia.com
 DOMAIN,jlsphd.com
+DOMAIN,jlspsp.com
 DOMAIN,jlssxmn.com
 DOMAIN,jlsted.com
 DOMAIN,jlsxpzs.com
@@ -189881,7 +189828,6 @@ DOMAIN,jnrc.fr
 DOMAIN,jnrhrlzy.com
 DOMAIN,jnrlawfirm.com
 DOMAIN,jnrxbyyzx.com
-DOMAIN,jns-grp.net
 DOMAIN,jns510.sbs
 DOMAIN,jnscd.com
 DOMAIN,jnshengxin.com
@@ -190425,8 +190371,8 @@ DOMAIN,jopa02.club
 DOMAIN,jopafoto.com
 DOMAIN,jopafoto.ru
 DOMAIN,jopaonline.mobi
-DOMAIN,jopaonline.top
 DOMAIN,jopatube.org
+DOMAIN,jopay.net
 DOMAIN,jopeki.com
 DOMAIN,jopki.org
 DOMAIN,jopki.tv
@@ -190532,6 +190478,7 @@ DOMAIN,jotarokujoporn.pages.dev
 DOMAIN,jotsex.com
 DOMAIN,jotunheim.ru
 DOMAIN,jotunn.xyz
+DOMAIN,jouch.cn
 DOMAIN,joueraveclefantasme.com
 DOMAIN,jouetie.net.cn
 DOMAIN,jouetsexuel.ca
@@ -190576,6 +190523,7 @@ DOMAIN,joy-porno-straubing-dinner-in-the-dark.pages.dev
 DOMAIN,joy-sexkontakte-ponygirl-geschichten.pages.dev
 DOMAIN,joy.club
 DOMAIN,joya-br.com
+DOMAIN,joyacg.cc
 DOMAIN,joyacg.com
 DOMAIN,joyacg.top
 DOMAIN,joyangeles.com
@@ -191022,6 +190970,7 @@ DOMAIN,jrwk.net.cn
 DOMAIN,jrwp.net
 DOMAIN,jrxp.net.cn
 DOMAIN,jrz372.sbs
+DOMAIN,jrzirsok.com
 DOMAIN,js-ajm.com
 DOMAIN,js-climate.com.cn
 DOMAIN,js-cmm.com
@@ -191486,7 +191435,6 @@ DOMAIN,juggmodels.com
 DOMAIN,juggmovieplanet.com
 DOMAIN,juggpics.com
 DOMAIN,juggporn.com
-DOMAIN,juggs2go.com
 DOMAIN,juggsburg.com
 DOMAIN,juggshunter.com
 DOMAIN,juggsinc.com
@@ -191530,6 +191478,7 @@ DOMAIN,jui348.sbs
 DOMAIN,juiceadv.com
 DOMAIN,juiceboxit.com
 DOMAIN,juicechan.net
+DOMAIN,juicecleanse.com.au
 DOMAIN,juicedcunts.com
 DOMAIN,juicemilf.xyz
 DOMAIN,juiceplus.com
@@ -192000,6 +191949,7 @@ DOMAIN,just-nude-models.com
 DOMAIN,just-sex.io
 DOMAIN,just-sexxx.com
 DOMAIN,just-tit.com
+DOMAIN,just.luckytreker.com
 DOMAIN,just.porn
 DOMAIN,just.xxx
 DOMAIN,just.zhahach.xyz
@@ -192009,6 +191959,7 @@ DOMAIN,just18teen.net
 DOMAIN,just35pphonesex.co.uk
 DOMAIN,just36pphonesex.co.uk
 DOMAIN,just4adult.net
+DOMAIN,just4funcams.com
 DOMAIN,just4men.com
 DOMAIN,just4phone.com
 DOMAIN,just4pussy.com
@@ -192081,6 +192032,7 @@ DOMAIN,justfor.fans
 DOMAIN,justforbdsm.com
 DOMAIN,justforfans.app
 DOMAIN,justforfans.com
+DOMAIN,justforfunpersonals.com
 DOMAIN,justforgaysporn.best
 DOMAIN,justfreeadultcams.com
 DOMAIN,justfreeporn.com
@@ -192192,7 +192144,6 @@ DOMAIN,justnubiles.com
 DOMAIN,justnude.top
 DOMAIN,justnudeamateurs.com
 DOMAIN,justnudepic.com
-DOMAIN,justoncam.com
 DOMAIN,justover18gonzo.com
 DOMAIN,justovereighteen.com
 DOMAIN,justownme.com
@@ -193244,7 +193195,6 @@ DOMAIN,kaiakitsunexxx.pages.dev
 DOMAIN,kaiao56.com
 DOMAIN,kaibiancom.com
 DOMAIN,kaicaiedu.com
-DOMAIN,kaicang.com.cn
 DOMAIN,kaiche.org.cn
 DOMAIN,kaiche182.cc
 DOMAIN,kaiche190.cc
@@ -193943,6 +193893,7 @@ DOMAIN,karenpaijeghettogaggers.com
 DOMAIN,karentube.com
 DOMAIN,karentvslut.com
 DOMAIN,karenudders.com
+DOMAIN,karespade.com
 DOMAIN,kargo.com
 DOMAIN,karhbetna.com
 DOMAIN,karibiaann.com
@@ -196058,6 +196009,7 @@ DOMAIN,kidseduleap.com
 DOMAIN,kidsfiredup.com
 DOMAIN,kidsgadgetsstore.com
 DOMAIN,kidslandclub.com
+DOMAIN,kidslanguageresources.com
 DOMAIN,kidsnetwork.tv
 DOMAIN,kidsofthehill.com
 DOMAIN,kidszo.com
@@ -196475,7 +196427,6 @@ DOMAIN,kingmankj.com
 DOMAIN,kingmodels.com.br
 DOMAIN,kingnoirexxx.com
 DOMAIN,kingofbabes.com
-DOMAIN,kingofboob.com
 DOMAIN,kingofcams.com
 DOMAIN,kingofcelebs.com
 DOMAIN,kingofclips.xxx
@@ -196486,7 +196437,6 @@ DOMAIN,kingofporn.de
 DOMAIN,kingofsize.com
 DOMAIN,kingonepet.com
 DOMAIN,kingperv.com
-DOMAIN,kingporn.online
 DOMAIN,kingporn.pages.dev
 DOMAIN,kingporn.top
 DOMAIN,kingporn.video
@@ -197101,6 +197051,7 @@ DOMAIN,kinotek.pl
 DOMAIN,kinotorka.ru
 DOMAIN,kinotube.info
 DOMAIN,kinre.com.cn
+DOMAIN,kinsalehistorysociety.com
 DOMAIN,kinseyplc.com
 DOMAIN,kinshicho-sentai.com
 DOMAIN,kinsleycullinanporn.pages.dev
@@ -197377,6 +197328,7 @@ DOMAIN,kitchenersexbook.ca
 DOMAIN,kitchenporno.com
 DOMAIN,kitchensinkspanking.com
 DOMAIN,kitchenslive.com
+DOMAIN,kitchentablegang.org
 DOMAIN,kiteh.net
 DOMAIN,kitehkawasaki.com
 DOMAIN,kiteminka.com
@@ -198287,7 +198239,6 @@ DOMAIN,koalaporno.com
 DOMAIN,koalaxxx.com
 DOMAIN,koavporn8.cc
 DOMAIN,kobayashi-web.com
-DOMAIN,kobe-fukuhara.net
 DOMAIN,kobe-pastel.com
 DOMAIN,kobekyu.co.kr
 DOMAIN,kobeteppanyakiandsushi.com
@@ -198963,6 +198914,7 @@ DOMAIN,koreasexwebcam.com
 DOMAIN,koreasudi.com
 DOMAIN,koreasun.ru
 DOMAIN,koreatiger.org
+DOMAIN,koreatojapan.com
 DOMAIN,koreaye.com
 DOMAIN,koregoddess.net
 DOMAIN,korehkchina.com
@@ -200076,7 +200028,6 @@ DOMAIN,kuaibovideo.net
 DOMAIN,kuaibovod.com
 DOMAIN,kuaibovod.net
 DOMAIN,kuaiboxxx22.sbs
-DOMAIN,kuaiboxxx23.sbs
 DOMAIN,kuaiboxxx24.sbs
 DOMAIN,kuaiboxxx25.sbs
 DOMAIN,kuaiboxxx26.sbs
@@ -201121,6 +201072,7 @@ DOMAIN,lacochonne.com
 DOMAIN,lacomics-org.zproxy.org
 DOMAIN,lacomics.net
 DOMAIN,lacomics.org
+DOMAIN,lacomix.org
 DOMAIN,laconexion.gt
 DOMAIN,lacord.cn
 DOMAIN,lacoste.net.cn
@@ -201360,7 +201312,6 @@ DOMAIN,ladyboyfreeporn.com
 DOMAIN,ladyboyfriends.com
 DOMAIN,ladyboyfromthai.com
 DOMAIN,ladyboyfuck.me
-DOMAIN,ladyboyfuckbook.co.uk
 DOMAIN,ladyboyfucking.com
 DOMAIN,ladyboyfuckpics.com
 DOMAIN,ladyboyfucktube.com
@@ -201814,6 +201765,7 @@ DOMAIN,lamiagnocca.com
 DOMAIN,lamianx.com
 DOMAIN,lamiatrans.it
 DOMAIN,lamiflor.xyz
+DOMAIN,lamiloproject.eu
 DOMAIN,lamiradadepierina.com.ar
 DOMAIN,lammasbananas.com
 DOMAIN,lamodel.com
@@ -202122,7 +202074,6 @@ DOMAIN,laoniufilm.net
 DOMAIN,laoniuvideo.com
 DOMAIN,laoniuvideo.net
 DOMAIN,laonpa.com
-DOMAIN,laoobbbgcwrcfqsmaniawxcye.com
 DOMAIN,laopao.tv
 DOMAIN,laopaoa.cc
 DOMAIN,laopaob.cc
@@ -202853,7 +202804,6 @@ DOMAIN,latinafan.com
 DOMAIN,latinafeed.com
 DOMAIN,latinafever.club
 DOMAIN,latinafuck.com
-DOMAIN,latinafuckbook.co.uk
 DOMAIN,latinafuckfest.com
 DOMAIN,latinafucktour.com
 DOMAIN,latinagalleries.net
@@ -202933,7 +202883,6 @@ DOMAIN,latinapussy.pics
 DOMAIN,latinapussypics.com
 DOMAIN,latinarampage.com
 DOMAIN,latinareel.com
-DOMAIN,latinareviewer.com
 DOMAIN,latinaromance.com
 DOMAIN,latinaroulette.com
 DOMAIN,latinaroulette.live
@@ -203048,7 +202997,6 @@ DOMAIN,latinaxxx.pro
 DOMAIN,latinaxxx.vip
 DOMAIN,latinaxxx.win
 DOMAIN,latinaxxxcams.com
-DOMAIN,latinaxxxchat.com
 DOMAIN,latinaxxxpass.com
 DOMAIN,latinaxxxtube.com
 DOMAIN,latinaxxxvideos.com
@@ -203433,6 +203381,7 @@ DOMAIN,lbdik.cn
 DOMAIN,lbdlk.org
 DOMAIN,lbdsex.com
 DOMAIN,lbfm.tv
+DOMAIN,lbfmaddiction.com
 DOMAIN,lbfmcams.com
 DOMAIN,lbfmcams.net
 DOMAIN,lbfmcams.org
@@ -203784,6 +203733,7 @@ DOMAIN,leakimedia.com
 DOMAIN,leakingirls.com
 DOMAIN,leakingpussy.com
 DOMAIN,leakingvideo.com
+DOMAIN,leakjerk.com
 DOMAIN,leakly.co
 DOMAIN,leakmafia.com
 DOMAIN,leakmycam.com
@@ -205086,6 +205036,7 @@ DOMAIN,lesbianfuckfest.com
 DOMAIN,lesbianfucktube.com
 DOMAIN,lesbiangalore.com
 DOMAIN,lesbiangay.shop
+DOMAIN,lesbiangaychat.net
 DOMAIN,lesbiangaydating.com
 DOMAIN,lesbiangfsporn.com
 DOMAIN,lesbiangifs.com
@@ -205250,7 +205201,6 @@ DOMAIN,lesbianpussysex.com
 DOMAIN,lesbianpworld.com
 DOMAIN,lesbianrapporn.pages.dev
 DOMAIN,lesbianreel.com
-DOMAIN,lesbianreviewer.com
 DOMAIN,lesbianromance.com
 DOMAIN,lesbianrooms.com
 DOMAIN,lesbianroughsex.com
@@ -205275,6 +205225,7 @@ DOMAIN,lesbiansbdsm.com
 DOMAIN,lesbiansblack.org
 DOMAIN,lesbianscam.com
 DOMAIN,lesbianscat.top
+DOMAIN,lesbianschatlive.com
 DOMAIN,lesbianschoolgirl.com
 DOMAIN,lesbianschoolgirls.com
 DOMAIN,lesbianscissoring.ch
@@ -205681,7 +205632,6 @@ DOMAIN,lethalhardcoremobile.com
 DOMAIN,lethalhardcorevr.com
 DOMAIN,lethalinterracial.com
 DOMAIN,lethallipstick.com
-DOMAIN,lethalmilf.com
 DOMAIN,lethalpass.com
 DOMAIN,lethalporn.com
 DOMAIN,lethalveronica.com
@@ -207442,6 +207392,7 @@ DOMAIN,linta8.com.cn
 DOMAIN,linux-saratov.ru
 DOMAIN,linux.do
 DOMAIN,linuxeo.com
+DOMAIN,linuxforums.us.intellitxt.com
 DOMAIN,linuxmax.net
 DOMAIN,linuxpark.adtech.us
 DOMAIN,linuxpowered.com.cn
@@ -207503,7 +207454,6 @@ DOMAIN,lipsporn.com
 DOMAIN,lipsporn.net
 DOMAIN,lipstick-sex.be
 DOMAIN,lipstick.be
-DOMAIN,lipstickbj.com
 DOMAIN,lipstickdomme.com
 DOMAIN,lipstickgirls.com
 DOMAIN,lipsticklesbian.ca
@@ -207740,6 +207690,7 @@ DOMAIN,littlecoco.com
 DOMAIN,littlecookie.com
 DOMAIN,littlecouplesex.nl
 DOMAIN,littlecritter.top
+DOMAIN,littlecuties.deutschxxx.xyz
 DOMAIN,littledanni.com
 DOMAIN,littledebrasporn.com
 DOMAIN,littledevildoubt.com
@@ -208281,7 +208232,6 @@ DOMAIN,liveasiangirl.com
 DOMAIN,liveasiangirlcam.com
 DOMAIN,liveasiangirlcams.net
 DOMAIN,liveasiangirlchats.com
-DOMAIN,liveasiansex.org
 DOMAIN,liveasiansluts.com
 DOMAIN,liveasiantrannycam.com
 DOMAIN,liveasianvideochat.com
@@ -209159,7 +209109,6 @@ DOMAIN,livemalewebcams.com
 DOMAIN,livemandy.com
 DOMAIN,livemaster.nl
 DOMAIN,livemasturbation.com
-DOMAIN,livematurefun.net
 DOMAIN,livematureporn.click
 DOMAIN,livematureporn.com
 DOMAIN,livematures.com
@@ -209765,7 +209714,6 @@ DOMAIN,livesexcamsxx.com
 DOMAIN,livesexcamsxxx.cc
 DOMAIN,livesexcamsxxx.com
 DOMAIN,livesexcamsxxx.org
-DOMAIN,livesexcamtocam.net
 DOMAIN,livesexcamvrouwen.nl
 DOMAIN,livesexcamx.com
 DOMAIN,livesexcamz.com
@@ -210103,7 +210051,6 @@ DOMAIN,liveslasting.com
 DOMAIN,liveslutcam.org
 DOMAIN,liveslutcams.com
 DOMAIN,liveslutcams.online
-DOMAIN,livesluts.org
 DOMAIN,livesluts4u.com
 DOMAIN,livesmut.com
 DOMAIN,livesnapchatesex.pages.dev
@@ -210218,7 +210165,6 @@ DOMAIN,livetopcams.com
 DOMAIN,livetostream.fr
 DOMAIN,livetran.com
 DOMAIN,livetranny.cam
-DOMAIN,livetrannycams.co.uk
 DOMAIN,livetrannys.com
 DOMAIN,livetrannyshows.com
 DOMAIN,livetrannywebcam.com
@@ -210347,7 +210293,6 @@ DOMAIN,livexxxaccess.com
 DOMAIN,livexxxcahotcams.com
 DOMAIN,livexxxcam.eu
 DOMAIN,livexxxcam.org
-DOMAIN,livexxxcams.co.uk
 DOMAIN,livexxxcams.net
 DOMAIN,livexxxcams.org
 DOMAIN,livexxxchat.net
@@ -211289,7 +211234,6 @@ DOMAIN,logansvideos.com
 DOMAIN,loganyoungatl.com
 DOMAIN,logartporn.com
 DOMAIN,logging.to
-DOMAIN,loghil.com
 DOMAIN,logic-shirouto.com
 DOMAIN,logichunter.com
 DOMAIN,logicporn.com
@@ -212383,7 +212327,6 @@ DOMAIN,loveherass.com
 DOMAIN,loveherboobs.com
 DOMAIN,loveherboobs.xxx
 DOMAIN,loveherfeet.com
-DOMAIN,loveherfeet.org
 DOMAIN,loveherfeetcams.com
 DOMAIN,loveherfilms.com
 DOMAIN,loveherfilms.xxx
@@ -212436,7 +212379,6 @@ DOMAIN,lovelist.com.gr
 DOMAIN,lovelist.gr
 DOMAIN,lovelook.top
 DOMAIN,lovelot.com
-DOMAIN,lovelot.net
 DOMAIN,lovelounge.net
 DOMAIN,lovelov.ru
 DOMAIN,lovelovechina.com
@@ -213192,6 +213134,7 @@ DOMAIN,lubed.com
 DOMAIN,lubed.us
 DOMAIN,lubed.vip
 DOMAIN,lubed1.com
+DOMAIN,lubedcondoms.com
 DOMAIN,lubedfan.com
 DOMAIN,lubedup.net
 DOMAIN,lubei6.net.cn
@@ -213563,7 +213506,9 @@ DOMAIN,lulus.best
 DOMAIN,lulusexbomb.com
 DOMAIN,lulushe.live
 DOMAIN,lulushe.xyz
+DOMAIN,lulutm.buzz
 DOMAIN,luluvideo.com
+DOMAIN,luluxs.buzz
 DOMAIN,luluzinhacamp.com
 DOMAIN,lulz.com.br
 DOMAIN,lum438.sbs
@@ -214966,7 +214911,6 @@ DOMAIN,m2gbbw.com
 DOMAIN,m2ggoth.com
 DOMAIN,m2gmature.com
 DOMAIN,m2gmilf.com
-DOMAIN,m2gsquirt.com
 DOMAIN,m2gtwerk.com
 DOMAIN,m2k7.biz
 DOMAIN,m2love.com
@@ -215043,7 +214987,6 @@ DOMAIN,m7986.com
 DOMAIN,m7k.xyz
 DOMAIN,m7mza3.cn
 DOMAIN,m7pv.com
-DOMAIN,m7u1g.top
 DOMAIN,m7vo.com
 DOMAIN,m8008.com
 DOMAIN,m82422.com.cn
@@ -215131,6 +215074,7 @@ DOMAIN,mabelleporn.pages.dev
 DOMAIN,mabelsthebrothel.com
 DOMAIN,mabitv.cc
 DOMAIN,mabokep.com
+DOMAIN,maboneng.com
 DOMAIN,maboutiquegay.com
 DOMAIN,mabxd.cn
 DOMAIN,mac-evan.com
@@ -216400,7 +216344,6 @@ DOMAIN,maleflixxxlive.com
 DOMAIN,maleforce.com
 DOMAIN,maleformale.com
 DOMAIN,malefreegayporn.com
-DOMAIN,malefuckbook.co.uk
 DOMAIN,malefucktube.com
 DOMAIN,malefuckvideos.com
 DOMAIN,malegaytubeporn.com
@@ -216528,7 +216471,7 @@ DOMAIN,malkaraevdenevenakliyat.com.tr
 DOMAIN,malkaraevdenevenakliye.com.tr
 DOMAIN,malki.com.br
 DOMAIN,malkmall.com
-DOMAIN,mall.esucaygg.com
+DOMAIN,mall.awjjxxko.com
 DOMAIN,mallaikapuri.com
 DOMAIN,mallandrinhas.net
 DOMAIN,mallcom.com
@@ -217058,7 +217001,6 @@ DOMAIN,manhuajl.com
 DOMAIN,manhuakui.com
 DOMAIN,manhuapi.cc
 DOMAIN,manhuar.com
-DOMAIN,manhuaren.com
 DOMAIN,manhuascan.io
 DOMAIN,manhuascan.me
 DOMAIN,manhuavip.wiki
@@ -217140,14 +217082,11 @@ DOMAIN,manicmother.com
 DOMAIN,manicszep.mhx.jp
 DOMAIN,manihem.com
 DOMAIN,maniksharma.xyz
-DOMAIN,manila18.com
 DOMAIN,manilaamateurs.com
 DOMAIN,manilaboys.com
 DOMAIN,manilaescorthub.com
-DOMAIN,manilaexposed.com
 DOMAIN,manilaexposed.org
 DOMAIN,manilafights.com
-DOMAIN,manilaporn.org
 DOMAIN,manilasex.com
 DOMAIN,manimg.com
 DOMAIN,manipulativemedia.com
@@ -217947,7 +217886,6 @@ DOMAIN,marrieddance.com
 DOMAIN,marrieddatelink.com
 DOMAIN,marrieddatinguk.com
 DOMAIN,marriedfling.co.uk
-DOMAIN,marriedfuckbook.co.uk
 DOMAIN,marriedfuckbook.com
 DOMAIN,marriedgaydating.com
 DOMAIN,marriedhornywomen.com
@@ -218189,6 +218127,7 @@ DOMAIN,masalaseen.tube
 DOMAIN,masalaseen.tv.in
 DOMAIN,masalaseen.watch
 DOMAIN,masalaseen.world
+DOMAIN,masalaseen2.com
 DOMAIN,masalatube.in
 DOMAIN,masalatube1.com
 DOMAIN,masalhane.net
@@ -218235,6 +218174,7 @@ DOMAIN,mascheve.com
 DOMAIN,maschienensex.ch
 DOMAIN,maschietti.com
 DOMAIN,maschinensex.net
+DOMAIN,maschinolumber.com
 DOMAIN,maschioitaliano.it
 DOMAIN,mascot-chem.com
 DOMAIN,mascphoto.com
@@ -218376,6 +218316,7 @@ DOMAIN,massagecum.com
 DOMAIN,massageerotica.com
 DOMAIN,massageflick.com
 DOMAIN,massageforum-mnchen-deutsche-erotikstar.pages.dev
+DOMAIN,massagegayhcm.110.vn
 DOMAIN,massagegaytable.com
 DOMAIN,massagegirlreview.com
 DOMAIN,massagegirls18.co
@@ -218504,7 +218445,6 @@ DOMAIN,masszazslanyok.hu
 DOMAIN,masszazsneked.hu
 DOMAIN,masszazsparban.hu
 DOMAIN,masszazsvidek.hu
-DOMAIN,mast-model.info
 DOMAIN,mast.net
 DOMAIN,masta-amateur.com
 DOMAIN,masta-anal.com
@@ -218653,7 +218593,6 @@ DOMAIN,masturbatingchat.ca
 DOMAIN,masturbatingchatcity.com
 DOMAIN,masturbatingcollegegirls.com
 DOMAIN,masturbatinggirls.org
-DOMAIN,masturbatingmilfs.com
 DOMAIN,masturbatingpics.com
 DOMAIN,masturbatingporn.com
 DOMAIN,masturbatingwomen.org
@@ -219209,7 +219148,6 @@ DOMAIN,maturecam.com
 DOMAIN,maturecam.live
 DOMAIN,maturecam.net
 DOMAIN,maturecam.nl
-DOMAIN,maturecamgirls.co.uk
 DOMAIN,maturecams.app
 DOMAIN,maturecams.co.uk
 DOMAIN,maturecams.com
@@ -219243,7 +219181,6 @@ DOMAIN,maturechatcity.com
 DOMAIN,maturechats.com
 DOMAIN,maturechatter.com
 DOMAIN,maturecherry.org
-DOMAIN,maturechinalady.com
 DOMAIN,maturechubby.com
 DOMAIN,maturecity.net
 DOMAIN,matureclips.com
@@ -219799,7 +219736,6 @@ DOMAIN,maturepornmovs.cc
 DOMAIN,maturepornmovs.com
 DOMAIN,maturepornmovs.shop
 DOMAIN,maturepornmvs.com
-DOMAIN,maturepornnudes.com
 DOMAIN,matureporno.best
 DOMAIN,matureporno.fr
 DOMAIN,matureporno.site
@@ -220010,9 +219946,7 @@ DOMAIN,maturesex.dating
 DOMAIN,maturesex.fun
 DOMAIN,maturesex.hu
 DOMAIN,maturesex.lat
-DOMAIN,maturesex.lol
 DOMAIN,maturesex.me
-DOMAIN,maturesex.mom
 DOMAIN,maturesex.name
 DOMAIN,maturesex.net
 DOMAIN,maturesex.nl
@@ -220369,7 +220303,6 @@ DOMAIN,matureweiber.com
 DOMAIN,maturewife.com
 DOMAIN,maturewifefuck.com
 DOMAIN,maturewifemovies.com
-DOMAIN,maturewifeporn.cc
 DOMAIN,maturewifes.net
 DOMAIN,maturewifeshare.com
 DOMAIN,maturewifetube.com
@@ -220637,7 +220570,6 @@ DOMAIN,maxim.com
 DOMAIN,maximafitness.com
 DOMAIN,maximcams.com
 DOMAIN,maximeaugay.com
-DOMAIN,maximelons.com
 DOMAIN,maximilitary.ru
 DOMAIN,maximisereservices.com
 DOMAIN,maximlott.com
@@ -221128,6 +221060,7 @@ DOMAIN,mcnudes.org
 DOMAIN,mco-edu.com
 DOMAIN,mcojx.cn
 DOMAIN,mcoliviaporn.pages.dev
+DOMAIN,mcorp.lat
 DOMAIN,mcp308.sbs
 DOMAIN,mcp586.sbs
 DOMAIN,mcplchina.com
@@ -221521,6 +221454,7 @@ DOMAIN,medellintwinks.cam
 DOMAIN,medfetishes.com
 DOMAIN,medfordkiwanis.com
 DOMAIN,media-click.ru
+DOMAIN,media-convert.com
 DOMAIN,media-fire.org
 DOMAIN,media-gain.jp
 DOMAIN,media-most.com
@@ -221605,6 +221539,7 @@ DOMAIN,mediteraneo.rs
 DOMAIN,mediterraneangaymaleescorts.com
 DOMAIN,mediton.com.cn
 DOMAIN,mediumpimpin.com
+DOMAIN,mediumtube.pro
 DOMAIN,medkletki.ru
 DOMAIN,medkritika.ru
 DOMAIN,medley.com
@@ -221797,7 +221732,6 @@ DOMAIN,meetforsex.com
 DOMAIN,meetforsex.pages.dev
 DOMAIN,meetforsexnow.com
 DOMAIN,meetforsexx.pages.dev
-DOMAIN,meetfreegirls.info
 DOMAIN,meetfuckbuddies.com
 DOMAIN,meetfuckfree.com
 DOMAIN,meetgamergirls.com
@@ -224362,6 +224296,7 @@ DOMAIN,micaela.live
 DOMAIN,micandidate.eu
 DOMAIN,micasainvest.com
 DOMAIN,micdiy.com
+DOMAIN,mice.pl
 DOMAIN,michaangela.com
 DOMAIN,michael-delura.de
 DOMAIN,michaelberkowitz.com
@@ -224911,7 +224846,6 @@ DOMAIN,milf-nude-scenes.pages.dev
 DOMAIN,milf-nz.top
 DOMAIN,milf-pearl.com
 DOMAIN,milf-phonesex.com
-DOMAIN,milf-pics.net
 DOMAIN,milf-pictures1.com
 DOMAIN,milf-pie.com
 DOMAIN,milf-place.com
@@ -225632,7 +225566,6 @@ DOMAIN,milfmovies.beauty
 DOMAIN,milfmovies.buzz
 DOMAIN,milfmovies.club
 DOMAIN,milfmovies.help
-DOMAIN,milfmovies.homes
 DOMAIN,milfmovies.lat
 DOMAIN,milfmovies.mom
 DOMAIN,milfmovies.name
@@ -225909,7 +225842,6 @@ DOMAIN,milfrelations.com
 DOMAIN,milfrencontres.com
 DOMAIN,milfrepublic.com
 DOMAIN,milfreviewed.com
-DOMAIN,milfreviewer.com
 DOMAIN,milfroad.com
 DOMAIN,milfromantic.com
 DOMAIN,milfroom-login.com
@@ -226605,7 +226537,6 @@ DOMAIN,milkyangels.com
 DOMAIN,milkybabes.com
 DOMAIN,milkycammodels.com
 DOMAIN,milkydick.com
-DOMAIN,milkyenema.com
 DOMAIN,milkygoodness.xyz
 DOMAIN,milkylactating.com
 DOMAIN,milkyperu.com
@@ -226623,6 +226554,7 @@ DOMAIN,millarscoffee.com
 DOMAIN,mille-feuille.jp
 DOMAIN,millenium-ts.com
 DOMAIN,millenniallifehacker.com
+DOMAIN,millhousecorals.com
 DOMAIN,milliol.com
 DOMAIN,milliol2.com
 DOMAIN,millioldum.com
@@ -226854,7 +226786,6 @@ DOMAIN,minerta.ru
 DOMAIN,mineru-porn.pages.dev
 DOMAIN,minerva1.cn
 DOMAIN,minescripts.info
-DOMAIN,minesextube.com
 DOMAIN,minet-foto.org
 DOMAIN,minet-x.com
 DOMAIN,minet.cam
@@ -227333,6 +227264,7 @@ DOMAIN,missav.forum
 DOMAIN,missav.guide
 DOMAIN,missav.homes
 DOMAIN,missav.hot
+DOMAIN,missav.li
 DOMAIN,missav.live
 DOMAIN,missav.living
 DOMAIN,missav.media
@@ -228058,7 +227990,6 @@ DOMAIN,mitaoporn.com
 DOMAIN,mitaoporn8.cc
 DOMAIN,mitaopornn9.cc
 DOMAIN,mitaotungc2020.xyz
-DOMAIN,mitaow44.com
 DOMAIN,mitaow45.com
 DOMAIN,mitchkosterman.org
 DOMAIN,mitcmei.cc
@@ -229106,6 +229037,7 @@ DOMAIN,mobahot.com
 DOMAIN,mobalives.com
 DOMAIN,mobcms.com
 DOMAIN,mobero.net
+DOMAIN,mobfactory.info
 DOMAIN,mobgifs.com
 DOMAIN,mobi-sat.ru
 DOMAIN,mobiapp-games.com
@@ -229185,16 +229117,13 @@ DOMAIN,mobile18xxx.com
 DOMAIN,mobileact.net
 DOMAIN,mobileadultcamshows.com
 DOMAIN,mobileanalytics.us-east-1.amazonaws.com
-DOMAIN,mobileasian.net
 DOMAIN,mobileasiansex.com
 DOMAIN,mobilebangbus.com
 DOMAIN,mobileboner.com
 DOMAIN,mobilecams.nl
 DOMAIN,mobilecasino-pk.com
 DOMAIN,mobilechix.com
-DOMAIN,mobilefilipinaporn.com
 DOMAIN,mobilefoxporn.com
-DOMAIN,mobilefuckbook.co.uk
 DOMAIN,mobilefuckporn.com
 DOMAIN,mobilegay.com
 DOMAIN,mobilegaysites.com
@@ -229268,7 +229197,6 @@ DOMAIN,mobilesextube.mobi
 DOMAIN,mobilesitexxx.com
 DOMAIN,mobileslot.ru
 DOMAIN,mobileteens.org
-DOMAIN,mobilethaiporn.com
 DOMAIN,mobiletierheilpraxis.de
 DOMAIN,mobiletubexxx.com
 DOMAIN,mobilevrporn.com
@@ -229495,7 +229423,6 @@ DOMAIN,models.lk
 DOMAIN,models.xxx
 DOMAIN,models18.net
 DOMAIN,modelsandco.net
-DOMAIN,modelsarahgregory.com
 DOMAIN,modelsaround.info
 DOMAIN,modelsblog.gr
 DOMAIN,modelscanadianmale.com
@@ -230026,7 +229953,6 @@ DOMAIN,momfilms.com
 DOMAIN,momfreeporn.com
 DOMAIN,momfuck.biz
 DOMAIN,momfuck.pro
-DOMAIN,momfuckbook.co.uk
 DOMAIN,momfuckdaughter.com
 DOMAIN,momfuckedhard.com
 DOMAIN,momfucking.com
@@ -230079,7 +230005,6 @@ DOMAIN,mommafuck.com
 DOMAIN,mommafucktube.com
 DOMAIN,mommahorny.com
 DOMAIN,mommaspanking.com
-DOMAIN,mommaspankings.com
 DOMAIN,mommassage.com
 DOMAIN,mommassagesdaughterporn.pages.dev
 DOMAIN,mommature.com
@@ -230207,6 +230132,7 @@ DOMAIN,momo075.cn
 DOMAIN,momo182.buzz
 DOMAIN,momo777.cc
 DOMAIN,momo96ch.com
+DOMAIN,momoaustin.com
 DOMAIN,momoav.com
 DOMAIN,momoban.com
 DOMAIN,momodh.com
@@ -230502,7 +230428,6 @@ DOMAIN,momspornvideos.com
 DOMAIN,momspost.com
 DOMAIN,momsprice.com
 DOMAIN,momspublictube.com
-DOMAIN,momspussy.net
 DOMAIN,momspussypics.com
 DOMAIN,momssex.app
 DOMAIN,momssextape.pages.dev
@@ -230789,7 +230714,6 @@ DOMAIN,monk.com.au
 DOMAIN,monkamovies.com
 DOMAIN,monkeehaus.com
 DOMAIN,monkey-flix.com
-DOMAIN,monkey-links.com
 DOMAIN,monkey-porn.com
 DOMAIN,monkeycard.com.cn
 DOMAIN,monkeydick-productions.com
@@ -230972,7 +230896,6 @@ DOMAIN,moomysex-groubnew.pages.dev
 DOMAIN,moon-doll.com
 DOMAIN,moonalessdra-porn.pages.dev
 DOMAIN,moonangel.com
-DOMAIN,moonbeat.ru
 DOMAIN,moonbit.co.in
 DOMAIN,moonbokep.com
 DOMAIN,moonbrick.com
@@ -231697,6 +231620,7 @@ DOMAIN,moviesmoms.net
 DOMAIN,moviesnaked.com
 DOMAIN,moviesneek.com
 DOMAIN,moviesnudity.com
+DOMAIN,moviesonline.ca.intellitxt.com
 DOMAIN,moviesonlinefree.net
 DOMAIN,moviesporn.net
 DOMAIN,moviespornfree.com
@@ -232399,6 +232323,7 @@ DOMAIN,mrw907.sbs
 DOMAIN,mrwanton.com
 DOMAIN,mrwebcam.com
 DOMAIN,mrwgifs.com
+DOMAIN,mrwhite.biz
 DOMAIN,mrxreviews.com
 DOMAIN,mrxxx.net
 DOMAIN,mrye.com.cn
@@ -232921,6 +232846,7 @@ DOMAIN,mujereselsalvador.net
 DOMAIN,mujeresinfieles.com
 DOMAIN,mujeresinseguras.com
 DOMAIN,mujeresmaduras.info
+DOMAIN,mujeresperfectas.com
 DOMAIN,mujeressexis.org
 DOMAIN,mujerestransexuales.com
 DOMAIN,mujerpresente.com
@@ -233962,6 +233888,7 @@ DOMAIN,myanicholexxx.com
 DOMAIN,myanima.ai
 DOMAIN,myanimalsex.com
 DOMAIN,myanmarcelebrity.com
+DOMAIN,myanmardream.com
 DOMAIN,myanmarembassy.sg
 DOMAIN,myanmarsexstory.com
 DOMAIN,myanmarwebtraining.com
@@ -234093,7 +234020,6 @@ DOMAIN,mybigbeautifulwoman.com
 DOMAIN,mybigboobs.com
 DOMAIN,mybigclit.com
 DOMAIN,mybigcocklove.com
-DOMAIN,mybigddtits.com
 DOMAIN,mybigdickbfs.com
 DOMAIN,mybigfatcock.com
 DOMAIN,mybiggaytpg.com
@@ -234292,6 +234218,7 @@ DOMAIN,mycrazyasians.com
 DOMAIN,mycrazymilf.com
 DOMAIN,mycrazyporn.com
 DOMAIN,mycrazysextoys.com
+DOMAIN,mycreditrepairfix.com
 DOMAIN,mycroft-skills.org
 DOMAIN,mycrueldomina.com
 DOMAIN,mycrush.vip
@@ -235602,7 +235529,6 @@ DOMAIN,mynudez.club
 DOMAIN,mynudez.com
 DOMAIN,mynudez.help
 DOMAIN,mynudez.mom
-DOMAIN,mynudez.quest
 DOMAIN,mynudez.space
 DOMAIN,mynudgirls.com
 DOMAIN,mynutritioncourse-wmu.com
@@ -235814,7 +235740,6 @@ DOMAIN,mypornsnap.xyz
 DOMAIN,mypornsnaps.com
 DOMAIN,mypornstar.xyz
 DOMAIN,mypornstarblogs.com
-DOMAIN,mypornstarbook.com
 DOMAIN,mypornstarbook.net
 DOMAIN,mypornstarcam.com
 DOMAIN,mypornstarcams.com
@@ -236414,6 +236339,7 @@ DOMAIN,mytuku.cc
 DOMAIN,mytwinkboys.com
 DOMAIN,mytwinks.com
 DOMAIN,mytwinksex.cc
+DOMAIN,mytyx.com
 DOMAIN,myukmassage.co.uk
 DOMAIN,myupload.co
 DOMAIN,myupskirtvoyeur.com
@@ -236779,6 +236705,7 @@ DOMAIN,n44c.com
 DOMAIN,n4715.top
 DOMAIN,n4820.com
 DOMAIN,n4etflix.com
+DOMAIN,n4g.us.intellitxt.com
 DOMAIN,n4jk8x.info
 DOMAIN,n4ns.com
 DOMAIN,n4sclub.com
@@ -238665,6 +238592,7 @@ DOMAIN,naturalborndom.de
 DOMAIN,naturalborndom.org
 DOMAIN,naturalbornfillers.com
 DOMAIN,naturalbornswallowers.com
+DOMAIN,naturalbreakthroughsresearch.com
 DOMAIN,naturalbreastsfetish.com
 DOMAIN,naturalbushgirls.com
 DOMAIN,naturalcams.club
@@ -238922,7 +238850,6 @@ DOMAIN,naughtybutnice.store
 DOMAIN,naughtybuttnicephonesex.com
 DOMAIN,naughtycambrats.com
 DOMAIN,naughtycamgirl.com
-DOMAIN,naughtycamgirls.com
 DOMAIN,naughtycanada.com
 DOMAIN,naughtycanadianchat.com
 DOMAIN,naughtycdn.com
@@ -239862,7 +239789,6 @@ DOMAIN,nedusc.com
 DOMAIN,neduydum.com
 DOMAIN,neduznica.com
 DOMAIN,neeasoft.com
-DOMAIN,neebuca.club
 DOMAIN,need-money-4-beer.com
 DOMAIN,needapee.com
 DOMAIN,needbettersex.com
@@ -240229,6 +240155,7 @@ DOMAIN,netalk.co.il
 DOMAIN,netallergy.ru
 DOMAIN,netarabic.com
 DOMAIN,netarabsex.com
+DOMAIN,netballdrill.com
 DOMAIN,netbangs.com
 DOMAIN,netbilling.com
 DOMAIN,netbookbattery.ru
@@ -240258,7 +240185,6 @@ DOMAIN,neteye.media
 DOMAIN,netfapx-com.zproxy.org
 DOMAIN,netfapx.com
 DOMAIN,netfapx.net
-DOMAIN,netfclix.com
 DOMAIN,netfl.cc
 DOMAIN,netflav.com
 DOMAIN,netflav.fans
@@ -240679,6 +240605,7 @@ DOMAIN,newcamgirls.xyz
 DOMAIN,newcamnow.com
 DOMAIN,newcamsites.com
 DOMAIN,newcamz.com
+DOMAIN,newcarnet.uk.intellitxt.com
 DOMAIN,newcasino-pk.com
 DOMAIN,newcastleescorts.store
 DOMAIN,newcastleflyers.com
@@ -241389,6 +241316,7 @@ DOMAIN,nexxxtlevel.org
 DOMAIN,nexxxtleveltalent.com
 DOMAIN,nexxxtleveltalentagency.com
 DOMAIN,nexxxus.co.za
+DOMAIN,nexys404.us.intellitxt.com
 DOMAIN,neykar.com
 DOMAIN,nez732.sbs
 DOMAIN,nezahat.com
@@ -241465,7 +241393,6 @@ DOMAIN,ng.virgul.com
 DOMAIN,ng0.cc
 DOMAIN,nga430.sbs
 DOMAIN,ngacg.com
-DOMAIN,ngaduls.site
 DOMAIN,ngaloco.my.id
 DOMAIN,ngamespace.cn
 DOMAIN,ngamgaixinh.us
@@ -242121,6 +242048,7 @@ DOMAIN,nightlifencr.cc
 DOMAIN,nightmareporn.com
 DOMAIN,nightmax.net
 DOMAIN,nightmix18.com
+DOMAIN,nightmoves.xxx
 DOMAIN,nightmovesonline.com
 DOMAIN,nightmovesusa.com
 DOMAIN,nightnurseporn.com
@@ -243337,6 +243265,7 @@ DOMAIN,nobiliseduzioni.xxx
 DOMAIN,nobiliserotica.com
 DOMAIN,nobitchasses.com
 DOMAIN,noblackporn.com
+DOMAIN,noblemanhattan.ch
 DOMAIN,noblereid.com
 DOMAIN,nobody-in-particular-comic-porn.pages.dev
 DOMAIN,nobodyhome.tv
@@ -243406,6 +243335,7 @@ DOMAIN,nofakecams.com
 DOMAIN,nofakecams.live
 DOMAIN,nofakeporn.com
 DOMAIN,nofapschool.com
+DOMAIN,nofeetube.com
 DOMAIN,nofucc.com
 DOMAIN,noginsk-dd.com
 DOMAIN,noginsklust.com
@@ -244257,6 +244187,7 @@ DOMAIN,nsf563.sbs
 DOMAIN,nsf789.sbs
 DOMAIN,nsfanicomix.com
 DOMAIN,nsfcollege.com
+DOMAIN,nsfree.org
 DOMAIN,nsfw-ai-chat.com
 DOMAIN,nsfw-comix.com
 DOMAIN,nsfw-erotica.com
@@ -244718,6 +244649,7 @@ DOMAIN,nude-gals.com
 DOMAIN,nude-gf.com
 DOMAIN,nude-girl.site
 DOMAIN,nude-grannies.net
+DOMAIN,nude-guys.com
 DOMAIN,nude-gymnastics.com
 DOMAIN,nude-hairy-girls.com
 DOMAIN,nude-house.com
@@ -246063,7 +245995,6 @@ DOMAIN,nudistparadise.al
 DOMAIN,nudistpass.com
 DOMAIN,nudistpersonals.co.uk
 DOMAIN,nudistpics.me
-DOMAIN,nudistplay.com
 DOMAIN,nudistpussy.com
 DOMAIN,nudistqueen.com
 DOMAIN,nudistrussian.eu
@@ -246497,7 +246428,6 @@ DOMAIN,nvhom1.com
 DOMAIN,nvhom12.com
 DOMAIN,nvhom13.com
 DOMAIN,nvi009.sbs
-DOMAIN,nvizooc.cn
 DOMAIN,nvj470.sbs
 DOMAIN,nvj473.sbs
 DOMAIN,nvj698.sbs
@@ -247801,6 +247731,7 @@ DOMAIN,ohgeekz.com
 DOMAIN,ohgg066.top
 DOMAIN,ohgie.com
 DOMAIN,ohgirl.com.ng
+DOMAIN,ohgizmo.us.intellitxt.com
 DOMAIN,ohgratisporrfilm.com
 DOMAIN,ohh-uhh.com
 DOMAIN,ohh800.sbs
@@ -248510,6 +248441,7 @@ DOMAIN,oldieporno.com
 DOMAIN,oldiepornos.com
 DOMAIN,oldiepornos.net
 DOMAIN,oldies-amateurseite.com
+DOMAIN,oldies.name
 DOMAIN,oldiesfreesitepass.com
 DOMAIN,oldieshut.com
 DOMAIN,oldiesontop.com
@@ -249812,7 +249744,6 @@ DOMAIN,onlinefilmizletr9.cc
 DOMAIN,onlinefreechat.com
 DOMAIN,onlinefreechat.uk
 DOMAIN,onlinefreeporn.com
-DOMAIN,onlinefuckbook.co.uk
 DOMAIN,onlinefuckbuddies.com
 DOMAIN,onlinefuckgirls.com
 DOMAIN,onlinefucktube.com
@@ -249919,7 +249850,6 @@ DOMAIN,onlinesex.nl
 DOMAIN,onlinesex.party
 DOMAIN,onlinesexaddict.com
 DOMAIN,onlinesexcam.com
-DOMAIN,onlinesexcamchat.com
 DOMAIN,onlinesexcammen.nl
 DOMAIN,onlinesexcams.be
 DOMAIN,onlinesexcams.biz
@@ -249958,7 +249888,6 @@ DOMAIN,onlinesextube.com
 DOMAIN,onlinesexvideos-photo.pages.dev
 DOMAIN,onlinesexwebcams.nl
 DOMAIN,onlinesexwork.info
-DOMAIN,onlinesexy.club
 DOMAIN,onlinesexyclub.com
 DOMAIN,onlinesexyfun.com
 DOMAIN,onlinesfilms.com
@@ -250201,7 +250130,6 @@ DOMAIN,onlyemily.bio
 DOMAIN,onlyerotica.com
 DOMAIN,onlyerotica.top
 DOMAIN,onlyfaccounts.com
-DOMAIN,onlyfacials.com
 DOMAIN,onlyfainz.com
 DOMAIN,onlyfakes.app
 DOMAIN,onlyfamns.com
@@ -250356,7 +250284,6 @@ DOMAIN,onlyfreeguys.cc
 DOMAIN,onlyfreelatinaporn.com
 DOMAIN,onlyfreenudes.com
 DOMAIN,onlyfreeporn.com
-DOMAIN,onlyfreeporn.xyz
 DOMAIN,onlyfreeporns.com
 DOMAIN,onlyfreepronhub.live
 DOMAIN,onlyfreepronhub.shop
@@ -250773,6 +250700,7 @@ DOMAIN,onlythebesthentai.com
 DOMAIN,onlythots.org
 DOMAIN,onlythreesome.com
 DOMAIN,onlythroatpies.com
+DOMAIN,onlythumb.net
 DOMAIN,onlytight.com
 DOMAIN,onlytight1.com
 DOMAIN,onlytik.com
@@ -250874,6 +250802,7 @@ DOMAIN,onsexxxx.com
 DOMAIN,onshopsoft.com
 DOMAIN,onshorehelipads.com
 DOMAIN,onsporn.com
+DOMAIN,onstream.cc
 DOMAIN,ontariosexbook.ca
 DOMAIN,ontecom.com
 DOMAIN,onthe.io
@@ -251026,7 +250955,6 @@ DOMAIN,oopsmovs.info
 DOMAIN,oopssoftserve.com
 DOMAIN,oopt.fr
 DOMAIN,oorpg.com
-DOMAIN,oosex.beauty
 DOMAIN,oosex.biz
 DOMAIN,oosex.buzz
 DOMAIN,oosex.help
@@ -251575,6 +251503,7 @@ DOMAIN,oretibole.xyz
 DOMAIN,oretube.com
 DOMAIN,orga-av.jp
 DOMAIN,orgacosmique.com
+DOMAIN,organes.info
 DOMAIN,organiclife.com.pl
 DOMAIN,organicsemen.com
 DOMAIN,organicshemales.com
@@ -251770,7 +251699,6 @@ DOMAIN,oriental-porno.biz
 DOMAIN,oriental-porno.buzz
 DOMAIN,oriental-porno.club
 DOMAIN,oriental-porno.com
-DOMAIN,oriental-porno.lat
 DOMAIN,oriental-porno.mom
 DOMAIN,oriental-porno.online
 DOMAIN,oriental-porno.pics
@@ -252376,6 +252304,7 @@ DOMAIN,ourfreegalleries.com
 DOMAIN,ourfuckbook.com
 DOMAIN,ourfuckfriends.com
 DOMAIN,ourgay.com
+DOMAIN,ourgay.tube
 DOMAIN,ourgirlsarehorny.com
 DOMAIN,ourgrannypics.com
 DOMAIN,ourgtn.org
@@ -252616,7 +252545,6 @@ DOMAIN,over30freeporn.com
 DOMAIN,over30housewives.com
 DOMAIN,over30pics.com
 DOMAIN,over30pornpics.com
-DOMAIN,over34ddtits.com
 DOMAIN,over40-sex.com
 DOMAIN,over40dates.com
 DOMAIN,over40handjob.com
@@ -252625,7 +252553,6 @@ DOMAIN,over40handjobs.info
 DOMAIN,over40handjobs.net
 DOMAIN,over40handjobs.org
 DOMAIN,over40hardcore.com
-DOMAIN,over40honeys.com
 DOMAIN,over40mag.com
 DOMAIN,over40phonesex.com
 DOMAIN,over40sexdating.com
@@ -254120,7 +254047,6 @@ DOMAIN,p9k1a.top
 DOMAIN,p9l.cc
 DOMAIN,p9x9.com
 DOMAIN,pa-mdh.biz
-DOMAIN,pa.7av.club
 DOMAIN,pa.na680.com
 DOMAIN,pa.nah103.com
 DOMAIN,pa2k.org
@@ -254333,6 +254259,7 @@ DOMAIN,paidpornsites.xyz
 DOMAIN,paidpornsitesworld.com
 DOMAIN,paidpornsitesworld.link
 DOMAIN,paidsexcams.com
+DOMAIN,paidsurvey.in
 DOMAIN,paidtosin.com
 DOMAIN,paidyouporn.com
 DOMAIN,paige-harrison.us
@@ -254905,7 +254832,6 @@ DOMAIN,pantyhosevideo.net
 DOMAIN,pantyhosex.co.uk
 DOMAIN,pantyhosex.net
 DOMAIN,pantyhosexxx.com
-DOMAIN,pantyjobs.com
 DOMAIN,pantyjobs.net
 DOMAIN,pantyloversphonesex.com
 DOMAIN,pantyloving.com
@@ -254990,7 +254916,6 @@ DOMAIN,papalah.com
 DOMAIN,papalah.pw
 DOMAIN,papalol.top
 DOMAIN,papapa-app.com
-DOMAIN,papapa.7av.club
 DOMAIN,papapadaohang.com
 DOMAIN,papapahub.com
 DOMAIN,paparaco.me
@@ -255444,7 +255369,6 @@ DOMAIN,partysexvideo.com
 DOMAIN,partysexxx.pages.dev
 DOMAIN,partysletten.nl
 DOMAIN,partysora.com
-DOMAIN,partysquirt.com
 DOMAIN,partytjejer.net
 DOMAIN,partytreff-dolce-vita-erotic-masseuse-video.pages.dev
 DOMAIN,partytreff-dortmund-sextreffen-nrw.pages.dev
@@ -255691,7 +255615,6 @@ DOMAIN,pattaya-videos.net
 DOMAIN,pattaya-xxx.com
 DOMAIN,pattaya-xxx.site
 DOMAIN,pattayaaddicts.com
-DOMAIN,pattayaporn.org
 DOMAIN,pattayaporntube.com
 DOMAIN,pattayasextube.com
 DOMAIN,pattayateens.org
@@ -255986,6 +255909,7 @@ DOMAIN,pcdqh.com
 DOMAIN,pcdwm.com
 DOMAIN,pcfilmizle.com
 DOMAIN,pcgameser.com
+DOMAIN,pcgameshardware.de.intellitxt.com
 DOMAIN,pcgdgl.com.cn
 DOMAIN,pcgjyl.com
 DOMAIN,pcgroup.com.uy
@@ -256627,7 +256551,6 @@ DOMAIN,pengtai888.cn
 DOMAIN,penguinpeepshow.com
 DOMAIN,penguinvids.com
 DOMAIN,pengunduh.com
-DOMAIN,pengv16.cc
 DOMAIN,pengv20.cc
 DOMAIN,pengwanda.cc
 DOMAIN,pengwanghulan.com
@@ -257564,6 +257487,7 @@ DOMAIN,pfbike.com
 DOMAIN,pfcafsc.com
 DOMAIN,pfcms.com
 DOMAIN,pfe517.com
+DOMAIN,pffn.pl.tn
 DOMAIN,pfg-sys.com
 DOMAIN,pfg603.sbs
 DOMAIN,pfh142.sbs
@@ -257760,10 +257684,7 @@ DOMAIN,phevkl.bar
 DOMAIN,phevkl.cyou
 DOMAIN,phevkl.fun
 DOMAIN,phevkl.hair
-DOMAIN,phevkl.host
 DOMAIN,phevkl.makeup
-DOMAIN,phevkl.wiki
-DOMAIN,phevkl.work
 DOMAIN,phevkl.yachts
 DOMAIN,phevklx.blog
 DOMAIN,phevklz.com
@@ -257796,17 +257717,13 @@ DOMAIN,philflash.org
 DOMAIN,philipgay.net
 DOMAIN,philippe-soulier-gay-porn.pages.dev
 DOMAIN,philippinebargirl.com
-DOMAIN,philippinecamgirls.com
 DOMAIN,philippinecams.com
 DOMAIN,philippinegeriatrics.com
 DOMAIN,philippineladyboydating.com
 DOMAIN,philippineporn.net
-DOMAIN,philippinepussy.org
 DOMAIN,philippines-addicts.com
-DOMAIN,philippinesexguide.com
 DOMAIN,philippinesredcat.com
 DOMAIN,philippinessexchat.com
-DOMAIN,philippinetgp.com
 DOMAIN,philippwants.com
 DOMAIN,philly-games.com
 DOMAIN,phillybdsm.com
@@ -257864,6 +257781,7 @@ DOMAIN,phim18hd.blog
 DOMAIN,phim18hd.com
 DOMAIN,phim18hd.info
 DOMAIN,phim18hd.net
+DOMAIN,phim18hd.one
 DOMAIN,phim18hd.org
 DOMAIN,phim18hd.site
 DOMAIN,phim18hd.top
@@ -258142,7 +258060,6 @@ DOMAIN,phimsehay.com
 DOMAIN,phimses.club
 DOMAIN,phimses.one
 DOMAIN,phimset.cc
-DOMAIN,phimset.lol
 DOMAIN,phimset.me
 DOMAIN,phimset.top
 DOMAIN,phimset69.net
@@ -258586,8 +258503,6 @@ DOMAIN,phimsexjav.club
 DOMAIN,phimsexjav.info
 DOMAIN,phimsexjav.io
 DOMAIN,phimsexjav.mobi
-DOMAIN,phimsexjav.net
-DOMAIN,phimsexjav.org
 DOMAIN,phimsexjav.pro
 DOMAIN,phimsexjav.site
 DOMAIN,phimsexjav.today
@@ -258671,6 +258586,7 @@ DOMAIN,phimsexnhatbangaixinh.com
 DOMAIN,phimsexnhatbankhongche.org
 DOMAIN,phimsexnhatbankoche.com
 DOMAIN,phimsexnhatbanmoinhat.com
+DOMAIN,phimsexnhatbanmoinhat.top
 DOMAIN,phimsexnhatbans.com
 DOMAIN,phimsexnhathay.pro
 DOMAIN,phimsexnhatkhongche.xyz
@@ -259414,7 +259330,6 @@ DOMAIN,phonesexfootfetish.com
 DOMAIN,phonesexforcuckolds.com
 DOMAIN,phonesexfordaddy.com
 DOMAIN,phonesexfordummies.com
-DOMAIN,phonesexforever.com
 DOMAIN,phonesexforsissies.com
 DOMAIN,phonesexforwomen.com
 DOMAIN,phonesexfreetrial.com
@@ -259573,6 +259488,8 @@ DOMAIN,phonesexzone.com
 DOMAIN,phonesheri.com
 DOMAIN,phoneslutdiary.com
 DOMAIN,phonesluts.uk
+DOMAIN,phonestripclub.com
+DOMAIN,phonestripclub.org
 DOMAIN,phonetive.co.za
 DOMAIN,phonetv.at
 DOMAIN,phonetv.de
@@ -260338,7 +260255,6 @@ DOMAIN,pinayluluvideo.xyz
 DOMAIN,pinayluluvids.lol
 DOMAIN,pinayluluvids.xyz
 DOMAIN,pinaymaal.com
-DOMAIN,pinaymobile.com
 DOMAIN,pinaynay.net
 DOMAIN,pinaynay.org
 DOMAIN,pinayone.mom
@@ -260362,7 +260278,6 @@ DOMAIN,pinayporn.cc
 DOMAIN,pinayporn.co
 DOMAIN,pinayporn.com
 DOMAIN,pinayporn.link
-DOMAIN,pinayporn.org
 DOMAIN,pinayporn.pages.dev
 DOMAIN,pinayporn.site
 DOMAIN,pinayporn.vip
@@ -260706,7 +260621,6 @@ DOMAIN,pinoyflixz.com
 DOMAIN,pinoygay.com
 DOMAIN,pinoygayporn.work
 DOMAIN,pinoylambinganflix.su
-DOMAIN,pinoypornvideos.com
 DOMAIN,pinoysexstories.net
 DOMAIN,pinoyteleseryeo.su
 DOMAIN,pinpaigg.com
@@ -260889,7 +260803,6 @@ DOMAIN,pissaddicted.com
 DOMAIN,pissadventures.com
 DOMAIN,pissbabes.com
 DOMAIN,pissbabes.net
-DOMAIN,pissblog.com
 DOMAIN,pisschicks.com
 DOMAIN,pisscreampie.vip
 DOMAIN,pisscum.com
@@ -261032,7 +260945,6 @@ DOMAIN,pitchinapail.com
 DOMAIN,pitchinapail.org
 DOMAIN,pitchmachines.com
 DOMAIN,pitcum.com
-DOMAIN,piteens.com
 DOMAIN,piter-intim.ru
 DOMAIN,piterlust.com
 DOMAIN,piterqlust.com
@@ -261126,7 +261038,6 @@ DOMAIN,pixxx4sale.com
 DOMAIN,pixxxelporn.com
 DOMAIN,pixxxels.cc
 DOMAIN,pixxxforsale.com
-DOMAIN,pixxxle.com
 DOMAIN,pixxxxelmania.io
 DOMAIN,pixygirl.com
 DOMAIN,piyanuo.com.cn
@@ -262917,7 +262828,6 @@ DOMAIN,poreo.tv
 DOMAIN,porevo-doma.xyz
 DOMAIN,porevo-xxx.com
 DOMAIN,porevo.com
-DOMAIN,porevo.info
 DOMAIN,porevo24.vip
 DOMAIN,porevo365.ru
 DOMAIN,porevobab.com
@@ -263308,7 +263218,6 @@ DOMAIN,porn-link-list.top
 DOMAIN,porn-links.com
 DOMAIN,porn-links.net
 DOMAIN,porn-list.top
-DOMAIN,porn-list.xyz
 DOMAIN,porn-lists.com
 DOMAIN,porn-live.cc
 DOMAIN,porn-load.com
@@ -263362,7 +263271,6 @@ DOMAIN,porn-on-the-cob.com
 DOMAIN,porn-one.com
 DOMAIN,porn-online.fr
 DOMAIN,porn-online.me
-DOMAIN,porn-online.wtf
 DOMAIN,porn-paradise.com
 DOMAIN,porn-pass.com
 DOMAIN,porn-passwords.com
@@ -263436,7 +263344,6 @@ DOMAIN,porn-sex.cc
 DOMAIN,porn-sex.club
 DOMAIN,porn-sex.com
 DOMAIN,porn-sex.help
-DOMAIN,porn-sex.homes
 DOMAIN,porn-sex.ink
 DOMAIN,porn-sex.lat
 DOMAIN,porn-sex.lol
@@ -263553,7 +263460,6 @@ DOMAIN,porn-tube.pro
 DOMAIN,porn-tube.video
 DOMAIN,porn-tube24.com
 DOMAIN,porn-tuber.com
-DOMAIN,porn-tubing.ru
 DOMAIN,porn-tv.com
 DOMAIN,porn-twinks.com
 DOMAIN,porn-uk.com
@@ -263656,7 +263562,6 @@ DOMAIN,porn-xxx.mom
 DOMAIN,porn-xxx.net
 DOMAIN,porn-xxx.onl
 DOMAIN,porn-xxx.online
-DOMAIN,porn-xxx.quest
 DOMAIN,porn-xxx.video
 DOMAIN,porn-xxx.xyz
 DOMAIN,porn-xxxadult.com
@@ -263961,7 +263866,6 @@ DOMAIN,porn365.video
 DOMAIN,porn365tr.biz
 DOMAIN,porn365tr.help
 DOMAIN,porn365tr.homes
-DOMAIN,porn365tr.lat
 DOMAIN,porn365tr.lol
 DOMAIN,porn365tr.quest
 DOMAIN,porn365x.com
@@ -264082,7 +263986,6 @@ DOMAIN,porn6.info
 DOMAIN,porn6.org
 DOMAIN,porn6.pages.dev
 DOMAIN,porn6.vip
-DOMAIN,porn600.me
 DOMAIN,porn60fps.com
 DOMAIN,porn62.cc
 DOMAIN,porn62.com
@@ -264317,7 +264220,6 @@ DOMAIN,pornactives.com
 DOMAIN,pornactress.pages.dev
 DOMAIN,pornacts.com
 DOMAIN,pornad.com
-DOMAIN,pornaddickt.com
 DOMAIN,pornaddict.biz
 DOMAIN,pornaddict.club
 DOMAIN,pornaddict.com
@@ -265913,7 +265815,6 @@ DOMAIN,porndvdtrailer.com
 DOMAIN,porndvdvideos.com
 DOMAIN,porndvdz.net
 DOMAIN,porndvl.com
-DOMAIN,porndwarf.com
 DOMAIN,porndweller.com
 DOMAIN,porndx.com
 DOMAIN,porndyde.com
@@ -266395,6 +266296,7 @@ DOMAIN,pornflatrate.com
 DOMAIN,pornflexaro.com
 DOMAIN,pornflexaro.org
 DOMAIN,pornflexible.com
+DOMAIN,pornflick.com
 DOMAIN,pornflicks.tv
 DOMAIN,pornflicktube.com
 DOMAIN,pornflickvids.com
@@ -267578,6 +267480,7 @@ DOMAIN,pornhub-ru.com
 DOMAIN,pornhub-sex.net
 DOMAIN,pornhub-sex.pages.dev
 DOMAIN,pornhub-sexfilme.net
+DOMAIN,pornhub-shirouto.net
 DOMAIN,pornhub-stream.pages.dev
 DOMAIN,pornhub-th.com
 DOMAIN,pornhub-tube.com
@@ -268328,6 +268231,7 @@ DOMAIN,pornicivideo.sbs
 DOMAIN,pornicixxx.com
 DOMAIN,pornicom.club
 DOMAIN,pornicom.com
+DOMAIN,pornicom.info
 DOMAIN,pornicom.live
 DOMAIN,pornicomcams.com
 DOMAIN,pornictur.com
@@ -268807,7 +268711,6 @@ DOMAIN,pornleaks.cc
 DOMAIN,pornleaks.club
 DOMAIN,pornleaks.co
 DOMAIN,pornleaks.es
-DOMAIN,pornleaks.eu
 DOMAIN,pornleaks.fun
 DOMAIN,pornleaks.in
 DOMAIN,pornleaks.top
@@ -269063,6 +268966,7 @@ DOMAIN,pornmaalhub.com
 DOMAIN,pornmachina.com
 DOMAIN,pornmade.com
 DOMAIN,pornmadeathome.com
+DOMAIN,pornmadness.com
 DOMAIN,pornmadura.com
 DOMAIN,pornmae.com
 DOMAIN,pornmae18.com
@@ -269793,7 +269697,6 @@ DOMAIN,porno-besplatno.online
 DOMAIN,porno-besplatno.ru
 DOMAIN,porno-besplatno.xyz
 DOMAIN,porno-bi-taschenmuschi-anleitung.pages.dev
-DOMAIN,porno-big.ru
 DOMAIN,porno-bigtits.com
 DOMAIN,porno-bild.com
 DOMAIN,porno-blasen-lena-nitro-pornos.pages.dev
@@ -273472,6 +273375,7 @@ DOMAIN,pornolegendadohd.com
 DOMAIN,pornolegendadopt.com
 DOMAIN,pornolegendados.com
 DOMAIN,pornolegendas.com
+DOMAIN,pornolegende.net
 DOMAIN,pornoleh.com
 DOMAIN,pornolehrer.de
 DOMAIN,pornoleisure.com
@@ -273755,7 +273659,6 @@ DOMAIN,pornomexico.com
 DOMAIN,pornomexicoxxx.com
 DOMAIN,pornomico.com
 DOMAIN,pornomiete.com
-DOMAIN,pornomif.pro
 DOMAIN,pornomig.net
 DOMAIN,pornomig.top
 DOMAIN,pornomiks.ru
@@ -274147,7 +274050,6 @@ DOMAIN,pornopickup.ru
 DOMAIN,pornopicnic.net
 DOMAIN,pornopics.co
 DOMAIN,pornopics.com
-DOMAIN,pornopics.xyz
 DOMAIN,pornopicsgallery.com
 DOMAIN,pornopicshub.com
 DOMAIN,pornopicsx.com
@@ -275942,9 +275844,7 @@ DOMAIN,pornoza.biz
 DOMAIN,pornoza.buzz
 DOMAIN,pornoza.club
 DOMAIN,pornoza.help
-DOMAIN,pornoza.homes
 DOMAIN,pornoza.lat
-DOMAIN,pornoza.lol
 DOMAIN,pornoza.mom
 DOMAIN,pornoza.net
 DOMAIN,pornoza.online
@@ -276484,7 +276384,6 @@ DOMAIN,pornprtal.com
 DOMAIN,pornps.com
 DOMAIN,pornpub.info
 DOMAIN,pornpub.net
-DOMAIN,pornpub.tokyo
 DOMAIN,pornpublic.com
 DOMAIN,pornpublicx.com
 DOMAIN,pornpublino.com
@@ -279166,7 +279065,6 @@ DOMAIN,pornvide.biz
 DOMAIN,pornvide.buzz
 DOMAIN,pornvide.club
 DOMAIN,pornvide.help
-DOMAIN,pornvide.homes
 DOMAIN,pornvide.lat
 DOMAIN,pornvide.lol
 DOMAIN,pornvide.mom
@@ -279503,7 +279401,6 @@ DOMAIN,pornvidio.top
 DOMAIN,pornvidlab.com
 DOMAIN,pornvidn.com
 DOMAIN,pornvidnew.com
-DOMAIN,pornvidoe.com
 DOMAIN,pornvidoes.com
 DOMAIN,pornvids.casa
 DOMAIN,pornvids.cc
@@ -279665,6 +279562,7 @@ DOMAIN,pornway.com
 DOMAIN,pornway.info
 DOMAIN,pornway.net
 DOMAIN,pornwd.com
+DOMAIN,pornweaver.com
 DOMAIN,pornweb.com
 DOMAIN,pornwebcam.com
 DOMAIN,pornwebcam.net
@@ -279885,7 +279783,6 @@ DOMAIN,pornwrks.com
 DOMAIN,pornwrksai.com
 DOMAIN,pornwrld.xyz
 DOMAIN,pornwroks.com
-DOMAIN,pornwtf.wtf
 DOMAIN,pornwurks.com
 DOMAIN,pornwworks.com
 DOMAIN,pornwx.cc
@@ -280515,7 +280412,6 @@ DOMAIN,pornzeeds.com
 DOMAIN,pornzef.com
 DOMAIN,pornzel.com
 DOMAIN,pornzelith.com
-DOMAIN,pornzen.com
 DOMAIN,pornzen.info
 DOMAIN,pornzenithora.com
 DOMAIN,pornzens.com
@@ -283072,7 +282968,6 @@ DOMAIN,pronhub.video
 DOMAIN,pronhub.xyz
 DOMAIN,pronhub247.buzz
 DOMAIN,pronhub247.help
-DOMAIN,pronhub247.lat
 DOMAIN,pronhub247.lol
 DOMAIN,pronhub247.mom
 DOMAIN,pronhubamateurxxx.pages.dev
@@ -289462,7 +289357,6 @@ DOMAIN,prostoporno.dev
 DOMAIN,prostoporno.forum
 DOMAIN,prostoporno.fun
 DOMAIN,prostoporno.gold
-DOMAIN,prostoporno.group
 DOMAIN,prostoporno.guru
 DOMAIN,prostoporno.help
 DOMAIN,prostoporno.icu
@@ -289805,6 +289699,7 @@ DOMAIN,pt.greatxass.com
 DOMAIN,pt.greatxgirl.com
 DOMAIN,pt.hotbeautypic.com
 DOMAIN,pt.hotxbaby.com
+DOMAIN,pt.hotxgirl.com
 DOMAIN,pt.kawaiixgirl.com
 DOMAIN,pt.kawaiixpic.com
 DOMAIN,pt.minucams.com
@@ -289832,7 +289727,6 @@ DOMAIN,pt69.org
 DOMAIN,pt8news.com.cn
 DOMAIN,pt957.com.cn
 DOMAIN,pta130.sbs
-DOMAIN,ptacompanhante.com
 DOMAIN,ptapjmp.com
 DOMAIN,ptavx.com
 DOMAIN,ptbbjmp.com
@@ -290679,6 +290573,7 @@ DOMAIN,pusatporn18.com
 DOMAIN,pusedwm.com
 DOMAIN,pusenbao.com
 DOMAIN,push-ad.com
+DOMAIN,push.xhorno.xyz
 DOMAIN,pushav.com
 DOMAIN,pushchinolust.com
 DOMAIN,pushchinosm.com
@@ -290730,7 +290625,6 @@ DOMAIN,pussy-hub.com
 DOMAIN,pussy-lips.com
 DOMAIN,pussy-live.com
 DOMAIN,pussy-mound.com
-DOMAIN,pussy-pics.net
 DOMAIN,pussy-porn-links.com
 DOMAIN,pussy-room-for-sex-7xj.pages.dev
 DOMAIN,pussy-room-for-sex.pages.dev
@@ -291195,6 +291089,7 @@ DOMAIN,putana.vip
 DOMAIN,putana74.net
 DOMAIN,putanacity.com
 DOMAIN,putanamap.net
+DOMAIN,putanapartners.com
 DOMAIN,putanasgirls.com
 DOMAIN,putangclan.com
 DOMAIN,putania.buzz
@@ -291253,7 +291148,6 @@ DOMAIN,putasgostosas.com
 DOMAIN,putaslocas.net
 DOMAIN,putasnovinhas.com
 DOMAIN,putaspasion.com
-DOMAIN,putaspeladas.com
 DOMAIN,putasvideo.com
 DOMAIN,putasvip.com
 DOMAIN,putasvip.com.mx
@@ -291669,6 +291563,7 @@ DOMAIN,pzv972.sbs
 DOMAIN,pzxn365.com
 DOMAIN,pzxxx.pages.dev
 DOMAIN,pzy779.sbs
+DOMAIN,pzykosis666hfansub.com
 DOMAIN,q-ballet.com.cn
 DOMAIN,q-d.com.cn
 DOMAIN,q-date.com
@@ -291836,7 +291731,6 @@ DOMAIN,qbx950.sbs
 DOMAIN,qby-bys.com
 DOMAIN,qby391.sbs
 DOMAIN,qbz343.sbs
-DOMAIN,qbzbank.com
 DOMAIN,qc2003.com
 DOMAIN,qc289.top
 DOMAIN,qc339.com
@@ -293164,7 +293058,6 @@ DOMAIN,qrisoft.com
 DOMAIN,qrju.com.cn
 DOMAIN,qrlsx.com
 DOMAIN,qrm4.cn
-DOMAIN,qrmta.com
 DOMAIN,qrn355.com
 DOMAIN,qrn753.sbs
 DOMAIN,qro1x0.com.cn
@@ -294038,6 +293931,7 @@ DOMAIN,qzss56.com
 DOMAIN,qzsxfs.cn
 DOMAIN,qztanjingqiangnuan.com
 DOMAIN,qztcfc.com
+DOMAIN,qztcn.top
 DOMAIN,qzv1.com
 DOMAIN,qzx61hny.cn
 DOMAIN,qzxdyl.com
@@ -295520,7 +295414,6 @@ DOMAIN,rdn858.sbs
 DOMAIN,rdooll.com
 DOMAIN,rdp147.sbs
 DOMAIN,rdparea.com
-DOMAIN,rdplfcrspqqpzbbnsrbotjzyu.com
 DOMAIN,rdporn.com
 DOMAIN,rdqgssd.cn
 DOMAIN,rdrfgd.com.cn
@@ -295546,7 +295439,6 @@ DOMAIN,rdwww.net
 DOMAIN,rdxakj.com
 DOMAIN,rdxbzj.com
 DOMAIN,rdxhd.skin
-DOMAIN,rdxu47.xyz
 DOMAIN,rdyule.com
 DOMAIN,re-18.com
 DOMAIN,re-777.org
@@ -295709,7 +295601,6 @@ DOMAIN,realamateurshit.com
 DOMAIN,realamateurswingers.com
 DOMAIN,realamateursxxx.com
 DOMAIN,realamateurtgirls.com
-DOMAIN,realamateurtube.xyz
 DOMAIN,realamateurvids.com
 DOMAIN,realamateurvoyeur.com
 DOMAIN,realamateurwife.com
@@ -296924,6 +296815,7 @@ DOMAIN,redhotgaymen.com
 DOMAIN,redhotguys.com
 DOMAIN,redhothoneys.com
 DOMAIN,redhotmen.com
+DOMAIN,redhotphonechat.com
 DOMAIN,redhotpicks.top
 DOMAIN,redhotpie.asia
 DOMAIN,redhotpie.co.nz
@@ -299100,6 +298992,7 @@ DOMAIN,rijpesingles.nl
 DOMAIN,rijpeslet.be
 DOMAIN,rijpeslet.nl
 DOMAIN,rijpevrouw.be
+DOMAIN,rijpevrouw.eu
 DOMAIN,rijpevrouw.nl
 DOMAIN,rijpevrouw.org
 DOMAIN,rijpevrouwdaten.net
@@ -300576,7 +300469,6 @@ DOMAIN,roundasspics.com
 DOMAIN,roundassporn.com
 DOMAIN,roundasstube.com
 DOMAIN,roundassx.com
-DOMAIN,roundhugetits.com
 DOMAIN,roundjuicybooty.com
 DOMAIN,roundmoundofass.com
 DOMAIN,roundmoundsofass.com
@@ -300962,6 +300854,7 @@ DOMAIN,rsm.net.cn
 DOMAIN,rsms.me
 DOMAIN,rsmy1689.com
 DOMAIN,rso135.sbs
+DOMAIN,rsogipjufiouh.cc
 DOMAIN,rsoqbxa.cn
 DOMAIN,rsp-network.com
 DOMAIN,rsp36.com
@@ -302321,6 +302214,7 @@ DOMAIN,ruvideos.one
 DOMAIN,ruvideos.online
 DOMAIN,ruvideos.ru
 DOMAIN,ruvizit.ru
+DOMAIN,ruvpfl.cn
 DOMAIN,ruvpiska.net
 DOMAIN,ruw771.com
 DOMAIN,ruwap.su
@@ -304035,8 +303929,6 @@ DOMAIN,sarahcalanthe.link
 DOMAIN,sarahcams.com
 DOMAIN,sarahdaniella.com
 DOMAIN,sarahdirty.com
-DOMAIN,sarahgregorypass.com
-DOMAIN,sarahgregoryspanking.com
 DOMAIN,sarahhillsxxx.com
 DOMAIN,sarahisback.com
 DOMAIN,sarahkimble.com
@@ -304047,7 +303939,6 @@ DOMAIN,sarahmcdonaldxxx.com
 DOMAIN,sarahmclachlan.org
 DOMAIN,sarahrandall.com
 DOMAIN,sarahsblogoffun.com
-DOMAIN,sarahsfetishplay.com
 DOMAIN,sarahshahisextape.pages.dev
 DOMAIN,sarahshevonbdsm.pages.dev
 DOMAIN,sarahspanksmen.com
@@ -305477,7 +305368,6 @@ DOMAIN,score-cash.com
 DOMAIN,score-video.com
 DOMAIN,score2go.com
 DOMAIN,score2go.org
-DOMAIN,score2tits.com
 DOMAIN,scoreadate.com
 DOMAIN,scorecardresearch.com
 DOMAIN,scoreclassics.com
@@ -305795,6 +305685,7 @@ DOMAIN,sdep.fr
 DOMAIN,sdfanlan.com
 DOMAIN,sdfdqc.com
 DOMAIN,sdfq01.cfd
+DOMAIN,sdfqeoefmak.cc
 DOMAIN,sdfslddc.com
 DOMAIN,sdfssj.com
 DOMAIN,sdfuli.net.cn
@@ -309747,6 +309638,7 @@ DOMAIN,sex-in-zweibruecken.com
 DOMAIN,sex-in-zwettl.com
 DOMAIN,sex-in-zwickau-partytreff-mnster.pages.dev
 DOMAIN,sex-in-zwickau.com
+DOMAIN,sex-incest-pics.com
 DOMAIN,sex-incest.com
 DOMAIN,sex-index.biz
 DOMAIN,sex-indian.com
@@ -311798,7 +311690,6 @@ DOMAIN,sexasev.run
 DOMAIN,sexasi.sbs
 DOMAIN,sexasia.net
 DOMAIN,sexasia8837.shop
-DOMAIN,sexasian.top
 DOMAIN,sexasian.vip
 DOMAIN,sexasian18.com
 DOMAIN,sexasianbox.click
@@ -313190,7 +313081,6 @@ DOMAIN,sexchatsex.blog
 DOMAIN,sexchatsex.hu
 DOMAIN,sexchatsexcam.com
 DOMAIN,sexchatsexchat.de
-DOMAIN,sexchatsexchat.org
 DOMAIN,sexchatshow.com
 DOMAIN,sexchatsingapore.com
 DOMAIN,sexchatsite.co.uk
@@ -313991,7 +313881,6 @@ DOMAIN,sexdesejo.com.br
 DOMAIN,sexdesi.vip
 DOMAIN,sexdesi49.com
 DOMAIN,sexdesi49.net
-DOMAIN,sexdesimovie.com
 DOMAIN,sexdesiporn.com
 DOMAIN,sexdesires.xyz
 DOMAIN,sexdesisex.com
@@ -314759,7 +314648,6 @@ DOMAIN,sexf1.com
 DOMAIN,sexf8.com
 DOMAIN,sexfa.pages.dev
 DOMAIN,sexfabrik.com
-DOMAIN,sexfacebook.net
 DOMAIN,sexfacechat.com
 DOMAIN,sexfair.com
 DOMAIN,sexfair.xxx
@@ -315841,7 +315729,6 @@ DOMAIN,sexhqporno.com
 DOMAIN,sexhqvid.net
 DOMAIN,sexhqvideo.com
 DOMAIN,sexhqvids.com
-DOMAIN,sexhqxxx.com
 DOMAIN,sexhub-x.com
 DOMAIN,sexhub.cc
 DOMAIN,sexhub.dk
@@ -315854,7 +315741,6 @@ DOMAIN,sexhub.pages.dev
 DOMAIN,sexhub.red
 DOMAIN,sexhub.se
 DOMAIN,sexhub.vip
-DOMAIN,sexhub.wtf
 DOMAIN,sexhub168.com
 DOMAIN,sexhub18.com
 DOMAIN,sexhub365.com
@@ -316016,7 +315902,6 @@ DOMAIN,sexigavideor.com
 DOMAIN,sexigdate.com
 DOMAIN,sexigdate.se
 DOMAIN,sexigevsk.biz
-DOMAIN,sexigirl.co
 DOMAIN,sexigirl.com
 DOMAIN,sexigirl.dk
 DOMAIN,sexigirlnow.pages.dev
@@ -317546,6 +317431,7 @@ DOMAIN,sexmo.org
 DOMAIN,sexmo.pro
 DOMAIN,sexmo.site
 DOMAIN,sexmob.com
+DOMAIN,sexmob.icu
 DOMAIN,sexmob.top
 DOMAIN,sexmobi.com
 DOMAIN,sexmobil.cz
@@ -318956,7 +318842,6 @@ DOMAIN,sexpass.com
 DOMAIN,sexpassau.com
 DOMAIN,sexpasslive.com
 DOMAIN,sexpassnetwork.com
-DOMAIN,sexpasswords.net
 DOMAIN,sexpassworte.de
 DOMAIN,sexpatagonia.com
 DOMAIN,sexpatatina.it
@@ -319071,7 +318956,6 @@ DOMAIN,sexpics.nl
 DOMAIN,sexpics.org
 DOMAIN,sexpics.ru
 DOMAIN,sexpics.website
-DOMAIN,sexpics.xxx
 DOMAIN,sexpics24.com
 DOMAIN,sexpicsandvids.com
 DOMAIN,sexpicsfree.com
@@ -320147,7 +320031,6 @@ DOMAIN,sexsiha.pages.dev
 DOMAIN,sexsikispornosu.online
 DOMAIN,sexsiliconedoll.com
 DOMAIN,sexsilven.org
-DOMAIN,sexsim.com
 DOMAIN,sexsimf.cc
 DOMAIN,sexsimf.life
 DOMAIN,sexsimf.online
@@ -320265,7 +320148,6 @@ DOMAIN,sexsnapp.com
 DOMAIN,sexsnaps.com
 DOMAIN,sexsnude.com
 DOMAIN,sexso1.net
-DOMAIN,sexsochi.info
 DOMAIN,sexsochi.xyz
 DOMAIN,sexsocialization.com
 DOMAIN,sexsocialmedia.com
@@ -321155,6 +321037,7 @@ DOMAIN,sextoppen.dk
 DOMAIN,sextoppen.se
 DOMAIN,sextoptopvn.com
 DOMAIN,sextopvip.pro
+DOMAIN,sextopvl.com
 DOMAIN,sextopvl.tv
 DOMAIN,sextopvn.net
 DOMAIN,sextopvn.xxx
@@ -322169,7 +322052,6 @@ DOMAIN,sexv.pages.dev
 DOMAIN,sexvacation.de
 DOMAIN,sexvacations.com
 DOMAIN,sexvagon.net
-DOMAIN,sexvai.net
 DOMAIN,sexvalise.com
 DOMAIN,sexvalvexse.pages.dev
 DOMAIN,sexvamly.com
@@ -324287,7 +324169,6 @@ DOMAIN,sexyartwife.blog
 DOMAIN,sexyasain.com
 DOMAIN,sexyasia.beauty
 DOMAIN,sexyasia.com
-DOMAIN,sexyasia.help
 DOMAIN,sexyasia.mom
 DOMAIN,sexyasia.pics
 DOMAIN,sexyasiacams.com
@@ -324343,7 +324224,6 @@ DOMAIN,sexyass.pages.dev
 DOMAIN,sexyassbanged.com
 DOMAIN,sexyasscougars.info
 DOMAIN,sexyasses.com
-DOMAIN,sexyassladies.com
 DOMAIN,sexyasspics.com
 DOMAIN,sexyasspictures.com
 DOMAIN,sexyassshaking.xxx
@@ -324875,6 +324755,7 @@ DOMAIN,sexyforum.nl
 DOMAIN,sexyforums.com
 DOMAIN,sexyforyou5.xyz
 DOMAIN,sexyfourms.com
+DOMAIN,sexyfox.cc
 DOMAIN,sexyfr.com
 DOMAIN,sexyfrau.ch
 DOMAIN,sexyfreak.com
@@ -325385,7 +325266,6 @@ DOMAIN,sexylibfr.fr
 DOMAIN,sexylicious.adult
 DOMAIN,sexylicious.ro
 DOMAIN,sexylicious.xxx
-DOMAIN,sexyline.pl
 DOMAIN,sexylinesexshop.pt
 DOMAIN,sexylingerie.vip
 DOMAIN,sexylingerieforhotwomen.com
@@ -325546,7 +325426,6 @@ DOMAIN,sexymilfspics.com
 DOMAIN,sexymilfsporn.com
 DOMAIN,sexymilfsvids.com
 DOMAIN,sexymilftube.com
-DOMAIN,sexymilfworld.com
 DOMAIN,sexyminx.com
 DOMAIN,sexymixlist.top
 DOMAIN,sexymixy.com
@@ -326238,7 +326117,6 @@ DOMAIN,sexytopsites.net
 DOMAIN,sexytoto.sbs
 DOMAIN,sexytotop.sbs
 DOMAIN,sexytout.com
-DOMAIN,sexytoydeals.com
 DOMAIN,sexytoys.xxx
 DOMAIN,sexytoysforcouples.com
 DOMAIN,sexytoyslover.com
@@ -326296,7 +326174,6 @@ DOMAIN,sexyukcamgirls.co.uk
 DOMAIN,sexyukcams.com
 DOMAIN,sexyukdates.com
 DOMAIN,sexyukkkkxxx.pages.dev
-DOMAIN,sexyukmilfs.com
 DOMAIN,sexyukpornstars.com
 DOMAIN,sexyukpornstars.xxx
 DOMAIN,sexyukrainiangirls.com
@@ -326305,6 +326182,7 @@ DOMAIN,sexyukwives.com
 DOMAIN,sexyunderwear.com
 DOMAIN,sexyundgeil.de
 DOMAIN,sexyunikovka.sk
+DOMAIN,sexyunlimitedchat.com
 DOMAIN,sexyupoznavanje.com
 DOMAIN,sexyupskirt.com
 DOMAIN,sexyupskirtvideos.com
@@ -326521,7 +326399,6 @@ DOMAIN,sexzonexxx.bar
 DOMAIN,sexzoo.net
 DOMAIN,sexzool.com
 DOMAIN,sexzoom.club
-DOMAIN,sexzoom.pl
 DOMAIN,sexzoro.com
 DOMAIN,sexzoznamka.eu
 DOMAIN,sexzoznamka.sk
@@ -327707,6 +327584,7 @@ DOMAIN,sharotto.com
 DOMAIN,sharpeedu.com
 DOMAIN,sharpestquote.com
 DOMAIN,sharpni.ru
+DOMAIN,sharpporn.com
 DOMAIN,sharpshooterpix.com
 DOMAIN,sharpshooterstudios.com
 DOMAIN,sharpvideomag.com
@@ -328916,7 +328794,6 @@ DOMAIN,shemalesex.uk
 DOMAIN,shemalesex1.com
 DOMAIN,shemalesexafspraakjes.nl
 DOMAIN,shemalesexblog.com
-DOMAIN,shemalesexbook.co.uk
 DOMAIN,shemalesexbook.com
 DOMAIN,shemalesexchat.com
 DOMAIN,shemalesexchat.nl
@@ -329966,7 +329843,6 @@ DOMAIN,shoesession.com
 DOMAIN,shoesluts.com
 DOMAIN,shoesnbootsxxx.com
 DOMAIN,shoesnmooresc3.com
-DOMAIN,shoesonlinebuy.cn
 DOMAIN,shoeuk.com
 DOMAIN,shofha.tv
 DOMAIN,shogo-advert.ru
@@ -330274,6 +330150,7 @@ DOMAIN,showmeyouradsnow.com
 DOMAIN,showmodells.com.br
 DOMAIN,showmusor.hu
 DOMAIN,showmybalance.com
+DOMAIN,showmyporn.com
 DOMAIN,showmypussyxxxgh.pages.dev
 DOMAIN,showmypussyxxxll.pages.dev
 DOMAIN,showmypussyxxxrr.pages.dev
@@ -331083,7 +330960,6 @@ DOMAIN,silicone-feet.com
 DOMAIN,silicone-sex-dolls-org.pages.dev
 DOMAIN,silicone-sex-dolls.org
 DOMAIN,siliconefreak.com
-DOMAIN,siliconefree.com
 DOMAIN,siliconegirls.com
 DOMAIN,siliconelovers.co.uk
 DOMAIN,siliconelovers.com
@@ -331290,6 +331166,7 @@ DOMAIN,simonwolfproductions.com
 DOMAIN,simozo.mobi
 DOMAIN,simozo.net
 DOMAIN,simpak.ru
+DOMAIN,simpasian.net
 DOMAIN,simpbay.com
 DOMAIN,simpcave.com
 DOMAIN,simpcity-su.com
@@ -331626,6 +331503,7 @@ DOMAIN,singlesdatingagency.eu
 DOMAIN,singlesdatingplanet.com
 DOMAIN,singlesflirt.org
 DOMAIN,singlesites.com
+DOMAIN,singlesjunction.net
 DOMAIN,singleskennenlernen.de
 DOMAIN,singleslavic.com
 DOMAIN,singlesmeethere.com
@@ -332830,7 +332708,6 @@ DOMAIN,skfpto.com.cn
 DOMAIN,skg040.sbs
 DOMAIN,skgdq.com
 DOMAIN,skgroup.kiev.ua
-DOMAIN,skhcvkasd.vip
 DOMAIN,ski-haus.com
 DOMAIN,skianh.cn
 DOMAIN,skibbel.cam
@@ -333320,7 +333197,6 @@ DOMAIN,sleepadult.com
 DOMAIN,sleeper-sofa.dreamhoster.com
 DOMAIN,sleeping-girl-fucked-porn.pages.dev
 DOMAIN,sleeping-monkey.com
-DOMAIN,sleepingbitch.com
 DOMAIN,sleepinghandjobgay.pages.dev
 DOMAIN,sleepingmatures.com
 DOMAIN,sleepingporn.com
@@ -333947,7 +333823,6 @@ DOMAIN,sluttycraze.com
 DOMAIN,sluttycum.com
 DOMAIN,sluttydaddy.com
 DOMAIN,sluttydance.com
-DOMAIN,sluttydoll.com
 DOMAIN,sluttyex.com
 DOMAIN,sluttyfanfinder.com
 DOMAIN,sluttyfatbabes.com
@@ -335078,7 +334953,6 @@ DOMAIN,snapsex.ch
 DOMAIN,snapsex.nl
 DOMAIN,snapsex.se
 DOMAIN,snapsexchat.com
-DOMAIN,snapsexe.net
 DOMAIN,snapsexfrance.fr
 DOMAIN,snapsexsonly.pages.dev
 DOMAIN,snapsext.com
@@ -335368,7 +335242,6 @@ DOMAIN,sochipsm.com
 DOMAIN,sochisex.xyz
 DOMAIN,sochiulust.com
 DOMAIN,sochiwsm.com
-DOMAIN,sochixxx.info
 DOMAIN,sochnoeporno.com
 DOMAIN,sociaalsexnetwerk.nl
 DOMAIN,social-chat.live
@@ -336287,6 +336160,7 @@ DOMAIN,sommarsex.com
 DOMAIN,sommer-ray-sexy-pictures.pages.dev
 DOMAIN,sommerraynudesporn.pages.dev
 DOMAIN,sommerset-deepfake-porn.pages.dev
+DOMAIN,somnukschool.com
 DOMAIN,somoscd.es
 DOMAIN,somosmalas.com
 DOMAIN,somuchfreeporn.com
@@ -336489,7 +336363,6 @@ DOMAIN,sopian.top
 DOMAIN,soporn.com
 DOMAIN,soporn.net
 DOMAIN,soporngalleries.com
-DOMAIN,sopornmovies.com
 DOMAIN,sopornvideos.com
 DOMAIN,sopornvideos.work
 DOMAIN,sopot.com
@@ -337951,12 +337824,12 @@ DOMAIN,sport-video-obzor.ru
 DOMAIN,sport.plumts.com
 DOMAIN,sport007.com
 DOMAIN,sportatschool.org.uk
-DOMAIN,sportbabes.com
 DOMAIN,sportbook.page
 DOMAIN,sportboys.us
 DOMAIN,sportbud.org
 DOMAIN,sportdatingplanet.com
 DOMAIN,sportgirlskalender.com
+DOMAIN,sportgoods18.ru
 DOMAIN,sportiefdaten.nl
 DOMAIN,sporting2026.blog
 DOMAIN,sportinsurance.cn
@@ -339104,7 +338977,6 @@ DOMAIN,stars-zone.com
 DOMAIN,stars01.com
 DOMAIN,stars4all.de
 DOMAIN,starscams.com
-DOMAIN,starsessions.sbs
 DOMAIN,starsex.cc
 DOMAIN,starsex.com
 DOMAIN,starsex.pl
@@ -339287,7 +339159,6 @@ DOMAIN,staycams.com
 DOMAIN,staydownmc.fi
 DOMAIN,staygay.de
 DOMAIN,staygoodhealthy.com
-DOMAIN,stayhardsexshop.com
 DOMAIN,stayhome8kporn.com
 DOMAIN,stayhomebro.com
 DOMAIN,stayhomemilf.com
@@ -339318,7 +339189,6 @@ DOMAIN,stdadultfriendfinder.com
 DOMAIN,stddw.com.cn
 DOMAIN,stdjj.com
 DOMAIN,stdpersonals.net
-DOMAIN,stds22.com
 DOMAIN,stdtwo001.xyz
 DOMAIN,stdyled.com
 DOMAIN,ste-srl.com
@@ -339444,7 +339314,6 @@ DOMAIN,step-xxx-videos.com
 DOMAIN,stepanakert.info
 DOMAIN,stepblings.com
 DOMAIN,stepbro.vip
-DOMAIN,stepbrostories.com
 DOMAIN,stepbrothersex.com
 DOMAIN,stepbrothersporn.com
 DOMAIN,stepbystepporn.com
@@ -342336,7 +342205,6 @@ DOMAIN,superbeauty.site
 DOMAIN,superbeeing.cn
 DOMAIN,superbemodels.com
 DOMAIN,superbest.ru
-DOMAIN,superbgays.com
 DOMAIN,superblog.info
 DOMAIN,superblonde.com
 DOMAIN,superblowjob.com
@@ -342749,7 +342617,6 @@ DOMAIN,superxxx.beauty
 DOMAIN,superxxx.biz
 DOMAIN,superxxx.help
 DOMAIN,superxxx.pics
-DOMAIN,superxxx.quest
 DOMAIN,superxxx.video
 DOMAIN,superxxxflix.com
 DOMAIN,superxxxfree.com
@@ -342824,7 +342691,6 @@ DOMAIN,suq265.com
 DOMAIN,suqi31.cn
 DOMAIN,sur.beautiful-girls.ws
 DOMAIN,sur.xxx-lesbos.cc
-DOMAIN,sur.xxxalarabi.com
 DOMAIN,sur882.sbs
 DOMAIN,surbhirana.biz
 DOMAIN,sure2sign.com
@@ -343972,7 +343838,6 @@ DOMAIN,swingerfinden.com
 DOMAIN,swingerfinden.de
 DOMAIN,swingerfinder.com
 DOMAIN,swingerfreunde.com
-DOMAIN,swingerfuckbook.co.uk
 DOMAIN,swingerfucking.com
 DOMAIN,swingerfun.com
 DOMAIN,swingerfun.net
@@ -344338,6 +344203,7 @@ DOMAIN,swk83.com
 DOMAIN,swkw285.com
 DOMAIN,swlt.cc
 DOMAIN,swmetalfinishing.com
+DOMAIN,swmicrosoft.com
 DOMAIN,swmprot.com
 DOMAIN,swmywt.com
 DOMAIN,swmzt.com
@@ -345555,6 +345421,7 @@ DOMAIN,t.aagm.link
 DOMAIN,t.acam.link
 DOMAIN,t.adating.link
 DOMAIN,t.asxem.link
+DOMAIN,t.cqq5id8n.com
 DOMAIN,t.dating
 DOMAIN,t.frtyh.com
 DOMAIN,t.grtyv.com
@@ -346196,6 +346063,7 @@ DOMAIN,taken4u.com
 DOMAIN,takens.tw
 DOMAIN,takepornclips.click
 DOMAIN,takepornmovies.click
+DOMAIN,takepornmovies.com
 DOMAIN,takepussy.com
 DOMAIN,takeright.com.cn
 DOMAIN,taketeens.com
@@ -346277,6 +346145,7 @@ DOMAIN,talkcity.com
 DOMAIN,talkdirty.com
 DOMAIN,talkdirtyai.com
 DOMAIN,talkdirtycams.com
+DOMAIN,talkdirtychatline.com
 DOMAIN,talkdirtygirls.com
 DOMAIN,talkdirtylive.com
 DOMAIN,talkdirtymommy.com
@@ -348001,7 +347870,6 @@ DOMAIN,teen-strip.de
 DOMAIN,teen-swing.com
 DOMAIN,teen-teacher.com
 DOMAIN,teen-telefonsex.biz
-DOMAIN,teen-telefonsex.net
 DOMAIN,teen-telefonsex.xyz
 DOMAIN,teen-titans-porn.com
 DOMAIN,teen-titties.com
@@ -348504,6 +348372,7 @@ DOMAIN,teengirlspornpics.com
 DOMAIN,teengirlsstrip.com
 DOMAIN,teengirlsstripping.com
 DOMAIN,teengirlstub.com
+DOMAIN,teengirlsvideos.com
 DOMAIN,teengirlswebcams.com
 DOMAIN,teengirltgp.com
 DOMAIN,teengirlvideo.com
@@ -348705,7 +348574,6 @@ DOMAIN,teennakedporn.com
 DOMAIN,teennippon.com
 DOMAIN,teennude.cc
 DOMAIN,teennude.link
-DOMAIN,teennude.site
 DOMAIN,teennudegirls.com
 DOMAIN,teennudephoto.com
 DOMAIN,teennudes.sexy
@@ -348963,7 +348831,6 @@ DOMAIN,teenpornvideo.biz
 DOMAIN,teenpornvideo.club
 DOMAIN,teenpornvideo.fun
 DOMAIN,teenpornvideo.help
-DOMAIN,teenpornvideo.lol
 DOMAIN,teenpornvideo.me
 DOMAIN,teenpornvideo.mom
 DOMAIN,teenpornvideo.online
@@ -349037,7 +348904,6 @@ DOMAIN,teenrapeporn.com
 DOMAIN,teenrave.org
 DOMAIN,teenreef.com
 DOMAIN,teenrevenue.com
-DOMAIN,teenreviewer.com
 DOMAIN,teenrider.com
 DOMAIN,teenrotica.com
 DOMAIN,teenroughfuck.com
@@ -349550,7 +349416,6 @@ DOMAIN,teentubercn.com
 DOMAIN,teentubexnxx.com
 DOMAIN,teentubexxxl.com
 DOMAIN,teentugs.com
-DOMAIN,teentugs.info
 DOMAIN,teentv.us
 DOMAIN,teentvx.com
 DOMAIN,teentwats.com
@@ -349562,7 +349427,6 @@ DOMAIN,teenudes.net
 DOMAIN,teenudity.net
 DOMAIN,teenvagina.net
 DOMAIN,teenvaginapics.com
-DOMAIN,teenvampire.com
 DOMAIN,teenvid.buzz
 DOMAIN,teenvid.help
 DOMAIN,teenvid.homes
@@ -349626,7 +349490,6 @@ DOMAIN,teenxxx.vip
 DOMAIN,teenxxx19.com
 DOMAIN,teenxxxaction.com
 DOMAIN,teenxxxcams.com
-DOMAIN,teenxxxchat.com
 DOMAIN,teenxxxclip.com
 DOMAIN,teenxxxcore.com
 DOMAIN,teenxxxex.cc
@@ -350249,7 +350112,6 @@ DOMAIN,telefonsex-rufnummern.com
 DOMAIN,telefonsex-sandra.com
 DOMAIN,telefonsex-schlampen.de
 DOMAIN,telefonsex-schlampen.net
-DOMAIN,telefonsex-schmuddelecke.com
 DOMAIN,telefonsex-schweiz.ch
 DOMAIN,telefonsex-schweiz.com
 DOMAIN,telefonsex-schweiz.de
@@ -350741,6 +350603,7 @@ DOMAIN,telephonesex.se
 DOMAIN,telephonesexe.be
 DOMAIN,telephonesexe.fr
 DOMAIN,telephonesexy.net
+DOMAIN,telephonesingles.com
 DOMAIN,telepicha.com
 DOMAIN,teleporrlinjen.se
 DOMAIN,teleputaria.com
@@ -351091,6 +350954,7 @@ DOMAIN,tepebasiescortgo.xyz
 DOMAIN,tepl172blo8lk.xyz
 DOMAIN,teplanet.com
 DOMAIN,teplomontag.net
+DOMAIN,teporn.com
 DOMAIN,teporndude.com
 DOMAIN,teposoft.com
 DOMAIN,tepoy.org
@@ -351514,7 +351378,6 @@ DOMAIN,tgirlfinders.com
 DOMAIN,tgirlfondle.com
 DOMAIN,tgirlfoot.com
 DOMAIN,tgirlforums.com
-DOMAIN,tgirlfuckbook.co.uk
 DOMAIN,tgirlgold.com
 DOMAIN,tgirlgoo.com
 DOMAIN,tgirlhandjobs.com
@@ -351715,6 +351578,7 @@ DOMAIN,th.greatxgirl.com
 DOMAIN,th.hentai-cosplays.com
 DOMAIN,th.hotbeautypic.com
 DOMAIN,th.hotxbaby.com
+DOMAIN,th.hotxgirl.com
 DOMAIN,th.jpg4.biz
 DOMAIN,th.kawaiixgirl.com
 DOMAIN,th.kawaiixpic.com
@@ -351759,9 +351623,7 @@ DOMAIN,thai-telefonsex.de
 DOMAIN,thai-x.com
 DOMAIN,thai-xxx.com
 DOMAIN,thai.tubekittysex.com
-DOMAIN,thai18.net
 DOMAIN,thai18.tv
-DOMAIN,thai69.com
 DOMAIN,thaiadults.com
 DOMAIN,thaiall.com
 DOMAIN,thaianh.com
@@ -351796,7 +351658,6 @@ DOMAIN,thaigirlsrevealed.com
 DOMAIN,thaigirlswild.com
 DOMAIN,thaigirlswildlive.com
 DOMAIN,thaigirltia.com
-DOMAIN,thaigogobars.com
 DOMAIN,thaihdfuck.com
 DOMAIN,thaihometown.com
 DOMAIN,thaihookerpics.com
@@ -351828,7 +351689,6 @@ DOMAIN,thailivesex.com
 DOMAIN,thailovelinks.com
 DOMAIN,thailovesite.com
 DOMAIN,thailuad.com
-DOMAIN,thaimassagegirls.com
 DOMAIN,thaimatch.com
 DOMAIN,thaimisc.com
 DOMAIN,thaimoneyprincess.com
@@ -351850,7 +351710,6 @@ DOMAIN,thaipornhd.com
 DOMAIN,thaiporno.top
 DOMAIN,thaipornsex.com
 DOMAIN,thaiporntube.name
-DOMAIN,thaiporntube.net
 DOMAIN,thaiporntubes.com
 DOMAIN,thaiporntv.com
 DOMAIN,thaiporntv.pages.dev
@@ -352162,6 +352021,7 @@ DOMAIN,theadultreviewer.com
 DOMAIN,theadults.com
 DOMAIN,theadultsearchengine.com
 DOMAIN,theadultstories.com
+DOMAIN,theadultstoryhub.com
 DOMAIN,theadulttreasurechest.net
 DOMAIN,theadultvault.com
 DOMAIN,theadultvideos.com
@@ -352279,7 +352139,6 @@ DOMAIN,thebeautythebeast-porn.pages.dev
 DOMAIN,thebedlab.com
 DOMAIN,thebenefitmonkey.com
 DOMAIN,thebengalitoday.com
-DOMAIN,thebest-camgirls.com
 DOMAIN,thebestadultoffer.com
 DOMAIN,thebestadultpaysites.com
 DOMAIN,thebestcamgirls.net
@@ -354037,6 +353896,7 @@ DOMAIN,thetwistysblog.com
 DOMAIN,theuaeschools.com
 DOMAIN,theukmilf.com
 DOMAIN,theultimatecourtesan.net
+DOMAIN,theultimatephonesexguide.com
 DOMAIN,theultimatesextoy.com
 DOMAIN,theultralounge.com
 DOMAIN,theuncensored.ai
@@ -354981,7 +354841,6 @@ DOMAIN,tianshi-ru.store
 DOMAIN,tianshi111.com
 DOMAIN,tianshuhome.com
 DOMAIN,tiansuitax.com
-DOMAIN,tiantang.today
 DOMAIN,tiantangcinema.com
 DOMAIN,tiantangcinema.net
 DOMAIN,tiantanghd.com
@@ -355866,7 +355725,6 @@ DOMAIN,tist.com
 DOMAIN,tisu2.com.cn
 DOMAIN,tit-cams.com
 DOMAIN,tit4free.com
-DOMAIN,titaholic.com
 DOMAIN,titan-men.com
 DOMAIN,titan-ukraine.uno
 DOMAIN,titanbet.pro
@@ -355877,6 +355735,7 @@ DOMAIN,titaniccoffee.co.uk
 DOMAIN,titanicporn.com
 DOMAIN,titanicxxx.com
 DOMAIN,titanime.com
+DOMAIN,titanimepreview.com
 DOMAIN,titanimes.net
 DOMAIN,titaniumcell.com
 DOMAIN,titanlive.com
@@ -356729,6 +356588,7 @@ DOMAIN,to669.sbs
 DOMAIN,to941.top
 DOMAIN,to98.sbs
 DOMAIN,toa.life
+DOMAIN,toad-tube.com
 DOMAIN,toastmasterspride.org
 DOMAIN,toaxxx.com
 DOMAIN,toba.in.ua
@@ -357007,7 +356867,6 @@ DOMAIN,tokyoporn-tube.com
 DOMAIN,tokyoporn.com
 DOMAIN,tokyoporn.top
 DOMAIN,tokyoporn.work
-DOMAIN,tokyoporn.xyz
 DOMAIN,tokyoporna.com
 DOMAIN,tokyopornos.com
 DOMAIN,tokyopornox.com
@@ -359163,7 +359022,6 @@ DOMAIN,trahland.com
 DOMAIN,trahni.net
 DOMAIN,trahnul.com
 DOMAIN,trahnula.ru
-DOMAIN,trahnulas.top
 DOMAIN,trahnuli.ru
 DOMAIN,traho.pro
 DOMAIN,trahodom.com
@@ -359382,7 +359240,6 @@ DOMAIN,trannybest.com
 DOMAIN,trannybitch.com
 DOMAIN,trannybitches.com
 DOMAIN,trannybizarre.com
-DOMAIN,trannyblackbook.co.uk
 DOMAIN,trannyblackbook.com
 DOMAIN,trannyblowjob.com
 DOMAIN,trannybolivia.com
@@ -359578,6 +359435,7 @@ DOMAIN,trannypersonals.co.uk
 DOMAIN,trannypersonals.com
 DOMAIN,trannyperu.com
 DOMAIN,trannyphonechat.co.uk
+DOMAIN,trannyphonesex.co
 DOMAIN,trannyphonesex.co.uk
 DOMAIN,trannyphonesexchicks.com
 DOMAIN,trannyphonesexx.com
@@ -359660,7 +359518,6 @@ DOMAIN,trannysex.icu
 DOMAIN,trannysex.top
 DOMAIN,trannysex1.com
 DOMAIN,trannysexblog.com
-DOMAIN,trannysexbook.co.uk
 DOMAIN,trannysexbook.com
 DOMAIN,trannysexcamchat.com
 DOMAIN,trannysexcams.com
@@ -362336,7 +362193,6 @@ DOMAIN,ttmhw.com
 DOMAIN,ttmhw.top
 DOMAIN,ttmoda.com
 DOMAIN,ttmp.com.cn
-DOMAIN,ttmwc52.top
 DOMAIN,ttn31.com
 DOMAIN,ttnaked.com
 DOMAIN,ttngirls.com
@@ -362590,6 +362446,7 @@ DOMAIN,tube8-teens.com
 DOMAIN,tube8-xxx.pro
 DOMAIN,tube8.asia
 DOMAIN,tube8.at
+DOMAIN,tube8.baby
 DOMAIN,tube8.best
 DOMAIN,tube8.bg
 DOMAIN,tube8.biz
@@ -363358,6 +363215,7 @@ DOMAIN,tubexxx.icu
 DOMAIN,tubexxx.info
 DOMAIN,tubexxx.makeup
 DOMAIN,tubexxx.me
+DOMAIN,tubexxx.mobi
 DOMAIN,tubexxx.online
 DOMAIN,tubexxx.org
 DOMAIN,tubexxx.pro
@@ -363809,6 +363667,7 @@ DOMAIN,turk-pornolari69.store
 DOMAIN,turkabi.com
 DOMAIN,turkalem.net
 DOMAIN,turkavcilar.com
+DOMAIN,turkayapi.com
 DOMAIN,turkbaza.lol
 DOMAIN,turkcealtyazihdpornolar.online
 DOMAIN,turkcealtyazili.porn
@@ -364339,6 +364198,7 @@ DOMAIN,tw.greatxass.com
 DOMAIN,tw.greatxgirl.com
 DOMAIN,tw.hotbeautypic.com
 DOMAIN,tw.hotxbaby.com
+DOMAIN,tw.hotxgirl.com
 DOMAIN,tw.kawaiixgirl.com
 DOMAIN,tw.kawaiixpic.com
 DOMAIN,tw.nicexgirl.com
@@ -365562,6 +365422,7 @@ DOMAIN,uandme.com
 DOMAIN,uanglim.com
 DOMAIN,uanpxy.com
 DOMAIN,uansengroup.com
+DOMAIN,uansogtfwjicioqjbcgcggriy.com
 DOMAIN,uao003.sbs
 DOMAIN,uao454.sbs
 DOMAIN,uap695.com
@@ -365701,7 +365562,6 @@ DOMAIN,uchinao.com
 DOMAIN,uchwo.com
 DOMAIN,uchylnavidea.cz
 DOMAIN,uci542.sbs
-DOMAIN,ucihlxr.cn
 DOMAIN,ucjav.com
 DOMAIN,ucjizz.info
 DOMAIN,uckf.com
@@ -366233,7 +366093,6 @@ DOMAIN,ukchat.com
 DOMAIN,ukchatbabes.com
 DOMAIN,ukchatters.live
 DOMAIN,ukchavsex.com
-DOMAIN,ukchavsluts.com
 DOMAIN,ukchinagfc.com
 DOMAIN,ukchinastar.com
 DOMAIN,ukcrossdresser.com
@@ -366275,7 +366134,6 @@ DOMAIN,ukgaycams.com
 DOMAIN,ukgaydates.com
 DOMAIN,ukgaypersonals.com
 DOMAIN,ukgrandma.com
-DOMAIN,ukgranny.com
 DOMAIN,ukgrannycams.co.uk
 DOMAIN,ukguys.cam
 DOMAIN,ukhandjobs.com
@@ -366392,7 +366250,6 @@ DOMAIN,uksexreview.com
 DOMAIN,uksexting.com
 DOMAIN,uksexybabes.com
 DOMAIN,uksexymilfs.com
-DOMAIN,ukshagging.co.uk
 DOMAIN,ukshemales.co.uk
 DOMAIN,ukslags.co.uk
 DOMAIN,ukslappers100.com
@@ -368478,6 +368335,7 @@ DOMAIN,uua4.top
 DOMAIN,uuahay.cyou
 DOMAIN,uuahb.com.cn
 DOMAIN,uuaua.com
+DOMAIN,uubqp.com
 DOMAIN,uubqp1.com
 DOMAIN,uubxr.com
 DOMAIN,uucams.com
@@ -369652,7 +369510,6 @@ DOMAIN,vcxvod.com
 DOMAIN,vcxzaqw.com
 DOMAIN,vcz731.top
 DOMAIN,vd143.top
-DOMAIN,vd27mo6.cn
 DOMAIN,vd2me.top
 DOMAIN,vd62.com
 DOMAIN,vd79.top
@@ -370243,7 +370100,6 @@ DOMAIN,veryxxxxhd.monster
 DOMAIN,veryxxxxhd.space
 DOMAIN,veryxxxxhd.today
 DOMAIN,veryxxxxhd.world
-DOMAIN,veryxxxxhd.xyz
 DOMAIN,veryxxxxhd.yachts
 DOMAIN,veryxxxxxhd.art
 DOMAIN,veryxxxxxhd.autos
@@ -370416,6 +370272,7 @@ DOMAIN,vi.greatxgirl.com
 DOMAIN,vi.hentai-cosplays.com
 DOMAIN,vi.hotbeautypic.com
 DOMAIN,vi.hotxbaby.com
+DOMAIN,vi.hotxgirl.com
 DOMAIN,vi.kawaiixgirl.com
 DOMAIN,vi.kawaiixpic.com
 DOMAIN,vi.nicexgirl.com
@@ -370497,6 +370354,7 @@ DOMAIN,viberdownload10.com
 DOMAIN,vibermate.com
 DOMAIN,viberotica.pages.dev
 DOMAIN,vibertool.ru
+DOMAIN,vibesex.ru
 DOMAIN,vibeshop.com
 DOMAIN,vibessexguard.xyz
 DOMAIN,vibex.sex
@@ -371443,6 +371301,7 @@ DOMAIN,videosex.net
 DOMAIN,videosex.nl
 DOMAIN,videosex.rest
 DOMAIN,videosex.se
+DOMAIN,videosex.top.mx
 DOMAIN,videosex.tv
 DOMAIN,videosex.video
 DOMAIN,videosex.xxx
@@ -371993,7 +371852,6 @@ DOMAIN,vidsmate.com
 DOMAIN,vidsmature.com
 DOMAIN,vidsplus.com
 DOMAIN,vidsporn.com
-DOMAIN,vidsporn.wtf
 DOMAIN,vidspornfull.com
 DOMAIN,vidsporno.com
 DOMAIN,vidspornoduro.com
@@ -373071,7 +372929,6 @@ DOMAIN,vipsexphone.com
 DOMAIN,vipsexrabbit.com
 DOMAIN,vipsexrabbit.sex
 DOMAIN,vipsexshop.com
-DOMAIN,vipsexstore.com
 DOMAIN,vipsextube.com
 DOMAIN,vipsexvault.com
 DOMAIN,vipshemalegalls.com
@@ -373405,7 +373262,6 @@ DOMAIN,virtual-chat.ru
 DOMAIN,virtual-desktop-girl.com
 DOMAIN,virtual-newsstand.com
 DOMAIN,virtual-office.in
-DOMAIN,virtual-sex-games.net
 DOMAIN,virtual-sex-phone.su
 DOMAIN,virtual-sex-time.ru
 DOMAIN,virtual-sex-videochat.ru
@@ -374823,7 +374679,6 @@ DOMAIN,votkinsklust.com
 DOMAIN,votkinsksm.com
 DOMAIN,votum-sa.pl
 DOMAIN,votzen-lecken.com
-DOMAIN,votzen.bz
 DOMAIN,vou915.sbs
 DOMAIN,voucherporn.com
 DOMAIN,voueurweb.com
@@ -375128,7 +374983,6 @@ DOMAIN,voyeurroulette.live
 DOMAIN,voyeurs.com
 DOMAIN,voyeurs.us
 DOMAIN,voyeursandupskirts.com
-DOMAIN,voyeurscope.com
 DOMAIN,voyeursdream.com
 DOMAIN,voyeurseite.eu
 DOMAIN,voyeursex-porn.com
@@ -377307,7 +377161,6 @@ DOMAIN,wastweb.com
 DOMAIN,wasvod.com
 DOMAIN,wasyuc.cc
 DOMAIN,waszu.cn
-DOMAIN,wataa.fun
 DOMAIN,wataa.io
 DOMAIN,watamov.cc
 DOMAIN,wataniasoft.com
@@ -377440,7 +377293,6 @@ DOMAIN,watchingbas.com
 DOMAIN,watchingmydaughtergoblack.com
 DOMAIN,watchingmymomgoblack.com
 DOMAIN,watchingmymomgoblackporn.com
-DOMAIN,watchingmymommagoblack.com
 DOMAIN,watchingonlineporn.com
 DOMAIN,watchingporn.club
 DOMAIN,watchingsexlive.com
@@ -377473,7 +377325,6 @@ DOMAIN,watchmefucked.com
 DOMAIN,watchmefuckmyself.com
 DOMAIN,watchmejack.com
 DOMAIN,watchmejerk.com
-DOMAIN,watchmemasturbate.net
 DOMAIN,watchmeplay.com
 DOMAIN,watchmilf.com
 DOMAIN,watchmilfporn.net
@@ -377685,7 +377536,6 @@ DOMAIN,wav408.sbs
 DOMAIN,wav414.sbs
 DOMAIN,wav415.sbs
 DOMAIN,wav418.sbs
-DOMAIN,wav421.sbs
 DOMAIN,wav422.sbs
 DOMAIN,wave-the-swallow-porn.pages.dev
 DOMAIN,wave1111.com
@@ -378434,7 +378284,6 @@ DOMAIN,webcamfrauen.de
 DOMAIN,webcamfreaks.nl
 DOMAIN,webcamfreesex.com
 DOMAIN,webcamfrog.com
-DOMAIN,webcamfuckbook.co.uk
 DOMAIN,webcamfucker.com
 DOMAIN,webcamfuckers.com
 DOMAIN,webcamfucking.com
@@ -378724,7 +378573,6 @@ DOMAIN,webcamsessie.nl
 DOMAIN,webcamsex-24.com
 DOMAIN,webcamsex-amateur.nl
 DOMAIN,webcamsex-beoordelingen.nl
-DOMAIN,webcamsex-chat.livesex-girls18.com
 DOMAIN,webcamsex-chats.com
 DOMAIN,webcamsex-dildocontrol.com
 DOMAIN,webcamsex-factor.nl
@@ -379134,6 +378982,7 @@ DOMAIN,webcamvideosex.com
 DOMAIN,webcamvids.org
 DOMAIN,webcamvips.com
 DOMAIN,webcamvoyeur.net
+DOMAIN,webcamvrouw.nl
 DOMAIN,webcamvrouwen.be
 DOMAIN,webcamvrouwen.nl
 DOMAIN,webcamwank.com
@@ -379290,6 +379139,7 @@ DOMAIN,weboffer.net
 DOMAIN,webolder.com
 DOMAIN,webonlinesex.com
 DOMAIN,weborama.com
+DOMAIN,webout.life
 DOMAIN,webphimsex.pro
 DOMAIN,webphimsex.sbs
 DOMAIN,webphimxxx.com
@@ -379393,7 +379243,6 @@ DOMAIN,webube.com.cn
 DOMAIN,webuilt.com
 DOMAIN,webulb.org
 DOMAIN,webured.net
-DOMAIN,weburok.com
 DOMAIN,webvk.com
 DOMAIN,webvoyeur2voyager.com
 DOMAIN,webwave.blog
@@ -380280,7 +380129,6 @@ DOMAIN,wetwetpics.com
 DOMAIN,wetwink.com
 DOMAIN,wetx.net
 DOMAIN,wetxindianporn.com
-DOMAIN,wetxxxmovies.com
 DOMAIN,wetyoungpussy.net
 DOMAIN,weu.su
 DOMAIN,weu760.sbs
@@ -380468,6 +380316,7 @@ DOMAIN,whatsapp-dating-sex-4hd.pages.dev
 DOMAIN,whatsapp-for-sex69.pages.dev
 DOMAIN,whatsapp-girl-for-sex18xxx.pages.dev
 DOMAIN,whatsapp-group-girl18xxx.pages.dev
+DOMAIN,whatsapp-livesex.pages.dev
 DOMAIN,whatsapp-me-for-sex.pages.dev
 DOMAIN,whatsapp-random-hot-girl18xxx.pages.dev
 DOMAIN,whatsapp-sex-2ew.pages.dev
@@ -380488,7 +380337,6 @@ DOMAIN,whatsappdatingsex.pages.dev
 DOMAIN,whatsappfors3xxx.pages.dev
 DOMAIN,whatsappforsex33.pages.dev
 DOMAIN,whatsappforsex88.pages.dev
-DOMAIN,whatsappgroupsex.pages.dev
 DOMAIN,whatsappgroupsexs.pages.dev
 DOMAIN,whatsappgroupsexxxx.pages.dev
 DOMAIN,whatsappgroupsexxxxx.pages.dev
@@ -380518,6 +380366,7 @@ DOMAIN,whatsappsexx1.pages.dev
 DOMAIN,whatsappsexxx-2m3.pages.dev
 DOMAIN,whatsappsexxx-df2.pages.dev
 DOMAIN,whatsappsexxx243.pages.dev
+DOMAIN,whatsappsexxx34.pages.dev
 DOMAIN,whatsappsexxx872.pages.dev
 DOMAIN,whatsappsexxxnew18.pages.dev
 DOMAIN,whatsappsexxxx-5y6.pages.dev
@@ -381234,7 +381083,6 @@ DOMAIN,wifecumsluts.com
 DOMAIN,wifeexhibitionist.com
 DOMAIN,wifefilm.com
 DOMAIN,wifefreeporn.com
-DOMAIN,wifefuckbook.co.uk
 DOMAIN,wifefuckboy.com
 DOMAIN,wifefucking.com
 DOMAIN,wifefuckingboy.com
@@ -381720,7 +381568,6 @@ DOMAIN,wilfrid.org
 DOMAIN,wilie.nl
 DOMAIN,will-camsex.de
 DOMAIN,will1314.com
-DOMAIN,willafordinc.com
 DOMAIN,willcai.com.cn
 DOMAIN,willdich.biz
 DOMAIN,willdosoft.com
@@ -382368,7 +382215,6 @@ DOMAIN,wnflb2023.com
 DOMAIN,wnflb99.com
 DOMAIN,wnhds.com
 DOMAIN,wnhqz.cn
-DOMAIN,wnidt.com
 DOMAIN,wniedu.com
 DOMAIN,wnlink.ru
 DOMAIN,wnlmed.com
@@ -382855,7 +382701,6 @@ DOMAIN,worldofsexualperversions.com
 DOMAIN,worldofsexualpleasures.com
 DOMAIN,worldofsexualtaboos.com
 DOMAIN,worldoftg.com
-DOMAIN,worldoftit.com
 DOMAIN,worldofvaira.com
 DOMAIN,worldofvoyeurs.net
 DOMAIN,worldofwebcams.net
@@ -383085,7 +382930,6 @@ DOMAIN,wowotb.cfd
 DOMAIN,wowporn.beauty
 DOMAIN,wowporn.com
 DOMAIN,wowporn.help
-DOMAIN,wowporn.lol
 DOMAIN,wowporn.media
 DOMAIN,wowporn.mom
 DOMAIN,wowporn.online
@@ -383953,6 +383797,7 @@ DOMAIN,wvtddz.cn
 DOMAIN,wvuxtl.cn
 DOMAIN,wvvv-ledger.com
 DOMAIN,wvvwlivejasmin.com
+DOMAIN,wvw-xvideos.com
 DOMAIN,wvw.chastnoeporno.top
 DOMAIN,wvw.incestporno.club
 DOMAIN,wvw.porno-zhena.club
@@ -384005,7 +383850,6 @@ DOMAIN,wwtube8.com
 DOMAIN,wwv.razvratnoe.pro
 DOMAIN,wwv6.com
 DOMAIN,wwvav0ic.cyou
-DOMAIN,wwvgadm0.work
 DOMAIN,www-0011.top
 DOMAIN,www-011818.com
 DOMAIN,www-4466666.com
@@ -385231,6 +385075,7 @@ DOMAIN,xamvn18.blog
 DOMAIN,xana.xxx
 DOMAIN,xanaduonline.com
 DOMAIN,xanaflix.com
+DOMAIN,xanal.xyz
 DOMAIN,xanasexy.com
 DOMAIN,xand-resin.com
 DOMAIN,xandxxporn.com
@@ -385547,6 +385392,7 @@ DOMAIN,xbnat.com
 DOMAIN,xbndjkwlw.com.cn
 DOMAIN,xbod.com
 DOMAIN,xbokep.cam
+DOMAIN,xbokepalam.com
 DOMAIN,xbokepfb.com.de
 DOMAIN,xbokepindoh.com
 DOMAIN,xbokepindoh.net
@@ -385627,6 +385473,7 @@ DOMAIN,xbxx.click
 DOMAIN,xbxx.club
 DOMAIN,xbxx.lat
 DOMAIN,xbxx.link
+DOMAIN,xbxx.me
 DOMAIN,xbxxx.org
 DOMAIN,xbyc.cc
 DOMAIN,xbyhlw.com
@@ -386169,6 +386016,7 @@ DOMAIN,xemphimsex.one
 DOMAIN,xemphimsex.pro
 DOMAIN,xemphimsex.us
 DOMAIN,xemphimsex.vip
+DOMAIN,xemphimsex.xyz
 DOMAIN,xemphimsex1.com
 DOMAIN,xemphimsex1s.net
 DOMAIN,xemphimsex2k.com
@@ -386179,6 +386027,7 @@ DOMAIN,xemphimsexhay.com
 DOMAIN,xemphimsexhd.org
 DOMAIN,xemphimsexnhatban.xyz
 DOMAIN,xemphimsexx.me
+DOMAIN,xemphimsexx.xyz
 DOMAIN,xemphimsexxx.blog
 DOMAIN,xemphimsexxx.com
 DOMAIN,xemphimvl.com
@@ -387163,6 +387012,7 @@ DOMAIN,xhookups.com
 DOMAIN,xhopen.com
 DOMAIN,xhornet.com
 DOMAIN,xhorno.com
+DOMAIN,xhorno.xyz
 DOMAIN,xhorseporn.com
 DOMAIN,xhostgirl.com
 DOMAIN,xhosty.com
@@ -387806,7 +387656,6 @@ DOMAIN,xing.ru
 DOMAIN,xing158.cn
 DOMAIN,xing18tvodstf.cc
 DOMAIN,xing343.com
-DOMAIN,xing66.life
 DOMAIN,xing790.com
 DOMAIN,xing791.com
 DOMAIN,xing8.me
@@ -388448,7 +388297,6 @@ DOMAIN,xkomics.com
 DOMAIN,xkontakt18.com
 DOMAIN,xkorean.cam
 DOMAIN,xkorean.com
-DOMAIN,xkorean.vip
 DOMAIN,xkoreanhub.com
 DOMAIN,xkoreantv.com
 DOMAIN,xkoreanvids.com
@@ -388535,7 +388383,6 @@ DOMAIN,xlfreetube.com
 DOMAIN,xlfutanari.com
 DOMAIN,xlgaytube.com
 DOMAIN,xlgaytube.tv
-DOMAIN,xlgazongas.com
 DOMAIN,xlgirls.com
 DOMAIN,xlgirls.fr
 DOMAIN,xlgirls.me
@@ -388674,15 +388521,12 @@ DOMAIN,xlji.com
 DOMAIN,xljxx.buzz
 DOMAIN,xljy-edu.com
 DOMAIN,xlk702.sbs
-DOMAIN,xlknockers.com
 DOMAIN,xlkuai.com
 DOMAIN,xll500.sbs
 DOMAIN,xll553.sbs
 DOMAIN,xllsu.cn
 DOMAIN,xlm524.sbs
-DOMAIN,xlmelons.com
 DOMAIN,xlmm0530.com
-DOMAIN,xlmounds.com
 DOMAIN,xlnb668.com.cn
 DOMAIN,xlnlr.cn
 DOMAIN,xlnubiles.com
@@ -389224,7 +389068,6 @@ DOMAIN,xmilfmovies.com
 DOMAIN,xmilfpics.com
 DOMAIN,xmilfporn.com
 DOMAIN,xmilfs.net
-DOMAIN,xmilfs.xyz
 DOMAIN,xmilftoon.com
 DOMAIN,xmilfvideox.com
 DOMAIN,xminsight.co.uk
@@ -389308,6 +389151,7 @@ DOMAIN,xmov.mobi
 DOMAIN,xmovie.bond
 DOMAIN,xmovie.click
 DOMAIN,xmovie.icu
+DOMAIN,xmovie.pro
 DOMAIN,xmovie.yachts
 DOMAIN,xmovienetwork.com
 DOMAIN,xmovieporn.com
@@ -390620,7 +390464,6 @@ DOMAIN,xnxxxx.xyz
 DOMAIN,xnxxxx.yachts
 DOMAIN,xnxxxxarab.cloud
 DOMAIN,xnxxxxarab.fun
-DOMAIN,xnxxxxarab.gay
 DOMAIN,xnxxxxarab.hair
 DOMAIN,xnxxxxarab.life
 DOMAIN,xnxxxxarab.live
@@ -391411,7 +391254,6 @@ DOMAIN,xqdesign.ru
 DOMAIN,xqe023.sbs
 DOMAIN,xqe657.sbs
 DOMAIN,xqf207.sbs
-DOMAIN,xqhutumqkrtxvjoymaogexyyee.com
 DOMAIN,xqi227.sbs
 DOMAIN,xqjiaofei.com
 DOMAIN,xql174.sbs
@@ -392045,7 +391887,6 @@ DOMAIN,xtube.tel
 DOMAIN,xtube.wtf
 DOMAIN,xtube.xxx
 DOMAIN,xtube24.me
-DOMAIN,xtube6.com
 DOMAIN,xtube69.xyz
 DOMAIN,xtubebbw.com
 DOMAIN,xtubebdsm.com
@@ -392907,7 +392748,6 @@ DOMAIN,xvideosindia.net
 DOMAIN,xvideosindian.net
 DOMAIN,xvideosit.com
 DOMAIN,xvideosjingxiang.com
-DOMAIN,xvideosjp.one
 DOMAIN,xvideoskan.com
 DOMAIN,xvideoskostenlos.net
 DOMAIN,xvideoslesbian.com
@@ -393032,7 +392872,6 @@ DOMAIN,xvideosworks.com.es
 DOMAIN,xvideosws.com
 DOMAIN,xvideosx.com.br
 DOMAIN,xvideosx.live
-DOMAIN,xvideosx.mobi
 DOMAIN,xvideosx.one
 DOMAIN,xvideosx.org
 DOMAIN,xvideosx.pro
@@ -393441,7 +393280,6 @@ DOMAIN,xxav2299.sbs
 DOMAIN,xxav2305.sbs
 DOMAIN,xxav2306.sbs
 DOMAIN,xxav2309.sbs
-DOMAIN,xxav2312.sbs
 DOMAIN,xxav2313.sbs
 DOMAIN,xxav8.xyz
 DOMAIN,xxavs.com
@@ -393883,7 +393721,6 @@ DOMAIN,xxoohub.com
 DOMAIN,xxooo7.com
 DOMAIN,xxooo9.com
 DOMAIN,xxoosp5.top
-DOMAIN,xxoox59.org
 DOMAIN,xxoox62.org
 DOMAIN,xxp858.top
 DOMAIN,xxphe.com
@@ -394524,7 +394361,6 @@ DOMAIN,xxx-sodokbang-xxx.pages.dev
 DOMAIN,xxx-spacegirls.com
 DOMAIN,xxx-spb.com
 DOMAIN,xxx-spy-cams.com
-DOMAIN,xxx-squirting.com
 DOMAIN,xxx-stop.com
 DOMAIN,xxx-stranica.com
 DOMAIN,xxx-style.com
@@ -394586,7 +394422,6 @@ DOMAIN,xxx-video-indian.com
 DOMAIN,xxx-video-porn.com
 DOMAIN,xxx-video.cc
 DOMAIN,xxx-video.click
-DOMAIN,xxx-video.help
 DOMAIN,xxx-video.live
 DOMAIN,xxx-video.mobi
 DOMAIN,xxx-video.net
@@ -394613,7 +394448,6 @@ DOMAIN,xxx-videos.tv
 DOMAIN,xxx-videos.xyz
 DOMAIN,xxx-videosex.com
 DOMAIN,xxx-vids.pro
-DOMAIN,xxx-vids.wtf
 DOMAIN,xxx-vidz.com
 DOMAIN,xxx-vintage.com
 DOMAIN,xxx-vn.net
@@ -394646,6 +394480,7 @@ DOMAIN,xxx.cam
 DOMAIN,xxx.co.hu
 DOMAIN,xxx.co.it
 DOMAIN,xxx.com
+DOMAIN,xxx.com.py
 DOMAIN,xxx.com.ro
 DOMAIN,xxx.de
 DOMAIN,xxx.diet
@@ -395438,7 +395273,6 @@ DOMAIN,xxxclassic.net
 DOMAIN,xxxclassicmovies.com
 DOMAIN,xxxclick.click
 DOMAIN,xxxclick.live
-DOMAIN,xxxclip.wtf
 DOMAIN,xxxclip4sale.com
 DOMAIN,xxxcliphunter.com
 DOMAIN,xxxclippies.com
@@ -395952,7 +395786,6 @@ DOMAIN,xxxgame.org
 DOMAIN,xxxgameplaycams.com
 DOMAIN,xxxgamer.net
 DOMAIN,xxxgamercams.com
-DOMAIN,xxxgames.biz
 DOMAIN,xxxgames.club
 DOMAIN,xxxgames.co.uk
 DOMAIN,xxxgames.games
@@ -396143,6 +395976,7 @@ DOMAIN,xxxhdporn.pics
 DOMAIN,xxxhdporn.space
 DOMAIN,xxxhdporn.su
 DOMAIN,xxxhdporn.top
+DOMAIN,xxxhdporno.net
 DOMAIN,xxxhdporno.site
 DOMAIN,xxxhdporntv.com
 DOMAIN,xxxhdpussy.com
@@ -396561,7 +396395,6 @@ DOMAIN,xxxlips.com
 DOMAIN,xxxlipsblog.com
 DOMAIN,xxxlist.top
 DOMAIN,xxxlist.win
-DOMAIN,xxxlist.xyz
 DOMAIN,xxxlisting.top
 DOMAIN,xxxlive.ca
 DOMAIN,xxxlive.cam
@@ -396691,7 +396524,6 @@ DOMAIN,xxxmature.net
 DOMAIN,xxxmature.org
 DOMAIN,xxxmature.pro
 DOMAIN,xxxmature.sbs
-DOMAIN,xxxmature.xyz
 DOMAIN,xxxmaturechannel.net
 DOMAIN,xxxmatureclips.com
 DOMAIN,xxxmatureee.com
@@ -397202,7 +397034,6 @@ DOMAIN,xxxphotos.cyou
 DOMAIN,xxxphotos.icu
 DOMAIN,xxxpic.pictures
 DOMAIN,xxxpic.xyz
-DOMAIN,xxxpic3.xxxgirl.online
 DOMAIN,xxxpicplanet.com
 DOMAIN,xxxpics.biz
 DOMAIN,xxxpics.de
@@ -397213,6 +397044,7 @@ DOMAIN,xxxpics.pro
 DOMAIN,xxxpics.su
 DOMAIN,xxxpics.vip
 DOMAIN,xxxpics4sale.com
+DOMAIN,xxxpics4you.com
 DOMAIN,xxxpicsfree.com
 DOMAIN,xxxpicsgirls.com
 DOMAIN,xxxpicshub.com
@@ -397986,7 +397818,6 @@ DOMAIN,xxxteen.name
 DOMAIN,xxxteen.net
 DOMAIN,xxxteen.nl
 DOMAIN,xxxteen.org
-DOMAIN,xxxteen.win
 DOMAIN,xxxteenamateurs.com
 DOMAIN,xxxteenanal.net
 DOMAIN,xxxteencam.com
@@ -399163,7 +398994,6 @@ DOMAIN,xxxxxxelarab.homes
 DOMAIN,xxxxxxelarab.ink
 DOMAIN,xxxxxxelarab.life
 DOMAIN,xxxxxxelarab.live
-DOMAIN,xxxxxxelarab.lol
 DOMAIN,xxxxxxelarab.makeup
 DOMAIN,xxxxxxelarab.mom
 DOMAIN,xxxxxxelarab.motorcycles
@@ -401146,7 +400976,6 @@ DOMAIN,yestaboo.com
 DOMAIN,yestake.me
 DOMAIN,yestarlink.com
 DOMAIN,yesteenfuck.com
-DOMAIN,yesteengirls.com
 DOMAIN,yesterdayeconomy.com
 DOMAIN,yestergays.com
 DOMAIN,yestoporn.com
@@ -401424,7 +401253,6 @@ DOMAIN,yhrczp.com.cn
 DOMAIN,yhs44.com
 DOMAIN,yhs691.sbs
 DOMAIN,yhsc68.com
-DOMAIN,yhsgrfacebook.com
 DOMAIN,yhshipin.com
 DOMAIN,yhshunyi.com
 DOMAIN,yhsjw.cc
@@ -402131,7 +401959,6 @@ DOMAIN,yl80888.com
 DOMAIN,yl832.sbs
 DOMAIN,yl854.sbs
 DOMAIN,ylb675.sbs
-DOMAIN,ylbzorn.top
 DOMAIN,ylc748.sbs
 DOMAIN,ylcbztly.com
 DOMAIN,ylcmcvbw.shop
@@ -402139,7 +401966,6 @@ DOMAIN,ylcteknikservis.com
 DOMAIN,yldao.fit
 DOMAIN,yldmanhua.cc
 DOMAIN,yldmdyqs.xyz
-DOMAIN,yldoll.com
 DOMAIN,yldqgd.com
 DOMAIN,yldvr.com
 DOMAIN,yledunet.com
@@ -402829,7 +402655,6 @@ DOMAIN,youncensored.com
 DOMAIN,youneedfreeporn.com
 DOMAIN,younengedu.com
 DOMAIN,younewporn.com
-DOMAIN,young-adult.com
 DOMAIN,young-amat.com
 DOMAIN,young-amateur-girl.com
 DOMAIN,young-amateur-movies.com
@@ -403239,6 +403064,7 @@ DOMAIN,youngsmalltits.com
 DOMAIN,youngsnatch.com
 DOMAIN,youngstraightboys.com
 DOMAIN,youngstuds.com
+DOMAIN,youngswingersweek.com
 DOMAIN,youngtabooporn.com
 DOMAIN,youngtabs.com
 DOMAIN,youngteen.me
@@ -403291,7 +403117,6 @@ DOMAIN,youngwebcams.com
 DOMAIN,youngwebcamwhores.com
 DOMAIN,youngwebteens.com
 DOMAIN,youngwomenlookingformen.com
-DOMAIN,youngxxx.icu
 DOMAIN,youngxxx.tv
 DOMAIN,youngxxx.vip
 DOMAIN,youngxxx18.com
@@ -403402,7 +403227,6 @@ DOMAIN,youporn.mobi
 DOMAIN,youporn.movie
 DOMAIN,youporn.name
 DOMAIN,youporn.ninja
-DOMAIN,youporn.nu
 DOMAIN,youporn.one
 DOMAIN,youporn.pages.dev
 DOMAIN,youporn.plus
@@ -404761,7 +404585,6 @@ DOMAIN,yueyan369.com
 DOMAIN,yueyueqc.com
 DOMAIN,yuezhush.com
 DOMAIN,yuezuba.com.cn
-DOMAIN,yufap.com
 DOMAIN,yufei-wang.com
 DOMAIN,yufengsc.com.cn
 DOMAIN,yuffffk.com.cn
@@ -405168,7 +404991,6 @@ DOMAIN,yuuvutu.com
 DOMAIN,yuv109edu.com
 DOMAIN,yuv716.sbs
 DOMAIN,yuvaaedu.com
-DOMAIN,yuvideos.com
 DOMAIN,yuvutu.club
 DOMAIN,yuvutu.co
 DOMAIN,yuvutu.com
@@ -406110,7 +405932,6 @@ DOMAIN,zasony.ru
 DOMAIN,zastonjsex.com
 DOMAIN,zastryala.com
 DOMAIN,zastryala.net
-DOMAIN,zasunul.vip
 DOMAIN,zasvetfoto.com
 DOMAIN,zasygs.cn
 DOMAIN,zator.com.cn
@@ -406547,7 +406368,10 @@ DOMAIN,zennoa.com
 DOMAIN,zenophobic.ca
 DOMAIN,zenotimes.com
 DOMAIN,zenporn.com
+DOMAIN,zenra-movie-annex.com
+DOMAIN,zenra.com
 DOMAIN,zenra.net
+DOMAIN,zenra.org
 DOMAIN,zenrymmj.cc
 DOMAIN,zenshuu.com
 DOMAIN,zenslut.com
@@ -407330,7 +407154,6 @@ DOMAIN,zhjg518.com
 DOMAIN,zhjiazhao.com
 DOMAIN,zhjiedu.com
 DOMAIN,zhjtsoft.com
-DOMAIN,zhjzw.cn
 DOMAIN,zhk-edu.com
 DOMAIN,zhkjtec.com
 DOMAIN,zhlednito.cz
@@ -408346,6 +408169,7 @@ DOMAIN,zobekir.net
 DOMAIN,zobesex.com
 DOMAIN,zobesex.online
 DOMAIN,zobokep.com
+DOMAIN,zobrawy.com
 DOMAIN,zobry.site
 DOMAIN,zocbjw.com.cn
 DOMAIN,zoccole.net
